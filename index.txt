@@ -1,0 +1,29 @@
+id: bhagavad-gita
+kind: granth
+deity: krishna
+lang: sa
+language: Sanskrit
+region: All of India
+title: श्रीमद्भगवद्गीता | Shrimad Bhagavad Gita | Krishna’s teaching to Arjun on the field of Kurukshetra
+author: Ved Vyas, in the Bhishma Parva of the Mahabharata | attributed
+occasions: gita-jayanti, daily
+when: Many read a chapter a day, recite the whole Gita on Gita Jayanti, and return to it all their lives.
+notes: 700 verses in 18 chapters. Chapters are added one at a time, each with the Sanskrit, a singable Roman version and an English meaning for every verse.
+chapter: 1 | अर्जुनविषादयोग | Arjun Vishad Yog | Arjun’s despair | 47
+chapter: 2 | सांख्ययोग | Sankhya Yog | The yoga of knowledge | 72
+chapter: 3 | कर्मयोग | Karma Yog | The yoga of action | 43
+chapter: 4 | ज्ञानकर्मसंन्यासयोग | Gyan Karma Sanyas Yog | Knowledge and the renunciation of action | 42
+chapter: 5 | कर्मसंन्यासयोग | Karma Sanyas Yog | The yoga of renunciation | 29
+chapter: 6 | आत्मसंयमयोग | Atma Sanyam Yog | The yoga of meditation | 47
+chapter: 7 | ज्ञानविज्ञानयोग | Gyan Vigyan Yog | Knowledge and realisation | 30
+chapter: 8 | अक्षरब्रह्मयोग | Akshar Brahma Yog | The imperishable Brahman | 28
+chapter: 9 | राजविद्याराजगुह्ययोग | Rajvidya Rajguhya Yog | The royal knowledge and the royal secret | 34
+chapter: 10 | विभूतियोग | Vibhuti Yog | The divine glories | 42
+chapter: 11 | विश्वरूपदर्शनयोग | Vishwaroop Darshan Yog | The vision of the cosmic form | 55
+chapter: 12 | भक्तियोग | Bhakti Yog | The yoga of devotion | 20
+chapter: 13 | क्षेत्रक्षेत्रज्ञविभागयोग | Kshetra Kshetragya Vibhag Yog | The field and the knower of the field | 34
+chapter: 14 | गुणत्रयविभागयोग | Gunatraya Vibhag Yog | The three gunas | 27
+chapter: 15 | पुरुषोत्तमयोग | Purushottam Yog | The Supreme Person | 20
+chapter: 16 | दैवासुरसम्पद्विभागयोग | Daivasur Sampad Vibhag Yog | The divine and the demonic | 24
+chapter: 17 | श्रद्धात्रयविभागयोग | Shraddhatraya Vibhag Yog | The three kinds of faith | 28
+chapter: 18 | मोक्षसंन्यासयोग | Moksha Sanyas Yog | Freedom through renunciation | 78

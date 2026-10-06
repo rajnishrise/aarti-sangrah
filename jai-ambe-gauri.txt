@@ -1,0 +1,103 @@
+id: jai-ambe-gauri
+kind: aarti
+deity: durga
+lang: hi
+language: Hindi
+region: North and West India
+title: जय अम्बे गौरी | Jai Ambe Gauri | Aarti of Maa Durga
+author: Traditional. The closing verse names Swami Shivanand. | attributed
+occasions: navratri, dussehra, daily
+when: The central aarti of Navratri across North India, sung morning and evening through the nine nights, and on Tuesdays and Fridays.
+notes: Wording varies between editions: “हरि ब्रह्मा शिवरी” or “शिवजी” in the refrain, and the four-arms line appears with either “वरमुद्रा धारी” or “खड्ग खप्पर धारी”.
+refrain-first: yes
+
+--- refrain
+जय अम्बे गौरी, मैया जय श्यामा गौरी।
+तुमको निशदिन ध्यावत, हरि ब्रह्मा शिवरी॥
+~ Jai Ambe Gauri, Maiya jai Shyama Gauri,
+~ Tumko nishdin dhyavat, Hari Brahma Shivri.
+= Glory to Mother Ambe, to Gauri, to Shyama! Vishnu, Brahma and Shiv meditate on you day and night.
+
+---
+माँग सिन्दूर विराजत, टीको मृगमद को।
+उज्ज्वल से दोउ नैना, चन्द्रवदन नीको॥
+~ Maang sindoor virajat, teeko mrigmad ko,
+~ Ujjwal se dou naina, chandravadan neeko.
+= Vermilion graces the parting of your hair, with a tilak of musk; your eyes are bright and your face is lovely as the moon.
+
+---
+कनक समान कलेवर, रक्ताम्बर राजै।
+रक्तपुष्प गल माला, कण्ठन पर साजै॥
+~ Kanak samaan kalevar, raktambar raajai,
+~ Raktapushp gal mala, kanthan par saajai.
+= Your form shines like gold, dressed in red, and a garland of red flowers adorns your neck.
+
+---
+केहरि वाहन राजत, खड्ग खप्पर धारी।
+सुर नर मुनि जन सेवत, तिनके दुखहारी॥
+~ Kehari vahan raajat, khadg khappar dhari,
+~ Sur nar muni jan sevat, tinke dukhhari.
+= You ride the lion, holding sword and skull-bowl. Gods, humans and sages serve you, and you take away their sorrows.
+
+---
+कानन कुण्डल शोभित, नासाग्रे मोती।
+कोटिक चन्द्र दिवाकर, सम राजत ज्योती॥
+~ Kaanan kundal shobhit, nasagre moti,
+~ Kotik chandra divakar, sam raajat jyoti.
+= Earrings shine in your ears and a pearl at your nose; your radiance equals millions of moons and suns.
+
+---
+शुम्भ निशुम्भ बिदारे, महिषासुर घाती।
+धूम्र विलोचन नैना, निशदिन मदमाती॥
+~ Shumbh Nishumbh bidaare, Mahishasur ghaati,
+~ Dhoomra vilochan naina, nishdin madmaati.
+= You tore apart Shumbh and Nishumbh and slew Mahishasur; you struck down Dhumralochan, your eyes ablaze with divine fervour day and night.
+
+---
+चण्ड मुण्ड संहारे, शोणित बीज हरे।
+मधु कैटभ दोउ मारे, सुर भयहीन करे॥
+~ Chand Mund sanhaare, shonit beej hare,
+~ Madhu Kaitabh dou maare, sur bhayheen kare.
+= You destroyed Chand and Mund and vanquished Raktabeej; you slew Madhu and Kaitabh and freed the gods from fear.
+
+---
+ब्रह्माणी रुद्राणी, तुम कमला रानी।
+आगम निगम बखानी, तुम शिव पटरानी॥
+~ Brahmani Rudrani, tum Kamla Rani,
+~ Aagam nigam bakhani, tum Shiv patrani.
+= You are Brahmani and Rudrani, and Queen Kamala; the scriptures sing your praise, chief queen of Shiv.
+
+---
+चौंसठ योगिनी मंगल गावत, नृत्य करत भैरों।
+बाजत ताल मृदंगा, अरु बाजत डमरू॥
+~ Chaunsath yogini mangal gaavat, nritya karat Bhairon,
+~ Baajat taal mridanga, aru baajat damru.
+= The sixty-four yoginis sing auspicious songs and Bhairav dances; cymbals and drums resound, and the damru too.
+
+---
+तुम ही जग की माता, तुम ही हो भरता।
+भक्तन की दुख हरता, सुख सम्पति करता॥
+~ Tum hi jag ki mata, tum hi ho bharta,
+~ Bhaktan ki dukh harta, sukh sampati karta.
+= You alone are the mother of the world and its sustainer; you remove your devotees’ sorrows and bring them happiness and plenty.
+
+---
+भुजा चार अति शोभित, वरमुद्रा धारी।
+मनवांछित फल पावत, सेवत नर नारी॥
+~ Bhuja chaar ati shobhit, varmudra dhari,
+~ Manvanchhit phal paavat, sevat nar nari.
+= Your four arms are radiant, one raised in blessing; the men and women who serve you receive what their hearts desire.
+
+---
+कंचन थाल विराजत, अगर कपूर बाती।
+श्रीमालकेतु में राजत, कोटि रतन ज्योती॥
+~ Kanchan thaal virajat, agar kapoor baati,
+~ Shrimalketu mein raajat, koti ratan jyoti.
+= A golden plate is set with aloe-wood, camphor and wicks, and the flames shine like countless jewels.
+
+---
+श्री अम्बेजी की आरती, जो कोई नर गावे।
+कहत शिवानन्द स्वामी, सुख सम्पत्ति पावे॥
+~ Shri Ambeji ki aarti, jo koi nar gaave,
+~ Kahat Shivanand Swami, sukh sampatti paave.
+= Whoever sings this aarti of Mother Ambe, says Swami Shivanand, gains happiness and prosperity.

@@ -1,0 +1,22 @@
+id: asato-ma-sadgamaya
+kind: mantra
+form: Shanti mantra
+deity: ishvar
+lang: sa
+language: Sanskrit (Vedic)
+region: All of India
+title: असतो मा सद्गमय | Asato Ma Sadgamaya | From darkness to light
+author: Brihadaranyaka Upanishad 1.3.28 | known
+occasions: morning, daily
+when: Recited at the start of study, at school assemblies and at the opening of gatherings.
+
+---
+ॐ असतो मा सद्गमय।
+तमसो मा ज्योतिर्गमय।
+मृत्योर्मा अमृतं गमय।
+ॐ शान्तिः शान्तिः शान्तिः॥
+~ Om asato ma sadgamaya,
+~ Tamaso ma jyotirgamaya,
+~ Mrityorma amritam gamaya,
+~ Om shantih shantih shantih.
+= Lead me from the unreal to the real. Lead me from darkness to light. Lead me from death to immortality. Om, peace, peace, peace.

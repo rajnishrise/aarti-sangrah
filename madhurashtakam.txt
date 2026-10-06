@@ -1,0 +1,68 @@
+id: madhurashtakam
+kind: stotra
+form: Ashtakam
+deity: krishna
+lang: sa
+language: Sanskrit
+region: All of India, especially the Pushti Marg tradition
+title: मधुराष्टकम् | Madhurashtakam (Adharam Madhuram) | Eight verses on Krishna’s sweetness
+author: Shri Vallabhacharya, around 1500 | attributed
+occasions: janmashtami, holi, daily
+when: Sung in Krishna worship, on Janmashtami and at satsangs. Its simple repeating pattern makes it easy for children to learn.
+notes: Every verse ends “मधुराधिपतेरखिलं मधुरम्”: everything about the Lord of sweetness is sweet.
+
+---
+अधरं मधुरं वदनं मधुरं नयनं मधुरं हसितं मधुरम्।
+हृदयं मधुरं गमनं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Adharam madhuram vadanam madhuram, nayanam madhuram hasitam madhuram,
+~ Hridayam madhuram gamanam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet are his lips, sweet his face, sweet his eyes, sweet his smile; sweet his heart, sweet his walk. Everything about the Lord of sweetness is sweet.
+
+---
+वचनं मधुरं चरितं मधुरं वसनं मधुरं वलितं मधुरम्।
+चलितं मधुरं भ्रमितं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Vachanam madhuram charitam madhuram, vasanam madhuram valitam madhuram,
+~ Chalitam madhuram bhramitam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet are his words, his deeds, his clothes and the way he turns; sweet his movements and his wanderings. Everything about the Lord of sweetness is sweet.
+
+---
+वेणुर्मधुरो रेणुर्मधुरः पाणिर्मधुरः पादौ मधुरौ।
+नृत्यं मधुरं सख्यं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Venurmadhuro renurmadhurah, panirmadhurah padau madhurau,
+~ Nrityam madhuram sakhyam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet is his flute, sweet the dust of his feet; sweet his hands, sweet his feet; sweet his dance and his friendship. Everything about the Lord of sweetness is sweet.
+
+---
+गीतं मधुरं पीतं मधुरं भुक्तं मधुरं सुप्तं मधुरम्।
+रूपं मधुरं तिलकं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Gitam madhuram pitam madhuram, bhuktam madhuram suptam madhuram,
+~ Roopam madhuram tilakam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet is his singing, his drinking, his eating and his sleep; sweet his form, sweet the tilak on his brow. Everything about the Lord of sweetness is sweet.
+
+---
+करणं मधुरं तरणं मधुरं हरणं मधुरं रमणं मधुरम्।
+वमितं मधुरं शमितं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Karanam madhuram taranam madhuram, haranam madhuram ramanam madhuram,
+~ Vamitam madhuram shamitam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet are his doings, his rescues, the way he steals hearts and his play; sweet what he gives away and his calm. Everything about the Lord of sweetness is sweet.
+
+---
+गुञ्जा मधुरा माला मधुरा यमुना मधुरा वीची मधुरा।
+सलिलं मधुरं कमलं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Gunja madhura mala madhura, Yamuna madhura vichi madhura,
+~ Salilam madhuram kamalam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet is his necklace of gunja berries, sweet his garland; sweet the Yamuna and her ripples, sweet her water and her lotuses. Everything about the Lord of sweetness is sweet.
+
+---
+गोपी मधुरा लीला मधुरा युक्तं मधुरं मुक्तं मधुरम्।
+दृष्टं मधुरं शिष्टं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Gopi madhura lila madhura, yuktam madhuram muktam madhuram,
+~ Drishtam madhuram shishtam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet are the gopis and his play with them; sweet his meetings and his partings; sweet his glance and his courtesy. Everything about the Lord of sweetness is sweet.
+
+---
+गोपा मधुरा गावो मधुरा यष्टिर्मधुरा सृष्टिर्मधुरा।
+दलितं मधुरं फलितं मधुरं मधुराधिपतेरखिलं मधुरम्॥
+~ Gopa madhura gavo madhura, yashtirmadhura srishtirmadhura,
+~ Dalitam madhuram phalitam madhuram, Madhuradhipaterakhilam madhuram.
+= Sweet are the cowherds, sweet the cows, sweet his staff and all creation; sweet what he crushes and what he brings to fruit. Everything about the Lord of sweetness is sweet.

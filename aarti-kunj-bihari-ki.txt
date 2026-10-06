@@ -1,0 +1,66 @@
+id: aarti-kunj-bihari-ki
+kind: aarti
+deity: krishna
+lang: hi
+language: Hindi
+dialect: Braj Bhasha
+region: North India, especially Braj
+title: आरती कुंजबिहारी की | Aarti Kunj Bihari Ki | Aarti of Shri Krishna
+author: Traditional | traditional
+occasions: janmashtami, govardhan, holi, daily
+when: The best-known Krishna aarti, sung on Janmashtami, at Braj festivals and in daily worship. “Giridhar” recalls Krishna lifting Govardhan hill, so it is also sung on Govardhan Puja.
+notes: Each stanza runs straight into “श्री गिरिधर कृष्णमुरारी की”. Wording varies, for example “टेर सुन दीन दुखारी की” or “दीन भिखारी की”.
+refrain-first: yes
+
+--- refrain
+आरती कुंजबिहारी की,
+श्री गिरिधर कृष्णमुरारी की॥
+~ Aarti Kunj Bihari ki,
+~ Shri Giridhar Krishna Murari ki.
+= The aarti of Kunj Bihari, who roams the groves of Vrindavan: of Shri Giridhar, Krishna, Murari.
+
+---
+गले में बैजंती माला, बजावै मुरली मधुर बाला।
+श्रवण में कुण्डल झलकाला, नंद के आनंद नंदलाला।
+गगन सम अंग कांति काली, राधिका चमक रही आली।
+लतन में ठाढ़े बनमाली; भ्रमर सी अलक, कस्तूरी तिलक,
+चंद्र सी झलक; ललित छवि श्यामा प्यारी की॥
+~ Gale mein Baijanti mala, bajavai murli madhur bala,
+~ Shravan mein kundal jhalkala, Nand ke anand Nandlala.
+~ Gagan sam ang kanti kali, Radhika chamak rahi aali,
+~ Latan mein thaadhe Banmali; bhramar si alak, kasturi tilak,
+~ Chandra si jhalak; lalit chhavi Shyama pyari ki.
+= He wears the Vaijayanti garland and plays his flute sweetly; earrings glitter in his ears, Nandlal, the joy of Nand. His body is dark as the sky and Radha shines beside him; he stands among the creepers with curls like black bees, a musk tilak and a moon-like glow — the lovely beauty of Shyama’s beloved.
+
+---
+कनकमय मोर मुकुट बिलसै, देवता दरसन को तरसैं।
+गगन सों सुमन रासि बरसै;
+बजे मुरचंग, मधुर मिरदंग, ग्वालिन संग;
+अतुल रति गोप कुमारी की॥
+~ Kanakmay mor mukut bilsai, devta darsan ko tarsain,
+~ Gagan son suman raasi barsai;
+~ Baje murchang, madhur mirdang, gwalin sang;
+~ Atul rati gop kumari ki.
+= A golden peacock-feather crown gleams; the gods long for a glimpse of him and flowers rain from the sky. The murchang and mridang play sweetly among the cowherd girls, whose love for him has no equal.
+
+---
+जहां ते प्रकट भई गंगा, कलुष कलि हारिणि श्रीगंगा।
+स्मरन ते होत मोह भंगा;
+बसी शिव सीस, जटा के बीच, हरै अघ कीच;
+चरन छवि श्रीबनवारी की॥
+~ Jahan te pragat bhai Ganga, kalush kali harini Shri Ganga,
+~ Smaran te hot moh bhanga;
+~ Basi Shiv sees, jata ke beech, harai agh keech;
+~ Charan chhavi Shri Banwari ki.
+= The beauty of Banwari’s feet, from which the Ganga flowed: Shri Ganga, who washes away the impurity of this age, whose remembrance breaks delusion, who lives in Shiv’s matted hair and cleanses the mire of sin.
+
+---
+चमकती उज्ज्वल तट रेनू, बज रही वृंदावन बेनू।
+चहुं दिसि गोपि ग्वाल धेनू;
+हंसत मृदु मंद, चांदनी चंद, कटत भव फंद;
+टेर सुन दीन दुखारी की॥
+~ Chamakti ujjwal tat renu, baj rahi Vrindavan benu,
+~ Chahun disi gopi gwal dhenu;
+~ Hansat mridu mand, chandni chand, katat bhav phand;
+~ Ter sun deen dukhari ki.
+= The bright sand of the riverbank glitters and the flute sounds through Vrindavan, with gopis, cowherds and cows all around. He smiles softly, like moonlight, cutting the bonds of worldly life, and hears the call of the humble and suffering.

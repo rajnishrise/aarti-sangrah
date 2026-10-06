@@ -1,0 +1,20 @@
+id: gayatri-mantra
+kind: mantra
+deity: surya
+lang: sa
+language: Sanskrit (Vedic)
+region: All of India
+title: गायत्री मंत्र | Gayatri Mantra | The Vedic prayer for a clear mind
+author: Rishi Vishwamitra, Rigveda 3.62.10 | attributed
+occasions: morning, daily
+when: Recited at sunrise and at the sandhya prayers, before study, and in japa of 108 repetitions.
+notes: The opening “ॐ भूर्भुवः स्वः” is added before the Rigvedic verse when it is chanted.
+
+---
+ॐ भूर्भुवः स्वः।
+तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि।
+धियो यो नः प्रचोदयात्॥
+~ Om bhur bhuvah svah,
+~ Tat savitur varenyam bhargo devasya dhimahi,
+~ Dhiyo yo nah prachodayat.
+= Om. Earth, sky and heaven. We meditate on the glorious light of the divine Savitr, the Sun, worthy of all worship. May he inspire and guide our minds.

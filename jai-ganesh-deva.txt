@@ -1,0 +1,47 @@
+id: jai-ganesh-deva
+kind: aarti
+deity: ganesh
+lang: hi
+language: Hindi
+region: North India
+title: जय गणेश जय गणेश देवा | Jai Ganesh Jai Ganesh Deva | Aarti of Shri Ganesh
+author: Traditional. The last verse names “Soor”, often read as Surdas. | attributed
+occasions: ganesh-chaturthi, diwali, satyanarayan, griha-pravesh, daily
+when: Sung first in most North Indian pujas, because Ganesh is worshipped before any other deity. Wednesday is his day.
+notes: Editions differ slightly, for example “माथे सिन्दूर सोहे” or “माथे पर तिलक सोहे”. Many families add the verse “दीनन की लाज रखो, शम्भु सुतकारी”.
+refrain-first: yes
+
+--- refrain
+जय गणेश जय गणेश, जय गणेश देवा।
+माता जाकी पार्वती, पिता महादेवा॥
+~ Jai Ganesh jai Ganesh, jai Ganesh Deva,
+~ Mata jaki Parvati, pita Mahadeva.
+= Glory to Lord Ganesh, whose mother is Parvati and whose father is Mahadev.
+
+---
+एक दन्त दयावन्त, चार भुजा धारी।
+माथे सिन्दूर सोहे, मूसे की सवारी॥
+~ Ek dant dayavant, chaar bhuja dhari,
+~ Mathe sindoor sohe, moose ki savari.
+= The one-tusked, compassionate lord with four arms. Vermilion graces his forehead and he rides a mouse.
+
+---
+पान चढ़े फूल चढ़े, और चढ़े मेवा।
+लड्डुअन का भोग लगे, सन्त करें सेवा॥
+~ Paan chadhe phool chadhe, aur chadhe meva,
+~ Ladduan ka bhog lage, sant karen seva.
+= Betel leaves, flowers and dry fruits are offered to him; laddus are his bhog, and the saintly serve him.
+
+---
+अंधन को आँख देत, कोढ़िन को काया।
+बाँझन को पुत्र देत, निर्धन को माया॥
+~ Andhan ko aankh det, kodhin ko kaya,
+~ Baanjhan ko putra det, nirdhan ko maya.
+= He gives sight to the blind, a healthy body to the afflicted, children to the childless and wealth to the poor.
+
+---
+‘सूर’ श्याम शरण आए, सफल कीजे सेवा।
+माता जाकी पार्वती, पिता महादेवा॥
+~ Soor Shyam sharan aaye, saphal keeje seva,
+~ Mata jaki Parvati, pita Mahadeva.
+= Soor, devotee of Shyam, has come to your refuge: make this worship fruitful, son of Parvati and Mahadev.

@@ -1,0 +1,68 @@
+id: om-jai-lakshmi-mata
+kind: aarti
+deity: lakshmi
+lang: hi
+language: Hindi
+region: North India
+title: ॐ जय लक्ष्मी माता | Om Jai Lakshmi Mata | Aarti of Maa Lakshmi
+author: Traditional | traditional
+occasions: diwali, dhanteras, daily
+when: The heart of Lakshmi Puja on Diwali evening, sung after the Ganesh aarti. Also sung on Fridays and on Dhanteras.
+notes: Sung to the same tune as Om Jai Jagdish Hare, whose pattern it follows. Some editions print “हरि विष्णु विधाता” in the refrain.
+refrain-first: yes
+
+--- refrain
+ॐ जय लक्ष्मी माता, मैया जय लक्ष्मी माता।
+तुमको निशदिन सेवत, हर विष्णु विधाता॥
+~ Om jai Lakshmi Mata, Maiya jai Lakshmi Mata,
+~ Tumko nishdin sevat, Har Vishnu Vidhata.
+= Om, glory to Mother Lakshmi! Shiv, Vishnu and Brahma worship you day and night.
+
+---
+उमा रमा ब्रह्माणी, तुम ही जग माता।
+सूर्य चन्द्रमा ध्यावत, नारद ऋषि गाता॥
+~ Uma Rama Brahmani, tum hi jag mata,
+~ Surya Chandrama dhyavat, Narad rishi gata.
+= You are Uma, Rama and Brahmani, mother of the world. The sun and moon meditate on you and the sage Narad sings your glory.
+
+---
+दुर्गा रूप निरंजनि, सुख सम्पत्ति दाता।
+जो कोई तुमको ध्यावत, ऋद्धि सिद्धि धन पाता॥
+~ Durga roop niranjani, sukh sampatti data,
+~ Jo koi tumko dhyavat, riddhi siddhi dhan pata.
+= Pure one in the form of Durga, giver of happiness and plenty: whoever meditates on you gains abundance, success and wealth.
+
+---
+तुम पाताल निवासिनि, तुम ही शुभदाता।
+कर्म प्रभाव प्रकाशिनि, भवनिधि की त्राता॥
+~ Tum Patal nivasini, tum hi shubhdata,
+~ Karm prabhav prakashini, bhavnidhi ki trata.
+= You dwell even in the netherworld, and you alone bestow good fortune. You bring the fruits of our deeds to light and carry us across the ocean of worldly life.
+
+---
+जिस घर में तुम रहतीं, सब सद्गुण आता।
+सब सम्भव हो जाता, मन नहीं घबराता॥
+~ Jis ghar mein tum rahtin, sab sadgun aata,
+~ Sab sambhav ho jata, man nahin ghabrata.
+= Every virtue comes to the home where you live; everything becomes possible and the mind is free of fear.
+
+---
+तुम बिन यज्ञ न होते, वस्त्र न कोई पाता।
+खान पान का वैभव, सब तुमसे आता॥
+~ Tum bin yagya na hote, vastra na koi pata,
+~ Khaan paan ka vaibhav, sab tumse aata.
+= Without you no sacrifice could be performed and no one would have clothing; all the richness of food and drink comes from you.
+
+---
+शुभ गुण मन्दिर सुन्दर, क्षीरोदधि जाता।
+रत्न चतुर्दश तुम बिन, कोई नहीं पाता॥
+~ Shubh gun mandir sundar, Kshirodadhi jata,
+~ Ratna chaturdash tum bin, koi nahin pata.
+= Beautiful temple of auspicious qualities, born of the ocean of milk: without you no one obtains the fourteen treasures.
+
+---
+महालक्ष्मी जी की आरती, जो कोई जन गाता।
+उर आनन्द समाता, पाप उतर जाता॥
+~ Mahalakshmi ji ki aarti, jo koi jan gata,
+~ Ur anand samata, paap utar jata.
+= Whoever sings this aarti of Mahalakshmi is filled with joy, and their sins fall away.

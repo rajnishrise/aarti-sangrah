@@ -1,0 +1,19 @@
+id: hare-krishna-mahamantra
+kind: mantra
+form: Mahamantra
+deity: krishna
+lang: sa
+language: Sanskrit
+region: All of India and worldwide
+title: हरे राम हरे कृष्ण | Hare Rama Hare Krishna | The mahamantra of sixteen names
+author: Kali-Santarana Upanishad | known
+occasions: janmashtami, daily
+when: Repeated in japa on a mala of 108 beads and sung in kirtan.
+notes: The Kali-Santarana Upanishad gives it beginning with “Hare Rama”; ISKCON and many kirtan groups begin with “Hare Krishna”.
+
+---
+हरे राम हरे राम राम राम हरे हरे।
+हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे॥
+~ Hare Rama Hare Rama, Rama Rama Hare Hare,
+~ Hare Krishna Hare Krishna, Krishna Krishna Hare Hare.
+= A call to the Lord through his names Hari, Ram and Krishna, repeated with love until the mind rests in them.

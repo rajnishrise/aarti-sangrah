@@ -1,0 +1,17 @@
+id: mahamrityunjaya-mantra
+kind: mantra
+deity: shiv
+lang: sa
+language: Sanskrit (Vedic)
+region: All of India
+title: महामृत्युंजय मंत्र | Mahamrityunjaya Mantra | The great prayer for victory over death
+author: Rishi Vasishtha, Rigveda 7.59.12 | attributed
+occasions: shravan, mahashivratri, daily
+when: Chanted for healing, protection and peace, especially when someone is unwell, often 108 times on a rudraksha mala.
+
+---
+ॐ त्र्यम्बकं यजामहे सुगन्धिं पुष्टिवर्धनम्।
+उर्वारुकमिव बन्धनान्मृत्योर्मुक्षीय माऽमृतात्॥
+~ Om tryambakam yajamahe sugandhim pushtivardhanam,
+~ Urvarukamiva bandhanan mrityor mukshiya ma’mritat.
+= We worship the three-eyed one, fragrant, who nourishes all beings. As a ripe cucumber is freed from its vine, may he free us from death, and never from immortality.

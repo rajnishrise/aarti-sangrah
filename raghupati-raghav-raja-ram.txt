@@ -1,0 +1,28 @@
+id: raghupati-raghav-raja-ram
+kind: bhajan
+form: Dhun
+deity: ram
+lang: hi
+language: Hindi
+region: All of India
+title: रघुपति राघव राजा राम | Raghupati Raghav Raja Ram | The Ram Dhun
+author: Traditional Ram Dhun. The version with “ईश्वर अल्लाह तेरो नाम” was sung at Mahatma Gandhi’s prayer meetings. | traditional
+occasions: ram-navami, daily
+when: Sung in kirtan, at prayer meetings and school assemblies, and on 2 October.
+notes: Gandhi’s version was sung on the Salt March of 1930. Older devotional forms repeat only the names of Sita and Ram.
+refrain-first: yes
+
+--- refrain
+रघुपति राघव राजाराम, पतित पावन सीताराम॥
+~ Raghupati Raghav Raja Ram, patit pavan Sitaram.
+= Lord of the Raghus, King Ram, with Sita: purifier of the fallen.
+
+---
+सीताराम सीताराम, भज प्यारे तू सीताराम॥
+~ Sitaram Sitaram, bhaj pyare tu Sitaram.
+= Sita-Ram, Sita-Ram: dear one, sing the names of Sita and Ram.
+
+---
+ईश्वर अल्लाह तेरो नाम, सब को सन्मति दे भगवान॥
+~ Ishwar Allah tero naam, sab ko sanmati de Bhagwan.
+= Ishwar and Allah are both your names. Lord, give everyone wisdom and goodwill.

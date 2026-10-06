@@ -1,0 +1,14 @@
+name: Check texts
+on: [push, pull_request]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate every text and rebuild the library
+        run: python tools/build.py
+      - name: Make sure data/library.js was rebuilt after editing content/
+        run: git diff --exit-code data/library.js || (echo "Run python tools/build.py and commit data/library.js" && exit 1)

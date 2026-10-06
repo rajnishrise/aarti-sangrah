@@ -1,0 +1,97 @@
+id: aarti-keejai-hanuman-lala-ki
+kind: aarti
+deity: hanuman
+lang: hi
+language: Hindi
+dialect: Awadhi
+region: North India
+title: आरती कीजै हनुमान लला की | Aarti Keejai Hanuman Lala Ki | Aarti of Shri Hanuman
+author: Traditional. Some versions close with a line naming Tulsidas. | traditional
+occasions: hanuman-jayanti, sundarkand, daily
+when: Sung on Tuesdays and Saturdays, on Hanuman Jayanti, and after Hanuman Chalisa or a Sundarkand path.
+notes: The order of the couplets varies between editions.
+refrain-first: yes
+
+--- refrain
+आरती कीजै हनुमान लला की।
+दुष्ट दलन रघुनाथ कला की॥
+~ Aarti keejai Hanuman Lala ki,
+~ Dusht dalan Raghunath kala ki.
+= Offer the aarti to beloved Hanuman, crusher of the wicked, a living ray of Raghunath’s power.
+
+---
+जाके बल से गिरिवर काँपे।
+रोग दोष जाके निकट न झाँके॥
+~ Jake bal se girivar kaanpe,
+~ Rog dosh jake nikat na jhaanke.
+= At his strength even great mountains tremble; disease and misfortune dare not come near him.
+
+---
+अंजनि पुत्र महा बलदायी।
+सन्तन के प्रभु सदा सहाई॥
+~ Anjani putra maha baldayi,
+~ Santan ke prabhu sada sahai.
+= Son of Anjani, giver of great strength, the lord who always helps the good.
+
+---
+दे बीरा रघुनाथ पठाए।
+लंका जारि सिया सुधि लाए॥
+~ De beera Raghunath pathaye,
+~ Lanka jaari Siya sudhi laye.
+= Raghunath handed him the betel-leaf token and sent him forth; he burned Lanka and brought back news of Sita.
+
+---
+लंका सो कोट समुद्र सी खाई।
+जात पवनसुत बार न लाई॥
+~ Lanka so kot samudra si khai,
+~ Jaat Pavansut baar na lai.
+= Lanka was a fortress with the ocean for a moat, yet the son of the Wind crossed it without a moment’s delay.
+
+---
+लंका जारि असुर संहारे।
+सियारामजी के काज सँवारे॥
+~ Lanka jaari asur sanhaare,
+~ Siyaramji ke kaaj sanvaare.
+= He set Lanka ablaze, destroyed the demons and accomplished the work of Sita and Ram.
+
+---
+लक्ष्मण मूर्छित पड़े सकारे।
+आनि संजीवन प्राण उबारे॥
+~ Lakshman moorchhit pade sakare,
+~ Aani sanjivan praan ubaare.
+= When Lakshman lay unconscious, he brought the life-giving herb by dawn and saved his life.
+
+---
+पैठि पाताल तोरि जम कारे।
+अहिरावण की भुजा उखारे॥
+~ Paithi patal tori jam kaare,
+~ Ahiravan ki bhuja ukhaare.
+= He entered the netherworld, broke through its deadly defences and tore off Ahiravan’s arms.
+
+---
+बाएँ भुजा असुर दल मारे।
+दाहिने भुजा सन्तजन तारे॥
+~ Baayen bhuja asur dal maare,
+~ Dahine bhuja santjan taare.
+= With his left arm he struck down the demon armies; with his right he rescued the good.
+
+---
+सुर नर मुनि आरती उतारें।
+जय जय जय हनुमान उचारें॥
+~ Sur nar muni aarti utaaren,
+~ Jai jai jai Hanuman uchaaren.
+= Gods, humans and sages wave the aarti to him, calling out “Victory, victory, victory to Hanuman!”
+
+---
+कंचन थार कपूर लौ छाई।
+आरती करत अंजना माई॥
+~ Kanchan thaar kapoor lau chhai,
+~ Aarti karat Anjana maai.
+= With the camphor flame glowing on a golden plate, Mother Anjana herself performs his aarti.
+
+---
+जो हनुमानजी की आरती गावे।
+बसि बैकुण्ठ परमपद पावे॥
+~ Jo Hanumanji ki aarti gaave,
+~ Basi Baikunth parampad paave.
+= Whoever sings Hanuman’s aarti dwells in Vaikunth and attains the highest state.

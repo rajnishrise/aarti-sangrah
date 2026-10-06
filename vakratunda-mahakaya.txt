@@ -1,0 +1,18 @@
+id: vakratunda-mahakaya
+kind: mantra
+form: Shloka
+deity: ganesh
+lang: sa
+language: Sanskrit
+region: All of India
+title: वक्रतुण्ड महाकाय | Vakratunda Mahakaya | Prayer to Ganesh before any work
+author: Traditional Sanskrit shloka | traditional
+occasions: morning, ganesh-chaturthi, daily
+when: Said before starting any work, journey, exam or puja, so that it goes ahead without obstacles.
+
+---
+वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।
+निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥
+~ Vakratunda mahakaya suryakoti samaprabha,
+~ Nirvighnam kuru me deva sarvakaryeshu sarvada.
+= O Lord with the curved trunk and mighty body, radiant as millions of suns: keep every obstacle away from all that I do, always.

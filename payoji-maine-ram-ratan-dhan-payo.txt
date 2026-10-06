@@ -1,0 +1,43 @@
+id: payoji-maine-ram-ratan-dhan-payo
+kind: bhajan
+deity: krishna
+lang: hi
+language: Hindi
+dialect: Rajasthani and Braj
+region: All of North India
+title: पायो जी मैंने राम रतन धन पायो | Payoji Maine Ram Ratan Dhan Payo | Meera’s song of the priceless treasure
+author: Meerabai, 16th century. The last line carries her name. | attributed
+occasions: janmashtami, daily
+when: One of the best-loved bhajans of Meerabai, sung at satsangs and on Janmashtami.
+notes: Meera’s Lord is Krishna, Giridhar Nagar; “Ram ratan”, the jewel of Ram’s name, is the divine name itself. Wording varies between singers.
+refrain-first: yes
+
+--- refrain
+पायो जी मैंने राम रतन धन पायो॥
+~ Payo ji maine Ram ratan dhan payo.
+= I have found it: the priceless jewel of the divine name.
+
+---
+वस्तु अमोलक दी मेरे सतगुरु, किरपा कर अपनायो॥
+~ Vastu amolak di mere Satguru, kirpa kar apnayo.
+= My true Guru gave me something beyond price and, in his grace, made me his own.
+
+---
+जनम जनम की पूँजी पाई, जग में सभी खोवायो॥
+~ Janam janam ki poonji paai, jag mein sabhi khovayo.
+= I have found the treasure of many lifetimes, and let go of everything else in the world.
+
+---
+खरचै न खूटै, चोर न लूटै, दिन दिन बढ़त सवायो॥
+~ Kharchai na khootai, chor na lootai, din din badhat savayo.
+= Spending it does not use it up, thieves cannot steal it; it grows by a quarter every day.
+
+---
+सत की नाव खेवटिया सतगुरु, भवसागर तर आयो॥
+~ Sat ki naav khevatiya Satguru, bhavsagar tar aayo.
+= In the boat of truth, with my Guru at the oars, I have crossed the ocean of worldly life.
+
+---
+मीरा के प्रभु गिरिधर नागर, हरख हरख जस गायो॥
+~ Meera ke prabhu Giridhar Nagar, harakh harakh jas gaayo.
+= Meera’s Lord is Giridhar Nagar; overflowing with joy, she sings his praise.

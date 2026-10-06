@@ -1,0 +1,45 @@
+id: thumak-chalat-ramchandra
+kind: bhajan
+deity: ram
+lang: hi
+language: Hindi
+dialect: Braj Bhasha
+region: All of North India
+title: ठुमक चलत रामचंद्र | Thumak Chalat Ramchandra | Baby Ram takes his first steps
+author: Goswami Tulsidas, from the Gitavali | attributed
+occasions: ram-navami, daily
+when: Sung on Ram Navami and in Ram bhajans, picturing Ram as a toddler in Ayodhya.
+refrain-first: yes
+
+--- refrain
+ठुमक चलत रामचंद्र बाजत पैंजनियाँ॥
+~ Thumak chalat Ramchandra baajat painjaniyan.
+= Little Ramchandra toddles along, his anklets jingling.
+
+---
+किलकि किलकि उठत धाय गिरत भूमि लटपटाय।
+धाय मात गोद लेत दशरथ की रनियाँ॥
+~ Kilaki kilaki uthat dhaay girat bhoomi latpataay,
+~ Dhaay maat god let Dashrath ki raniyan.
+= Squealing with laughter he gets up and runs, then stumbles and falls; Dasharath’s queens rush to gather him into their laps.
+
+---
+अंचल रज अंग झारि विविध भाँति सो दुलारि।
+तन मन धन वारि वारि कहत मृदु बचनियाँ॥
+~ Anchal raj ang jhaari vividh bhaanti so dulaari,
+~ Tan man dhan vaari vaari kahat mridu bachaniyan.
+= With the ends of their saris they brush the dust from him and fuss over him in every way, giving their all to him and speaking soft words.
+
+---
+विद्रुम से अरुण अधर बोलत मुख मधुर मधुर।
+सुभग नासिका में चारु लटकत लटकनियाँ॥
+~ Vidrum se arun adhar bolat mukh madhur madhur,
+~ Subhag nasika mein charu latkat latkaniyan.
+= His lips are red as coral as he babbles sweetly, and a pretty ornament dangles at his nose.
+
+---
+तुलसीदास अति आनंद देख के मुखारविंद।
+रघुवर छबि के समान रघुवर छबि बनियाँ॥
+~ Tulsidas ati anand dekh ke mukharavind,
+~ Raghuvar chhabi ke saman Raghuvar chhabi baniyan.
+= Tulsidas is overjoyed to see that lotus face: Raghuvar’s beauty can be compared only with Raghuvar’s beauty.

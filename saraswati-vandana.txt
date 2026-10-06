@@ -1,0 +1,22 @@
+id: saraswati-vandana
+kind: mantra
+form: Vandana
+deity: saraswati
+lang: sa
+language: Sanskrit
+region: All of India
+title: या कुन्देन्दुतुषारहारधवला | Ya Kundendu Tushar Haar Dhavala | Saraswati Vandana
+author: Traditional Sanskrit shloka | traditional
+occasions: basant-panchami, morning, daily
+when: Recited at school assemblies, before study and exams, and in Saraswati Puja on Basant Panchami.
+
+---
+या कुन्देन्दुतुषारहारधवला या शुभ्रवस्त्रावृता।
+या वीणावरदण्डमण्डितकरा या श्वेतपद्मासना॥
+या ब्रह्माच्युतशंकरप्रभृतिभिर्देवैः सदा वन्दिता।
+सा मां पातु सरस्वती भगवती निःशेषजाड्यापहा॥
+~ Ya kundendu tushara hara dhavala, ya shubhra vastravrita,
+~ Ya veena varadanda manditakara, ya shveta padmasana,
+~ Ya Brahmachyuta Shankara prabhritibhir devaih sada vandita,
+~ Sa mam patu Saraswati Bhagavati nihshesha jadyapaha.
+= She who is white as jasmine, the moon, snow and a string of pearls, dressed in white; whose hands are graced by the veena and the staff of blessing; who sits on a white lotus; who is always worshipped by Brahma, Vishnu, Shiv and all the gods: may that Goddess Saraswati, who removes all dullness of mind, protect me.

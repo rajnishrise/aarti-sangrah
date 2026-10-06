@@ -1,0 +1,61 @@
+id: om-jai-saraswati-mata
+kind: aarti
+deity: saraswati
+lang: hi
+language: Hindi
+region: North India
+title: ॐ जय सरस्वती माता | Om Jai Saraswati Mata | Aarti of Maa Saraswati
+author: Traditional | traditional
+occasions: basant-panchami, navratri, daily
+when: Sung on Basant Panchami and before study in schools and homes. In South India, Saraswati Puja falls during Navratri.
+notes: Sung to the same tune as Om Jai Jagdish Hare.
+refrain-first: yes
+
+--- refrain
+ॐ जय सरस्वती माता, मैया जय सरस्वती माता।
+सद्गुण वैभव शालिनी, त्रिभुवन विख्याता॥
+~ Om jai Saraswati Mata, Maiya jai Saraswati Mata,
+~ Sadgun vaibhav shalini, tribhuvan vikhyata.
+= Om, glory to Mother Saraswati! Rich in every virtue and splendour, famed in all three worlds.
+
+---
+चन्द्रवदनि पद्मासिनि, द्युति मंगलकारी।
+सोहे शुभ हंस सवारी, अतुल तेजधारी॥
+~ Chandravadani padmasini, dyuti mangalkari,
+~ Sohe shubh hans savari, atul tejdhari.
+= Moon-faced goddess seated on a lotus, your radiance brings blessings. You ride the auspicious swan and shine with matchless light.
+
+---
+बाएँ कर में वीणा, दाएँ कर माला।
+शीश मुकुट मणि सोहे, गल मोतियन माला॥
+~ Baayen kar mein veena, daayen kar mala,
+~ Sheesh mukut mani sohe, gal motiyan mala.
+= The veena is in your left hand and a rosary in your right. A jewelled crown graces your head and a string of pearls your neck.
+
+---
+देवी शरण जो आए, उनका उद्धार किया।
+पैठी मंथरा दासी, रावण संहार किया॥
+~ Devi sharan jo aaye, unka uddhar kiya,
+~ Paithi Manthara dasi, Ravan sanhar kiya.
+= Goddess, you raised up all who came to your refuge. You entered the mind of the maid Manthara and so brought about Ravan’s end.
+
+---
+विद्या ज्ञान प्रदायिनि, ज्ञान प्रकाश भरो।
+मोह अज्ञान और तिमिर का, जग से नाश करो॥
+~ Vidya gyan pradayini, gyan prakash bharo,
+~ Moh agyan aur timir ka, jag se naash karo.
+= Giver of learning and wisdom, fill us with the light of knowledge, and drive delusion, ignorance and darkness from the world.
+
+---
+धूप दीप फल मेवा, माँ स्वीकार करो।
+ज्ञानचक्षु दे माता, जग निस्तार करो॥
+~ Dhoop deep phal meva, Maa sweekar karo,
+~ Gyanchakshu de Mata, jag nistar karo.
+= Mother, accept our incense, lamp, fruit and dry fruits. Give us the eye of wisdom and carry the world across.
+
+---
+माँ सरस्वती की आरती, जो कोई जन गावे।
+हितकारी सुखकारी, ज्ञान भक्ति पावे॥
+~ Maa Saraswati ki aarti, jo koi jan gaave,
+~ Hitkari sukhkari, gyan bhakti paave.
+= Whoever sings this aarti of Mother Saraswati gains wisdom and devotion, which bring wellbeing and happiness.

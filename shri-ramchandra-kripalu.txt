@@ -1,0 +1,47 @@
+id: shri-ramchandra-kripalu
+kind: stotra
+form: Stuti
+deity: ram
+lang: hi
+language: Hindi
+dialect: Braj Bhasha, heavily Sanskritised
+region: North India
+title: श्रीरामचन्द्र कृपालु भजु मन | Shri Ramchandra Kripalu Bhaju Man | Hymn to Shri Ram
+author: Goswami Tulsidas, from the Vinaya Patrika | known
+occasions: ram-navami, dussehra, diwali, sundarkand
+when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram’s aarti, at Ramayan path and on Ram Navami.
+
+---
+श्रीरामचन्द्र कृपालु भजु मन, हरण भवभय दारुणम्।
+नवकंज लोचन कंज मुख, कर कंज पद कंजारुणम्॥
+~ Shri Ramchandra kripalu bhaju man, haran bhavbhay daarunam,
+~ Navkanj lochan kanj mukh, kar kanj pad kanjarunam.
+= O mind, worship the compassionate Shri Ramchandra, who removes the terrible fear of worldly life: eyes like fresh lotuses, a lotus face, lotus hands and feet like red lotuses.
+
+---
+कंदर्प अगणित अमित छवि, नवनील नीरद सुन्दरम्।
+पट पीत मानहुँ तड़ित रुचि, शुचि नौमि जनक सुतावरम्॥
+~ Kandarp aganit amit chhavi, navneel neerad sundaram,
+~ Pat peet maanahun tadit ruchi, shuchi naumi Janak sutavaram.
+= His beauty outshines countless Kamadevs; he is lovely as a fresh dark rain-cloud, and his yellow robe gleams like lightning. I bow to that pure one, husband of Janak’s daughter.
+
+---
+भजु दीनबन्धु दिनेश दानव, दैत्यवंश निकन्दनम्।
+रघुनन्द आनन्दकन्द कोशलचन्द, दशरथ नन्दनम्॥
+~ Bhaju deenbandhu dinesh daanav, daityavansh nikandanam,
+~ Raghunand anandkand Koshalchand, Dashrath nandanam.
+= Worship the friend of the humble, radiant as the sun, who uprooted the clans of demons: joy of the Raghus, root of bliss, moon of Koshal, son of Dasharath.
+
+---
+सिर मुकुट कुण्डल तिलक चारु, उदारु अंग विभूषणम्।
+आजानुभुज शर चाप धर, संग्राम जित खरदूषणम्॥
+~ Sir mukut kundal tilak chaaru, udaaru ang vibhooshanam,
+~ Aajanubhuj shar chaap dhar, sangram jit Khar-Dooshanam.
+= A crown on his head, earrings and a graceful tilak, fine ornaments on every limb; arms reaching to his knees, holding bow and arrows, he defeated Khar and Dooshan in battle.
+
+---
+इति वदति तुलसीदास शंकर, शेष मुनि मन रंजनम्।
+मम हृदय कंज निवास कुरु, कामादि खलदल गंजनम्॥
+~ Iti vadati Tulsidas Shankar, Shesh muni man ranjanam,
+~ Mam hriday kanj nivaas kuru, kaamaadi khaldal ganjanam.
+= So says Tulsidas: delight of the hearts of Shankar, Shesh and the sages, make your home in the lotus of my heart and destroy the wicked host of desire and the other vices.

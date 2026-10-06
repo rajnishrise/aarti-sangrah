@@ -1,0 +1,68 @@
+id: om-jai-shiv-omkara
+kind: aarti
+deity: shiv
+lang: hi
+language: Hindi
+region: North India
+title: ॐ जय शिव ओंकारा | Om Jai Shiv Omkara | Aarti of Lord Shiv
+author: Traditional. The closing verse names Swami Shivanand. | attributed
+occasions: mahashivratri, shravan, daily
+when: Sung on Mondays, through the month of Sawan and on Maha Shivratri. It praises Shiv as one with Brahma and Vishnu.
+notes: One of the most variable texts. Longer versions add verses on Kailash, the Ganga and Kashi Vishwanath, and some lines differ by region, such as “त्रिपुरारी कंसारी कर माला धारी”. This is a shorter common form.
+refrain-first: yes
+
+--- refrain
+ॐ जय शिव ओंकारा, स्वामी जय शिव ओंकारा।
+ब्रह्मा विष्णु सदाशिव, अर्द्धांगी धारा॥
+~ Om jai Shiv Omkara, Swami jai Shiv Omkara,
+~ Brahma Vishnu Sadashiv, ardhangi dhara.
+= Om, glory to Shiv, embodiment of Om! You are Brahma, Vishnu and Sadashiv, and you hold your consort as half of your own body.
+
+---
+एकानन चतुरानन पंचानन राजे।
+हंसासन गरुड़ासन वृषवाहन साजे॥
+~ Ekanan chaturanan panchanan raje,
+~ Hansasan Garudasan vrishvahan saje.
+= With one face, four faces and five faces you shine, seated on the swan, on Garuda, and riding the bull.
+
+---
+दो भुज चार चतुर्भुज दसभुज अति सोहे।
+त्रिगुण रूप निरखते त्रिभुवन जन मोहे॥
+~ Do bhuj chaar chaturbhuj dasbhuj ati sohe,
+~ Trigun roop nirakhte tribhuvan jan mohe.
+= With two, four and ten arms you are magnificent; seeing your form of the three gunas, all three worlds are enchanted.
+
+---
+अक्षमाला वनमाला मुण्डमाला धारी।
+चन्दन मृगमद सोहै भाले शशिधारी॥
+~ Akshmala vanmala mundmala dhari,
+~ Chandan mrigmad sohai bhale shashidhari.
+= You wear rudraksha beads, a garland of forest flowers and a garland of skulls; sandalwood and musk adorn you, and the moon rests on your brow.
+
+---
+श्वेताम्बर पीताम्बर बाघम्बर अंगे।
+सनकादिक गरुड़ादिक भूतादिक संगे॥
+~ Shvetambar pitambar baghambar ange,
+~ Sanakadik Garudadik bhootadik sange.
+= Dressed in white, in yellow silk and in tiger skin, accompanied by sages like Sanaka, by Garuda and by hosts of spirits.
+
+---
+कर के मध्य कमण्डलु चक्र त्रिशूलधर्ता।
+जगकर्ता जगभर्ता जगसंहारकर्ता॥
+~ Kar ke madhya kamandalu chakra trishooldharta,
+~ Jagkarta jagbharta jagsanharkarta.
+= Holding the water-pot, the discus and the trident: creator, sustainer and destroyer of the world.
+
+---
+ब्रह्मा विष्णु सदाशिव जानत अविवेका।
+प्रणवाक्षर के मध्ये ये तीनों एका॥
+~ Brahma Vishnu Sadashiv janat aviveka,
+~ Pranavakshar ke madhye ye teenon eka.
+= Only the unwise think Brahma, Vishnu and Sadashiv are separate; within the sacred syllable Om, the three are one.
+
+---
+त्रिगुणस्वामी जी की आरती जो कोई नर गावे।
+कहत शिवानन्द स्वामी मनवांछित फल पावे॥
+~ Trigunswami ji ki aarti jo koi nar gave,
+~ Kahat Shivanand Swami manvanchhit phal pave.
+= Whoever sings this aarti of the lord of the three gunas, says Swami Shivanand, gains the fruit of their heart’s desire.

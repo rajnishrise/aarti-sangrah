@@ -1,0 +1,761 @@
+{
+ "deities": [
+  {
+   "id": "ganesh",
+   "n": "Ganesh",
+   "d": "श्री गणेश",
+   "ini": "ग",
+   "c": "#C2410C",
+   "aka": [
+    "ganesh",
+    "ganesha",
+    "ganpati",
+    "ganapati",
+    "vinayak",
+    "vinayaka",
+    "vighnaharta",
+    "gajanan",
+    "lambodar",
+    "ekdant",
+    "bappa"
+   ],
+   "akaD": [
+    "गणपति",
+    "विनायक",
+    "गजानन",
+    "बप्पा"
+   ],
+   "about": "Lord of beginnings and remover of obstacles, so every puja begins with him. Son of Shiv and Parvati, he rides a mouse and loves modak.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg/330px-Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ganesha_Basohli_miniature_circa_1730_Dubost_p73.jpg",
+    "cap": "Ganesha, Basohli miniature, c. 1730",
+    "by": "Pahari (Basohli) painter",
+    "pos": "50% 30%"
+   },
+   "day": 3
+  },
+  {
+   "id": "vishnu",
+   "n": "Vishnu",
+   "d": "श्री विष्णु",
+   "ini": "वि",
+   "c": "#1D4E89",
+   "aka": [
+    "vishnu",
+    "narayan",
+    "narayana",
+    "hari",
+    "jagdish",
+    "jagadish",
+    "satyanarayan"
+   ],
+   "akaD": [
+    "नारायण",
+    "हरि",
+    "जगदीश"
+   ],
+   "about": "The preserver, who takes avatars such as Ram and Krishna whenever dharma is in danger. He rests on the serpent Shesh, with Lakshmi at his feet.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg/330px-Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma%2C_Seshanarayana_%28Oleographic_print%29.jpg",
+    "cap": "Seshanarayana, oleograph",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 45%"
+   },
+   "day": 4
+  },
+  {
+   "id": "shiv",
+   "n": "Shiv",
+   "d": "भगवान शिव",
+   "ini": "शि",
+   "c": "#4B5B7A",
+   "aka": [
+    "shiv",
+    "shiva",
+    "mahadev",
+    "mahadeva",
+    "bholenath",
+    "bhole",
+    "shankar",
+    "shambhu",
+    "rudra",
+    "neelkanth",
+    "omkar"
+   ],
+   "akaD": [
+    "महादेव",
+    "भोलेनाथ",
+    "शंकर",
+    "शम्भु"
+   ],
+   "about": "The great ascetic of Kailash, destroyer of ignorance and the kindest of gods to his devotees. The Ganga flows from his hair and the crescent moon rests on his brow.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/A_version_from_the_Ravi_Varma_press-_%22Shankar%2C%22_c.1910%27s.jpg/330px-A_version_from_the_Ravi_Varma_press-_%22Shankar%2C%22_c.1910%27s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_version_from_the_Ravi_Varma_press-_%22Shankar%2C%22_c.1910%27s.jpg",
+    "cap": "Shankar, Ravi Varma Press, c. 1910s",
+    "by": "Ravi Varma Press",
+    "pos": "50% 22%"
+   },
+   "day": 1
+  },
+  {
+   "id": "durga",
+   "n": "Durga",
+   "d": "माँ दुर्गा",
+   "ini": "दु",
+   "c": "#A3121F",
+   "aka": [
+    "durga",
+    "ambe",
+    "amba",
+    "jagdamba",
+    "mata rani",
+    "sherawali",
+    "bhavani",
+    "gauri",
+    "devi",
+    "sherowali"
+   ],
+   "akaD": [
+    "अम्बे",
+    "जगदम्बा",
+    "शेरावाली",
+    "भवानी",
+    "माता रानी"
+   ],
+   "about": "The Mother Goddess who rides a lion and defeated Mahishasur. Navratri, her nine nights, is one of the great festivals of the year.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Raja_Ravi_Varma%2C_Ambika_%28Oleographic_print%29.jpg/330px-Raja_Ravi_Varma%2C_Ambika_%28Oleographic_print%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma%2C_Ambika_%28Oleographic_print%29.jpg",
+    "cap": "Ambika, oleograph",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 25%"
+   },
+   "day": 5
+  },
+  {
+   "id": "lakshmi",
+   "n": "Lakshmi",
+   "d": "माँ लक्ष्मी",
+   "ini": "ल",
+   "c": "#B4235F",
+   "aka": [
+    "lakshmi",
+    "laxmi",
+    "mahalakshmi",
+    "kamla",
+    "kamala"
+   ],
+   "akaD": [
+    "महालक्ष्मी",
+    "कमला"
+   ],
+   "about": "Goddess of wealth, fortune and grace, consort of Vishnu. She is welcomed into every home with lamps on Diwali night.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Raja_Ravi_Varma%2C_Goddess_Lakshmi%2C_1896.jpg/330px-Raja_Ravi_Varma%2C_Goddess_Lakshmi%2C_1896.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma%2C_Goddess_Lakshmi%2C_1896.jpg",
+    "cap": "Goddess Lakshmi, 1896",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 18%"
+   },
+   "day": 5
+  },
+  {
+   "id": "saraswati",
+   "n": "Saraswati",
+   "d": "माँ सरस्वती",
+   "ini": "स",
+   "c": "#3B6E8F",
+   "aka": [
+    "saraswati",
+    "sarasvati",
+    "sharda",
+    "sharada",
+    "vagdevi",
+    "veena vadini"
+   ],
+   "akaD": [
+    "शारदा",
+    "वीणावादिनी",
+    "वाग्देवी"
+   ],
+   "about": "Goddess of learning, speech and music, who holds the veena and rides a swan. Students pray to her before study, especially on Basant Panchami.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Raja_Ravi_Varma%2C_Goddess_Saraswati.jpg/330px-Raja_Ravi_Varma%2C_Goddess_Saraswati.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma%2C_Goddess_Saraswati.jpg",
+    "cap": "Goddess Saraswati",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 24%"
+   }
+  },
+  {
+   "id": "hanuman",
+   "n": "Hanuman",
+   "d": "श्री हनुमान",
+   "ini": "ह",
+   "c": "#D9620B",
+   "aka": [
+    "hanuman",
+    "bajrang",
+    "bajrangbali",
+    "pavanputra",
+    "pawanputra",
+    "maruti",
+    "anjaneya",
+    "sankat mochan",
+    "kesari nandan"
+   ],
+   "akaD": [
+    "बजरंगबली",
+    "पवनपुत्र",
+    "मारुति",
+    "संकटमोचन"
+   ],
+   "about": "Son of the wind god, devoted servant of Shri Ram, and a symbol of strength and fearlessness. He carried the mountain of herbs to save Lakshman.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hanuman_fetches_the_herb-bearing_mountain%2C_in_a_print_from_the_Ravi_Varma_Press%2C_1910%27s.jpg/330px-Hanuman_fetches_the_herb-bearing_mountain%2C_in_a_print_from_the_Ravi_Varma_Press%2C_1910%27s.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hanuman_fetches_the_herb-bearing_mountain%2C_in_a_print_from_the_Ravi_Varma_Press%2C_1910%27s.jpg",
+    "cap": "Hanuman fetches the herb-bearing mountain, Ravi Varma Press, 1910s",
+    "by": "Ravi Varma Press",
+    "pos": "50% 28%"
+   },
+   "day": 2
+  },
+  {
+   "id": "ram",
+   "n": "Ram",
+   "d": "श्री राम",
+   "ini": "रा",
+   "c": "#24705F",
+   "aka": [
+    "ram",
+    "rama",
+    "raghunath",
+    "raghav",
+    "raghupati",
+    "siyaram",
+    "sitaram"
+   ],
+   "akaD": [
+    "रघुनाथ",
+    "राघव",
+    "सियाराम"
+   ],
+   "about": "The seventh avatar of Vishnu and the ideal king of the Ramayan, worshipped with Sita, Lakshman and Hanuman as the Ram Panchayatan.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg/330px-Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ramapanchayan%2C_Raja_Ravi_Varma_%28Lithograph%29.jpg",
+    "cap": "Ram Panchayatan, lithograph, before 1906",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 35%"
+   }
+  },
+  {
+   "id": "krishna",
+   "n": "Krishna",
+   "d": "श्री कृष्ण",
+   "ini": "कृ",
+   "c": "#2A3A85",
+   "aka": [
+    "krishna",
+    "krishn",
+    "kanha",
+    "kanhaiya",
+    "gopal",
+    "shyam",
+    "murari",
+    "giridhar",
+    "kunj bihari",
+    "banke bihari",
+    "govind"
+   ],
+   "akaD": [
+    "कान्हा",
+    "गोपाल",
+    "श्याम",
+    "गिरिधर",
+    "गोविन्द"
+   ],
+   "about": "The eighth avatar of Vishnu: the butter-stealing child of Gokul, the flute player of Vrindavan, and the teacher of the Bhagavad Gita.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Raja_Ravi_Varma%2C_Sri_Krishna_as_Envoy.jpg/330px-Raja_Ravi_Varma%2C_Sri_Krishna_as_Envoy.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raja_Ravi_Varma%2C_Sri_Krishna_as_Envoy.jpg",
+    "cap": "Sri Krishna as Envoy, 1906",
+    "by": "Raja Ravi Varma",
+    "pos": "50% 18%"
+   }
+  },
+  {
+   "id": "surya",
+   "n": "Surya",
+   "d": "सूर्य देव",
+   "ini": "सू",
+   "c": "#C77A0A",
+   "aka": [
+    "surya",
+    "suryadev",
+    "sun",
+    "savitr",
+    "savita",
+    "aditya",
+    "bhaskar",
+    "dinkar"
+   ],
+   "akaD": [
+    "सविता",
+    "आदित्य",
+    "भास्कर",
+    "दिनकर"
+   ],
+   "about": "The Sun, the visible god, worshipped at sunrise with water offerings. The Gayatri mantra is addressed to him as Savitr, and Chhath is his great festival.",
+   "img": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Surya_in_his_chariot.jpg/330px-Surya_in_his_chariot.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Surya_in_his_chariot.jpg",
+    "cap": "Surya in his chariot, late 19th century",
+    "by": "Unknown artist",
+    "pos": "50% 40%"
+   },
+   "day": 0
+  },
+  {
+   "id": "ishvar",
+   "n": "Ishvar",
+   "d": "ईश्वर",
+   "ini": "ॐ",
+   "c": "#7A5A2E",
+   "aka": [
+    "god",
+    "bhagwan",
+    "ishwar",
+    "prayer",
+    "prarthana"
+   ],
+   "akaD": [
+    "भगवान",
+    "प्रार्थना"
+   ],
+   "gallery": false,
+   "label": "Universal prayers",
+   "about": "Prayers addressed to God in any form, sung by people of every tradition."
+  }
+ ],
+ "kinds": [
+  {
+   "id": "aarti",
+   "n": "Aarti",
+   "pl": "Aartis",
+   "d": "आरती",
+   "note": "Sung while the lamp is waved before the deity."
+  },
+  {
+   "id": "chalisa",
+   "n": "Chalisa",
+   "pl": "Chalisas",
+   "d": "चालीसा",
+   "note": "Forty chaupais in praise of a deity, recited daily by millions."
+  },
+  {
+   "id": "stotra",
+   "n": "Stotra",
+   "pl": "Stotras and stutis",
+   "d": "स्तोत्र",
+   "note": "Hymns of praise, most in Sanskrit, including ashtakams of eight verses."
+  },
+  {
+   "id": "mantra",
+   "n": "Mantra",
+   "pl": "Mantras and shlokas",
+   "d": "मंत्र",
+   "note": "Short sacred verses for daily prayer, study and japa."
+  },
+  {
+   "id": "bhajan",
+   "n": "Bhajan",
+   "pl": "Bhajans",
+   "d": "भजन",
+   "note": "Devotional songs of the saint-poets: Tulsidas, Surdas, Meera, Narsinh Mehta."
+  },
+  {
+   "id": "granth",
+   "n": "Granth",
+   "pl": "Granths",
+   "d": "ग्रंथ",
+   "note": "Scriptures, read chapter by chapter."
+  }
+ ],
+ "occasions": {
+  "ganesh-chaturthi": {
+   "n": "Ganesh Chaturthi",
+   "d": "गणेश चतुर्थी",
+   "aka": [
+    "ganeshotsav",
+    "ganesh utsav",
+    "vinayaka chaturthi"
+   ],
+   "note": "Ten days of Ganeshotsav. In Maharashtra every aarti session opens with Sukhkarta Dukhharta."
+  },
+  "navratri": {
+   "n": "Navratri",
+   "d": "नवरात्रि",
+   "aka": [
+    "navaratri",
+    "navratra",
+    "durga puja"
+   ],
+   "note": "Nine nights of the Goddess. Jai Ambe Gauri is sung every morning and evening."
+  },
+  "dussehra": {
+   "n": "Dussehra",
+   "d": "दशहरा",
+   "aka": [
+    "dasara",
+    "dasehra",
+    "vijayadashami"
+   ],
+   "note": "Ram’s victory over Ravan, the day after Navratri ends."
+  },
+  "dhanteras": {
+   "n": "Dhanteras",
+   "d": "धनतेरस",
+   "aka": [
+    "dhantrayodashi"
+   ],
+   "note": "Lamps are lit at dusk and Lakshmi is worshipped for the coming year."
+  },
+  "diwali": {
+   "n": "Diwali",
+   "d": "दीपावली",
+   "aka": [
+    "deepavali",
+    "divali",
+    "lakshmi puja"
+   ],
+   "note": "Lakshmi Puja at dusk. Most homes begin with the Ganesh aarti, then Lakshmi."
+  },
+  "govardhan": {
+   "n": "Govardhan Puja",
+   "d": "गोवर्धन पूजा",
+   "aka": [
+    "annakut"
+   ],
+   "note": "Offerings to Krishna as Giridhar, who lifted Govardhan hill."
+  },
+  "mahashivratri": {
+   "n": "Maha Shivratri",
+   "d": "महाशिवरात्रि",
+   "aka": [
+    "shivratri",
+    "shivaratri"
+   ],
+   "note": "Night-long worship of Shiv."
+  },
+  "shravan": {
+   "n": "Sawan month",
+   "d": "सावन",
+   "aka": [
+    "shravan",
+    "savan",
+    "sawan somvar"
+   ],
+   "note": "Shiv’s month; Mondays are kept with special devotion."
+  },
+  "janmashtami": {
+   "n": "Janmashtami",
+   "d": "जन्माष्टमी",
+   "aka": [
+    "krishna janmashtami",
+    "gokulashtami"
+   ],
+   "note": "Krishna’s birth, celebrated at midnight."
+  },
+  "holi": {
+   "n": "Holi",
+   "d": "होली",
+   "aka": [],
+   "note": "The festival of colours, dear to Krishna’s Braj."
+  },
+  "ram-navami": {
+   "n": "Ram Navami",
+   "d": "राम नवमी",
+   "aka": [],
+   "note": "The birth of Shri Ram."
+  },
+  "hanuman-jayanti": {
+   "n": "Hanuman Jayanti",
+   "d": "हनुमान जयंती",
+   "aka": [
+    "hanuman janmotsav"
+   ],
+   "note": "Hanuman’s birth, on Chaitra Purnima in North India."
+  },
+  "satyanarayan": {
+   "n": "Satyanarayan Katha",
+   "d": "सत्यनारायण कथा",
+   "aka": [
+    "satyanarayan puja"
+   ],
+   "note": "Om Jai Jagdish Hare is the aarti of the katha."
+  },
+  "griha-pravesh": {
+   "n": "Griha Pravesh",
+   "d": "गृह प्रवेश",
+   "aka": [
+    "housewarming"
+   ],
+   "note": "Moving into a new home."
+  },
+  "sundarkand": {
+   "n": "Sundarkand path",
+   "d": "सुंदरकांड पाठ",
+   "aka": [
+    "sunderkand",
+    "ramayan path"
+   ],
+   "note": "Recitation of the Sundarkand, usually closed with Hanuman’s aarti."
+  },
+  "daily": {
+   "n": "Daily aarti",
+   "d": "नित्य आरती",
+   "aka": [
+    "daily",
+    "sandhya",
+    "evening",
+    "morning"
+   ],
+   "note": "Sung any day, morning or evening."
+  },
+  "closing": {
+   "n": "Close of any aarti",
+   "d": "आरती के अंत में",
+   "aka": [
+    "closing",
+    "end"
+   ],
+   "note": "Recited as the flame is offered at the end."
+  },
+  "basant-panchami": {
+   "n": "Basant Panchami",
+   "d": "बसंत पंचमी",
+   "aka": [
+    "vasant panchami",
+    "saraswati puja"
+   ],
+   "note": "Saraswati Puja at the start of spring. Students place their books before the goddess."
+  },
+  "chhath": {
+   "n": "Chhath Puja",
+   "d": "छठ पूजा",
+   "aka": [
+    "chhath",
+    "chhathi maiya",
+    "surya shashthi"
+   ],
+   "note": "Offerings to the setting and rising Sun, kept with great devotion in Bihar and eastern Uttar Pradesh."
+  },
+  "gita-jayanti": {
+   "n": "Gita Jayanti",
+   "d": "गीता जयंती",
+   "aka": [
+    "mokshada ekadashi"
+   ],
+   "note": "The day Krishna taught the Gita to Arjun, on Margashirsha Shukla Ekadashi."
+  },
+  "morning": {
+   "n": "Morning prayer",
+   "d": "प्रातः प्रार्थना",
+   "aka": [
+    "morning",
+    "prabhat",
+    "subah"
+   ],
+   "note": "Short prayers for the start of the day or before study."
+  },
+  "meals": {
+   "n": "Before meals",
+   "d": "भोजन से पहले",
+   "aka": [
+    "bhojan mantra",
+    "food"
+   ],
+   "note": "Recited before eating, offering the food first."
+  }
+ },
+ "occOrder": [
+  "daily",
+  "morning",
+  "closing",
+  "navratri",
+  "dussehra",
+  "dhanteras",
+  "diwali",
+  "govardhan",
+  "chhath",
+  "ganesh-chaturthi",
+  "basant-panchami",
+  "mahashivratri",
+  "shravan",
+  "janmashtami",
+  "holi",
+  "ram-navami",
+  "hanuman-jayanti",
+  "gita-jayanti",
+  "satyanarayan",
+  "sundarkand",
+  "griha-pravesh",
+  "meals"
+ ],
+ "weekdays": [
+  {
+   "n": "Sunday",
+   "d": "रविवार",
+   "who": "Surya Dev",
+   "ids": [
+    "gayatri-mantra",
+    "om-jai-jagdish-hare"
+   ],
+   "note": "Many offer water to the rising sun and recite the Gayatri mantra."
+  },
+  {
+   "n": "Monday",
+   "d": "सोमवार",
+   "who": "Shiv ji",
+   "ids": [
+    "om-jai-shiv-omkara",
+    "shiv-rudrashtakam",
+    "karpur-gauram",
+    "mahamrityunjaya-mantra"
+   ]
+  },
+  {
+   "n": "Tuesday",
+   "d": "मंगलवार",
+   "who": "Hanuman ji",
+   "ids": [
+    "hanuman-chalisa",
+    "aarti-keejai-hanuman-lala-ki",
+    "shri-ramchandra-kripalu"
+   ],
+   "note": "Many homes also worship Durga on Tuesdays."
+  },
+  {
+   "n": "Wednesday",
+   "d": "बुधवार",
+   "who": "Ganesh ji",
+   "ids": [
+    "jai-ganesh-deva",
+    "sukhkarta-dukhharta",
+    "vakratunda-mahakaya"
+   ]
+  },
+  {
+   "n": "Thursday",
+   "d": "गुरुवार",
+   "who": "Vishnu ji",
+   "ids": [
+    "om-jai-jagdish-hare",
+    "vaishnav-jan-to"
+   ]
+  },
+  {
+   "n": "Friday",
+   "d": "शुक्रवार",
+   "who": "Lakshmi Mata",
+   "ids": [
+    "om-jai-lakshmi-mata",
+    "jai-ambe-gauri"
+   ],
+   "note": "Durga and Santoshi Mata are also worshipped on Fridays."
+  },
+  {
+   "n": "Saturday",
+   "d": "शनिवार",
+   "who": "Shani Dev and Hanuman ji",
+   "ids": [
+    "hanuman-chalisa",
+    "aarti-keejai-hanuman-lala-ki"
+   ],
+   "note": "There’s no Shani aarti in the collection yet."
+  }
+ ],
+ "fests": [
+  {
+   "date": "2026-10-11",
+   "len": 9,
+   "occ": "navratri",
+   "label": "Sharad Navratri"
+  },
+  {
+   "date": "2026-10-20",
+   "occ": "dussehra"
+  },
+  {
+   "date": "2026-11-06",
+   "occ": "dhanteras"
+  },
+  {
+   "date": "2026-11-08",
+   "occ": "diwali",
+   "label": "Diwali · Lakshmi Puja"
+  },
+  {
+   "date": "2026-11-15",
+   "occ": "chhath",
+   "label": "Chhath Puja, evening arghya"
+  }
+ ],
+ "presets": [
+  {
+   "n": "Daily evening aarti",
+   "ids": [
+    "jai-ganesh-deva",
+    "om-jai-jagdish-hare",
+    "karpur-gauram"
+   ]
+  },
+  {
+   "n": "Morning prayers",
+   "ids": [
+    "gayatri-mantra",
+    "vakratunda-mahakaya",
+    "saraswati-vandana",
+    "tvameva-mata"
+   ]
+  },
+  {
+   "n": "Diwali Lakshmi Puja",
+   "ids": [
+    "jai-ganesh-deva",
+    "om-jai-lakshmi-mata",
+    "om-jai-jagdish-hare",
+    "karpur-gauram"
+   ]
+  },
+  {
+   "n": "Navratri",
+   "ids": [
+    "jai-ganesh-deva",
+    "jai-ambe-gauri",
+    "karpur-gauram"
+   ]
+  },
+  {
+   "n": "Monday, for Shiv ji",
+   "ids": [
+    "jai-ganesh-deva",
+    "shiv-rudrashtakam",
+    "om-jai-shiv-omkara",
+    "karpur-gauram"
+   ]
+  },
+  {
+   "n": "Tuesday, for Hanuman ji",
+   "ids": [
+    "hanuman-chalisa",
+    "aarti-keejai-hanuman-lala-ki",
+    "shri-ramchandra-kripalu"
+   ]
+  }
+ ]
+}

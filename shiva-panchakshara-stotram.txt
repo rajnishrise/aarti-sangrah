@@ -1,0 +1,53 @@
+id: shiva-panchakshara-stotram
+kind: stotra
+deity: shiv
+lang: sa
+language: Sanskrit
+region: All of India
+title: शिवपञ्चाक्षर स्तोत्रम् | Shiva Panchakshara Stotram | A hymn on the five syllables of Namah Shivaya
+author: Traditionally attributed to Adi Shankaracharya | attributed
+occasions: mahashivratri, shravan, daily
+when: Recited in Shiv puja and on Mondays. Each verse is built on one syllable of the mantra: न, म, शि, वा, य.
+notes: Verse three is sometimes printed with “गौरीवदनाब्जबृन्द”.
+
+---
+नागेन्द्रहाराय त्रिलोचनाय भस्माङ्गरागाय महेश्वराय।
+नित्याय शुद्धाय दिगम्बराय तस्मै नकाराय नमः शिवाय॥
+~ Nagendraharaya trilochanaya, bhasmangaragaya Maheshwaraya,
+~ Nityaya shuddhaya digambaraya, tasmai nakaraya namah Shivaya.
+= To the three-eyed great lord who wears the king of serpents as a garland and sacred ash on his body; eternal, pure, clothed only by the directions: to that Shiv, the syllable “Na”, I bow.
+
+---
+मन्दाकिनीसलिलचन्दनचर्चिताय नन्दीश्वरप्रमथनाथमहेश्वराय।
+मन्दारपुष्पबहुपुष्पसुपूजिताय तस्मै मकाराय नमः शिवाय॥
+~ Mandakinisalila chandana charchitaya, Nandishwara pramathanatha Maheshwaraya,
+~ Mandara pushpa bahupushpa supujitaya, tasmai makaraya namah Shivaya.
+= Bathed in the Ganga and anointed with sandal paste, lord of Nandi and of his hosts, worshipped with mandara and countless other flowers: to that Shiv, the syllable “Ma”, I bow.
+
+---
+शिवाय गौरीवदनाब्जवृन्दसूर्याय दक्षाध्वरनाशकाय।
+श्रीनीलकण्ठाय वृषध्वजाय तस्मै शिकाराय नमः शिवाय॥
+~ Shivaya Gauri vadanabja vrinda suryaya, Dakshadhvara nashakaya,
+~ Shri Neelakanthaya vrishadhvajaya, tasmai shikaraya namah Shivaya.
+= To the auspicious one, the sun at whose rising Gauri’s lotus face blooms, who ended Daksha’s sacrifice; to the blue-throated one whose banner bears the bull: to that Shiv, the syllable “Shi”, I bow.
+
+---
+वसिष्ठकुम्भोद्भवगौतमार्यमुनीन्द्रदेवार्चितशेखराय।
+चन्द्रार्कवैश्वानरलोचनाय तस्मै वकाराय नमः शिवाय॥
+~ Vasishtha kumbhodbhava Gautamarya munindra devarchita shekharaya,
+~ Chandrarka vaishvanara lochanaya, tasmai vakaraya namah Shivaya.
+= Whose head is worshipped by Vasishtha, Agastya, Gautam and the great sages and gods; whose three eyes are the moon, the sun and fire: to that Shiv, the syllable “Va”, I bow.
+
+---
+यक्षस्वरूपाय जटाधराय पिनाकहस्ताय सनातनाय।
+दिव्याय देवाय दिगम्बराय तस्मै यकाराय नमः शिवाय॥
+~ Yakshasvaroopaya jatadharaya, pinakahastaya sanatanaya,
+~ Divyaya devaya digambaraya, tasmai yakaraya namah Shivaya.
+= Who appeared as a yaksha, wears matted hair and holds the Pinaka bow, the eternal one; divine, radiant, clothed by the directions: to that Shiv, the syllable “Ya”, I bow.
+
+--- फल
+पञ्चाक्षरमिदं पुण्यं यः पठेच्छिवसन्निधौ।
+शिवलोकमवाप्नोति शिवेन सह मोदते॥
+~ Panchaksharamidam punyam yah pathechchhivasannidhau,
+~ Shivalokamavapnoti Shivena saha modate.
+= Whoever recites this sacred hymn of the five syllables near Shiv reaches Shiv’s world and rejoices with him.

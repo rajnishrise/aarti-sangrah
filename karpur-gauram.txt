@@ -1,0 +1,18 @@
+id: karpur-gauram
+kind: mantra
+form: Shloka
+deity: shiv
+lang: sa
+language: Sanskrit
+region: All of India
+title: कर्पूरगौरं करुणावतारं | Karpur Gauram Karunavataram | Closing verse to Shiv
+author: Traditional Sanskrit verse | traditional
+occasions: closing, mahashivratri, shravan
+when: Recited in many homes and temples as the flame is offered at the end of the aarti, whichever deity’s aarti came before it.
+
+---
+कर्पूरगौरं करुणावतारं संसारसारं भुजगेन्द्रहारम्।
+सदा वसन्तं हृदयारविन्दे भवं भवानीसहितं नमामि॥
+~ Karpuragauram karunavataram, samsarasaram bhujagendraharam,
+~ Sada vasantam hridayaravinde, Bhavam Bhavanisahitam namami.
+= I bow to Shiv, fair as camphor, compassion embodied, the essence of the world, garlanded with the king of serpents, who lives always in the lotus of the heart together with Bhavani.

@@ -1,0 +1,47 @@
+id: vaishnav-jan-to
+kind: bhajan
+deity: vishnu
+lang: gu
+language: Gujarati
+region: Gujarat, and all of India through Gandhi’s prayer meetings
+title: वैष्णव जन तो तेने कहिये | Vaishnav Jan To Tene Kahiye | Who is a true devotee
+author: Narsinh Mehta, 15th century. The last verse carries his name. | known
+occasions: daily
+when: Mahatma Gandhi’s favourite bhajan, sung at his prayer meetings and today at school assemblies and on 2 October.
+notes: Shown in Devanagari, as printed in most Hindi bhajan books. In Gujarati script it begins “વૈષ્ણવ જન તો તેને કહીએ”.
+refrain-first: yes
+
+--- refrain
+वैष्णव जन तो तेने कहिये जे पीड पराई जाणे रे।
+पर दुःखे उपकार करे तो ये मन अभिमान न आणे रे॥
+~ Vaishnav jan to tene kahiye je peed parai jaane re,
+~ Par dukhe upkar kare to ye man abhiman na aane re.
+= Call that person a true devotee who feels the pain of others, who helps those in sorrow and never lets pride into the mind.
+
+---
+सकळ लोकमां सहुने वंदे, निंदा न करे केनी रे।
+वाच काछ मन निश्चळ राखे, धन धन जननी तेनी रे॥
+~ Sakal lokman sahune vande, ninda na kare keni re,
+~ Vach kachh man nishchal rakhe, dhan dhan janani teni re.
+= Such a person honours everyone in the world and speaks ill of no one, and keeps word, deed and mind steady. Blessed, blessed is the mother who bore them.
+
+---
+समदृष्टि ने तृष्णा त्यागी, परस्त्री जेने मात रे।
+जिह्वा थकी असत्य न बोले, परधन नव झाले हाथ रे॥
+~ Samdrishti ne trushna tyagi, parstri jene maat re,
+~ Jihva thaki asatya na bole, pardhan nav jhale haath re.
+= They see all with an equal eye and have given up craving; every other woman is a mother to them. Their tongue never tells a lie, and their hand never takes another’s wealth.
+
+---
+मोह माया व्यापे नहि जेने, दृढ वैराग्य जेना मनमां रे।
+रामनाम शुं ताळी लागी, सकळ तीरथ तेना तनमां रे॥
+~ Moh maya vyape nahi jene, dridh vairagya jena manman re,
+~ Ramnaam shun tali lagi, sakal tirath tena tanman re.
+= Delusion and illusion cannot touch them; firm detachment fills their mind. They are absorbed in the name of Ram, and every place of pilgrimage lives within them.
+
+---
+वणलोभी ने कपटरहित छे, काम क्रोध निवार्या रे।
+भणे नरसैयो तेनुं दरसन करतां, कुळ एकोतेर तार्या रे॥
+~ Vanlobhi ne kapatrahit chhe, kaam krodh nivarya re,
+~ Bhane Narsaiyo tenun darsan kartan, kul ekoter tarya re.
+= They are free of greed and deceit, and have overcome lust and anger. Narsinh says: just seeing such a person saves seventy-one generations of one’s family.

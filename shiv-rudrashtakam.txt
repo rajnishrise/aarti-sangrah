@@ -1,0 +1,75 @@
+id: shiv-rudrashtakam
+kind: stotra
+form: Stuti
+deity: shiv
+lang: sa
+language: Sanskrit
+region: All of India
+title: श्री रुद्राष्टकम् | Shri Rudrashtakam (Namamishamishan) | Eight verses to Shiv as Rudra
+author: Goswami Tulsidas, from the Uttar Kand of the Ramcharitmanas | known
+occasions: mahashivratri, shravan, daily
+when: Sung in Shiv puja, on Mondays, through Sawan and on Maha Shivratri. In the Manas, a Brahmin sings it to win Shiv’s mercy for his disciple.
+notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the second verse as “गिरा ग्यान गोतीतमीशं गिरीशं”.
+
+---
+नमामीशमीशान निर्वाणरूपं। विभुं व्यापकं ब्रह्म वेदस्वरूपं॥
+निजं निर्गुणं निर्विकल्पं निरीहं। चिदाकाशमाकाशवासं भजेऽहं॥
+~ Namamishamishan nirvanaroopam, vibhum vyapakam Brahma Vedasvaroopam,
+~ Nijam nirgunam nirvikalpam niriham, chidakashamakashavasam bhaje’ham.
+= I bow to the Lord of all, whose very form is liberation: all-pervading, the Brahman whose form is the Veda. I worship him who is the Self, beyond qualities, doubt and desire, pure consciousness spread like the sky.
+
+---
+निराकारमोंकारमूलं तुरीयं। गिरा ज्ञान गोतीतमीशं गिरीशं॥
+करालं महाकाल कालं कृपालं। गुणागार संसारपारं नतोऽहं॥
+~ Nirakaram Omkaramoolam turiyam, gira gyan gotitamisham Girisham,
+~ Karalam Mahakal kalam kripalam, gunagar sansaraparam nato’ham.
+= Formless, the root of Om, beyond the three states of waking, dream and sleep; beyond speech, thought and the senses, lord of the mountain. Fearsome, the death of Death, yet full of mercy, home of all virtues, beyond the world: to him I bow.
+
+---
+तुषाराद्रि संकाश गौरं गभीरं। मनोभूत कोटि प्रभा श्री शरीरं॥
+स्फुरन्मौलि कल्लोलिनी चारु गंगा। लसद्भालबालेन्दु कंठे भुजंगा॥
+~ Tusharadri sankash gauram gabhiram, manobhoot koti prabha shri shariram,
+~ Sphuranmauli kallolini charu Ganga, lasadbhalabalendu kanthe bhujanga.
+= Fair as the snowy Himalaya and deep beyond measure, his body shines with the beauty of millions of Kamadevs. The lovely Ganga ripples on his head, the young moon glows on his brow, and serpents circle his neck.
+
+---
+चलत्कुण्डलं भ्रू सुनेत्रं विशालं। प्रसन्नाननं नीलकंठं दयालं॥
+मृगाधीशचर्माम्बरं मुण्डमालं। प्रियं शंकरं सर्वनाथं भजामि॥
+~ Chalatkundalam bhru sunetram vishalam, prasannananam Neelkantham dayalam,
+~ Mrigadhishacharmambaram mundamalam, priyam Shankaram sarvanatham bhajami.
+= Earrings swaying, fine brows and wide, lovely eyes, a joyful face, a blue throat and a kind heart; clothed in a lion’s skin and garlanded with skulls: I worship beloved Shankar, lord of all.
+
+---
+प्रचंडं प्रकृष्टं प्रगल्भं परेशं। अखंडं अजं भानुकोटिप्रकाशं॥
+त्रयः शूल निर्मूलनं शूलपाणिं। भजेऽहं भवानीपतिं भावगम्यं॥
+~ Prachandam prakrishtam pragalbham paresham, akhandam ajam bhanukotiprakasham,
+~ Trayah shool nirmoolanam shoolapanim, bhaje’ham Bhavanipatim bhavagamyam.
+= Fierce, supreme, fearless, the highest lord; whole, unborn, bright as millions of suns; the trident-holder who uproots the three kinds of suffering. I worship Bhavani’s lord, who is reached through love.
+
+---
+कलातीत कल्याण कल्पान्तकारी। सदा सज्जनानन्ददाता पुरारी॥
+चिदानंदसंदोह मोहापहारी। प्रसीद प्रसीद प्रभो मन्मथारी॥
+~ Kalatit kalyan kalpantakari, sada sajjanananda data Purari,
+~ Chidananda sandoha mohapahari, prasida prasida prabho Manmathari.
+= Beyond time and parts, all goodness, who brings each age to its close; giver of joy to the good, destroyer of Tripura; mass of consciousness and bliss who removes delusion: be pleased, be pleased, O Lord who burned Kamadev.
+
+---
+न यावत् उमानाथ पादारविन्दं। भजन्तीह लोके परे वा नराणां॥
+न तावत्सुखं शान्ति सन्तापनाशं। प्रसीद प्रभो सर्वभूताधिवासं॥
+~ Na yavat Umanath padaravindam, bhajantiha loke pare va naranam,
+~ Na tavat sukham shanti santapanasham, prasida prabho sarvabhootadhivasam.
+= Until people worship the lotus feet of Uma’s lord, they find no happiness or peace in this world or the next, and their pain does not end. Be pleased, Lord who lives in every being.
+
+---
+न जानामि योगं जपं नैव पूजां। नतोऽहं सदा सर्वदा शम्भु तुभ्यं॥
+जरा जन्म दुःखौघ तातप्यमानं। प्रभो पाहि आपन्नमामीश शंभो॥
+~ Na janami yogam japam naiva pujam, nato’ham sada sarvada Shambhu tubhyam,
+~ Jara janma duhkhaugha tatapyamanam, prabho pahi apannamamisha Shambho.
+= I know no yoga, no japa, no proper worship; I only bow to you, always, Shambhu. I burn in the flood of sorrow of birth and old age: protect me, Lord, for I have come to you in distress.
+
+--- फल
+रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये।
+ये पठन्ति नरा भक्त्या तेषां शम्भुः प्रसीदति॥
+~ Rudrashtakamidam proktam viprena haratoshaye,
+~ ye pathanti nara bhaktya tesham Shambhuh prasidati.
+= This Rudrashtakam was sung by a Brahmin to please Shiv. Shambhu is pleased with all who recite it with devotion.

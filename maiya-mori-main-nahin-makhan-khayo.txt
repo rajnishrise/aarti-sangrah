@@ -1,0 +1,45 @@
+id: maiya-mori-main-nahin-makhan-khayo
+kind: bhajan
+deity: krishna
+lang: hi
+language: Hindi
+dialect: Braj Bhasha
+region: All of North India, especially Braj
+title: मैया मोरी मैं नहिं माखन खायो | Maiya Mori Main Nahin Makhan Khayo | Little Krishna pleads his innocence
+author: Surdas, 16th century. The last verse carries his name. | attributed
+occasions: janmashtami, daily
+when: A favourite on Janmashtami and in tellings of Krishna’s childhood, often sung to children.
+refrain-first: yes
+
+--- refrain
+मैया मोरी मैं नहिं माखन खायो॥
+~ Maiya mori main nahin makhan khayo.
+= Mother, I did not eat the butter!
+
+---
+भोर भयो गैयन के पाछे, मधुबन मोहिं पठायो।
+चार पहर बंसीबट भटक्यो, साँझ परे घर आयो॥
+~ Bhor bhayo gaiyan ke pachhe, Madhuban mohin pathayo,
+~ Char pahar Bansibat bhatakyo, saanjh pare ghar aayo.
+= At dawn you sent me off to Madhuban behind the cows. All day I wandered by the Bansivat tree, and came home only at dusk.
+
+---
+मैं बालक बहियन को छोटो, छींको किहि बिधि पायो।
+ग्वाल बाल सब बैर परे हैं, बरबस मुख लपटायो॥
+~ Main balak bahiyan ko chhoto, chheenko kihi bidhi paayo,
+~ Gwal baal sab bair pare hain, barbas mukh laptayo.
+= I’m a little boy with short arms; how could I reach the pot hanging from the rafters? The cowherd boys are all against me. They smeared the butter on my face!
+
+---
+तू जननी मन की अति भोरी, इनके कहे पतिआयो।
+जिय तेरे कछु भेद उपजि है, जानि परायो जायो॥
+~ Tu janani man ki ati bhori, inke kahe patiayo,
+~ Jiya tere kachhu bhed upaji hai, jaani parayo jaayo.
+= Mother, you are far too trusting; you believed what they said. Some doubt has come into your heart, as if I were somebody else’s child.
+
+---
+यह लै अपनी लकुटि कमरिया, बहुतहिं नाच नचायो।
+सूरदास तब बिहँसि जसोदा, लै उर कंठ लगायो॥
+~ Yah lai apni lakuti kamariya, bahutahin naach nachayo,
+~ Surdas tab bihansi Jasoda, lai ur kanth lagayo.
+= “Here, take back your stick and blanket; you’ve made me dance enough!” Then, says Surdas, Yashoda laughed and hugged him close.

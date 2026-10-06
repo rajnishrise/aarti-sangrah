@@ -1,0 +1,20 @@
+id: sarve-bhavantu-sukhinah
+kind: mantra
+form: Shanti mantra
+deity: ishvar
+lang: sa
+language: Sanskrit
+region: All of India
+title: सर्वे भवन्तु सुखिनः | Sarve Bhavantu Sukhinah | A prayer for the happiness of all
+author: Traditional Sanskrit prayer | traditional
+occasions: closing, meals, daily
+when: A prayer for the welfare of every being, said at the end of puja, satsang or a meal.
+
+---
+ॐ सर्वे भवन्तु सुखिनः सर्वे सन्तु निरामयाः।
+सर्वे भद्राणि पश्यन्तु मा कश्चिद्दुःखभाग्भवेत्॥
+ॐ शान्तिः शान्तिः शान्तिः॥
+~ Om sarve bhavantu sukhinah, sarve santu niramayah,
+~ Sarve bhadrani pashyantu, ma kashchid duhkhabhagbhavet.
+~ Om shantih shantih shantih.
+= May all be happy; may all be free from illness. May all see only what is good, and may no one suffer. Om, peace, peace, peace.
