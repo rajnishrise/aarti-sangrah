@@ -17,6 +17,7 @@ when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram
 ~ Shri Ramchandra kripalu bhaju man, haran bhavbhay daarunam,
 ~ Navkanj lochan kanj mukh, kar kanj pad kanjarunam.
 = O mind, worship the compassionate Shri Ramchandra, who removes the terrible fear of worldly life: eyes like fresh lotuses, a lotus face, lotus hands and feet like red lotuses.
++ हे मन, कृपालु श्री रामचन्द्र का भजन कर, जो संसार के भयंकर भय को हरने वाले हैं; जिनके नेत्र नए खिले कमल जैसे हैं, मुख कमल जैसा है, और हाथ-पैर लाल कमल जैसे हैं।
 
 ---
 कंदर्प अगणित अमित छवि, नवनील नीरद सुन्दरम्।
@@ -24,6 +25,7 @@ when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram
 ~ Kandarp aganit amit chhavi, navneel neerad sundaram,
 ~ Pat peet maanahun tadit ruchi, shuchi naumi Janak sutavaram.
 = His beauty outshines countless Kamadevs; he is lovely as a fresh dark rain-cloud, and his yellow robe gleams like lightning. I bow to that pure one, husband of Janak’s daughter.
++ उनकी छवि अनगिनत कामदेवों से भी बढ़कर है; वे नए नीले बादल जैसे सुन्दर हैं, और उनका पीताम्बर बिजली जैसा चमकता है। जनकपुत्री सीता के पति उन पवित्र प्रभु को मैं नमस्कार करता हूँ।
 
 ---
 भजु दीनबन्धु दिनेश दानव, दैत्यवंश निकन्दनम्।
@@ -31,6 +33,7 @@ when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram
 ~ Bhaju deenbandhu dinesh daanav, daityavansh nikandanam,
 ~ Raghunand anandkand Koshalchand, Dashrath nandanam.
 = Worship the friend of the humble, radiant as the sun, who uprooted the clans of demons: joy of the Raghus, root of bliss, moon of Koshal, son of Dasharath.
++ दीनों के बन्धु, सूर्य जैसे तेजस्वी, दानवों और दैत्यों के वंश का नाश करने वाले, रघुकुल के आनन्द, आनन्द के मूल, कोसल के चन्द्रमा, दशरथनन्दन का भजन कर।
 
 ---
 सिर मुकुट कुण्डल तिलक चारु, उदारु अंग विभूषणम्।
@@ -38,6 +41,7 @@ when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram
 ~ Sir mukut kundal tilak chaaru, udaaru ang vibhooshanam,
 ~ Aajanubhuj shar chaap dhar, sangram jit Khar-Dooshanam.
 = A crown on his head, earrings and a graceful tilak, fine ornaments on every limb; arms reaching to his knees, holding bow and arrows, he defeated Khar and Dooshan in battle.
++ सिर पर मुकुट, कानों में कुण्डल, माथे पर सुन्दर तिलक और सब अंगों पर सुन्दर आभूषण हैं; घुटनों तक लम्बी भुजाओं में धनुष-बाण हैं, और उन्होंने युद्ध में खर-दूषण को जीता।
 
 ---
 इति वदति तुलसीदास शंकर, शेष मुनि मन रंजनम्।
@@ -45,3 +49,4 @@ when: Strictly a stuti, not an aarti, but it is the piece most often sung at Ram
 ~ Iti vadati Tulsidas Shankar, Shesh muni man ranjanam,
 ~ Mam hriday kanj nivaas kuru, kaamaadi khaldal ganjanam.
 = So says Tulsidas: delight of the hearts of Shankar, Shesh and the sages, make your home in the lotus of my heart and destroy the wicked host of desire and the other vices.
++ तुलसीदास कहते हैं: हे शंकर, शेष और मुनियों के मन को आनन्द देने वाले, मेरे हृदय-कमल में निवास कीजिए और काम आदि दुष्टों के दल का नाश कीजिए।

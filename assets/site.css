@@ -335,3 +335,139 @@ body.searching .sec{display:none}
 .chip .mono.xs{width:28px;height:28px;font-size:.85rem}
 .dp-head .kind{margin:0;color:var(--ink3)}
 @media print{.offer,.chnav,.ah-arch,.mala,.petals{display:none!important}}
+
+/* ===== Reader bar: back, home and reading progress ===== */
+.navbtns{display:flex;gap:2px;flex:none}
+.nb{gap:5px;padding:6px 10px}
+.nb svg{width:18px;height:18px;flex:none}
+@media (max-width:480px){.nb span{display:none}.nb{min-width:42px;padding:6px}}
+.rbar{position:sticky}
+.progress{position:absolute;left:0;right:0;bottom:-1px;height:2px;pointer-events:none}
+.progress span{display:block;height:100%;background:linear-gradient(90deg,var(--marigold),var(--kumkum));transform:scaleX(0);transform-origin:0 50%}
+body.scrolled .top,body.scrolled .rbar{box-shadow:0 8px 18px -16px rgba(80,30,0,.55)}
+
+/* ===== Meanings: English, Hindi, both or off ===== */
+.mean-hi{margin:.5em 0 0;padding-top:.5em;border-top:1px dashed var(--rule2);color:var(--ink2);font-family:var(--f-deva);font-size:.98em;line-height:1.75;max-width:60ch}
+.m-both .mean+.mean-hi{border-top:0;padding-top:0;margin-top:.35em}
+.m-off .mean,.m-off .mean-hi,.m-en .mean-hi,.m-hi .mean{display:none}
+.seg-l{display:inline-grid;place-items:center;padding:0 9px;font-size:.8rem;color:var(--ink3);background:var(--paper2);border-right:1.5px solid var(--rule2)}
+.seg .seg-l+button{border-left:0}
+@media (max-width:480px){.seg-l{display:none}}
+.spn{font-size:.85em;color:var(--ink3)}
+
+/* ===== Granth chapter list: summaries and partial chapters ===== */
+.ch-sum{margin:-4px 0 10px 3.6rem;font-size:.93rem;color:var(--ink2)}
+.ch-sum summary{cursor:pointer;color:var(--peacock);min-height:30px;display:flex;align-items:center;list-style:none}
+.ch-sum summary::-webkit-details-marker{display:none}
+.ch-sum summary::before{content:"▸";margin-right:6px;transition:transform .2s}
+.ch-sum[open] summary::before{transform:rotate(90deg)}
+.ch-sum p{margin:4px 0 0;max-width:62ch;line-height:1.6}
+.ch .part{color:var(--ink3)}
+.intro.excerpt{border-left-color:var(--kumkum);font-size:.95rem}
+
+/* ===== Buttons used on the festive red bands ===== */
+.btn.gold{background:linear-gradient(180deg,#FFD877,#F2A516);border-color:#F2A516;color:#4A1A06;font-weight:600}
+.btn.gold:hover{border-color:#FFE7B0;filter:brightness(1.05)}
+.btn.ghost{background:transparent;border-color:rgba(255,231,176,.45);color:inherit}
+.btn.ghost:hover{background:rgba(255,231,176,.12);border-color:rgba(255,231,176,.8)}
+.festbtn{background:linear-gradient(180deg,#B3202A,#8E1A1A);border-color:#8E1A1A;color:#FFE7B0;font-family:var(--f-deva);font-size:1.05rem;padding-top:8px}
+.festbtn:hover{border-color:var(--marigold)}
+.dp-cta{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0 0}
+
+/* ===== Home: Navratri band ===== */
+.navband{position:relative;color:#FFE7B0;background:
+  radial-gradient(circle at 12% 20%,rgba(255,200,80,.18),transparent 40%),
+  radial-gradient(circle at 88% 80%,rgba(255,120,60,.16),transparent 45%),
+  linear-gradient(135deg,#6E0F14,#9B1C1C 55%,#7A1410);border-bottom:3px solid var(--marigold)}
+.navband::before{content:"";position:absolute;inset:0;opacity:.12;background:radial-gradient(circle,#FFD877 1.2px,transparent 1.6px) 0 0/22px 22px;pointer-events:none}
+.nb-in{position:relative;display:grid;gap:18px 28px;align-items:center;padding-block:26px}
+@media (min-width:760px){.nb-in{grid-template-columns:1fr auto}}
+.nv-kicker{margin:0;font-size:.9rem;letter-spacing:.06em;text-transform:uppercase;color:#F6C76A}
+.nb-title{margin:2px 0 0;font-family:var(--f-deva);font-weight:400;font-size:clamp(2.2rem,8vw,3.4rem);line-height:1.15}
+.nb-sub{margin:6px 0 0;max-width:56ch;opacity:.92}
+.nb-acts{display:flex;flex-wrap:wrap;gap:8px;margin-top:16px}
+.nb-dots{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(9,minmax(0,1fr));gap:6px;max-width:420px}
+@media (min-width:760px){.nb-dots{grid-template-columns:repeat(3,48px)}}
+.nb-dots li{display:grid;place-items:center;aspect-ratio:1;border-radius:50%;border:1.5px solid rgba(255,231,176,.4);font-family:var(--f-deva);font-size:1.05rem;padding-top:.15em}
+.nb-dots li.done{background:rgba(255,231,176,.16);border-color:rgba(255,231,176,.25);opacity:.75}
+.nb-dots li.on{background:#F2A516;border-color:#FFE7B0;color:#4A1A06;box-shadow:0 0 0 4px rgba(242,165,22,.3),0 0 22px rgba(255,200,80,.6)}
+.lchip.nav{background:rgba(242,165,22,.22);border-color:rgba(255,215,130,.7)}
+.lchip.more{padding-left:14px}
+.nv-dot{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:#F2A516;color:#4A1A06;font-family:var(--f-deva);font-size:1rem;padding-top:.1em}
+
+/* ===== Navratri pages ===== */
+.page.nv{padding-top:0}
+.nv-hero{margin:0 -18px;color:#FFE7B0;background:linear-gradient(135deg,#6E0F14,#9B1C1C 55%,#7A1410);border-radius:0 0 22px 22px;overflow:hidden}
+.nv-hero .toran{height:30px}
+.nv-in{display:grid;grid-template-columns:auto 1fr;gap:18px 22px;align-items:center;padding:8px 22px 26px}
+.nv-title{margin:2px 0 0;font-family:var(--f-deva);font-weight:400;font-size:clamp(2.4rem,9vw,3.8rem);line-height:1.1}
+.nv-en{margin:0;color:#F6C76A}
+.nv-status{margin:8px 0 14px;max-width:46ch}
+.nights{list-style:none;margin:14px 0 0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+@media (min-width:860px){.nights{grid-template-columns:repeat(9,minmax(0,1fr));gap:8px}}
+.night{position:relative;display:flex;flex-direction:column;align-items:center;text-align:center;gap:1px;padding:12px 6px 10px;border-radius:14px 14px 10px 10px;border:1.5px solid var(--rule2);background:var(--leaf);color:inherit;text-decoration:none;height:100%;transition:transform .15s,box-shadow .15s,border-color .15s}
+.night:hover{transform:translateY(-2px);box-shadow:var(--shade);border-color:var(--marigold)}
+.night .nn{font-family:var(--f-deva);font-size:1.7rem;line-height:1;color:var(--kumkum)}
+.night .ng{font-family:var(--f-deva);font-size:1.05rem;line-height:1.3;margin-top:4px}
+.night .ne{font-size:.78rem;color:var(--ink3)}
+.night .nd{font-size:.75rem;color:var(--ink3);margin-top:3px}
+.night.past{opacity:.7}
+.night.tonight{background:linear-gradient(180deg,#FFE7A8,#F7C65A);border-color:#E39A12;color:#3A1606;box-shadow:0 10px 24px -14px rgba(200,110,0,.9)}
+.night.tonight .nn{color:#8E1A1A}.night.tonight .ne,.night.tonight .nd{color:#5A3108;font-weight:600}
+.night[aria-current="page"]{outline:2.5px solid var(--kumkum);outline-offset:2px}
+.nv-about{margin-top:26px;max-width:66ch}
+.nv-about p{color:var(--ink2);margin:0 0 12px}
+.customs{display:grid;gap:12px;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));margin-top:12px}
+.custom{padding:14px 16px;border-radius:14px;background:var(--leaf);border:1px solid var(--rule)}
+.custom h3{margin:0 0 4px;font-size:1rem}
+.custom h3 span{display:block;font-family:var(--f-deva);font-weight:400;color:var(--kumkum);font-size:1.2rem}
+.custom p{margin:0;color:var(--ink2);font-size:.95rem}
+.nv-puja{padding:16px 18px;border-radius:14px;border:1.5px dashed var(--rule2);background:var(--paper2)}
+.nv-day{margin-top:26px;max-width:760px}
+.nv-day>p{color:var(--ink2);max-width:64ch}
+.nv-g{display:flex;align-items:center;gap:14px;margin:4px 0 0;font-family:var(--f-deva);font-weight:400;font-size:clamp(2.2rem,8vw,3.2rem);line-height:1.15;color:var(--kumkum)}
+.nv-num{display:inline-grid;place-items:center;width:1.4em;height:1.4em;border-radius:50%;background:var(--kumkum);color:var(--on-kumkum);font-size:.62em;padding-top:.12em;flex:none}
+.nv-means{margin:4px 0 12px!important;font-size:1.1rem;color:var(--ink)!important}
+.nv-facts{margin:14px 0 18px}
+.dhyan{position:relative;margin:22px 0 26px;padding:20px 22px;border-radius:16px;background:var(--leaf);border:1.5px solid var(--rule2);box-shadow:var(--shade);text-align:center}
+.dhyan::before{content:"";position:absolute;inset:6px;border:1px solid var(--rule);border-radius:12px;pointer-events:none}
+.dhyan .dh-l{margin:0 0 6px;color:var(--ink3);font-size:.9rem}
+.dhyan .dh-l span{font-family:var(--f-deva);color:var(--kumkum);margin-right:6px}
+.dhyan .dev{font-size:calc(1.45rem*var(--scale))}
+.dhyan .rom{font-size:calc(1.05rem*var(--scale))}
+.dhyan .mean,.dhyan .mean-hi{margin-left:auto;margin-right:auto;text-align:left}
+.dhyan .btn{margin-top:14px;position:relative}
+.row .why{grid-column:2/4;font-size:.88rem;color:var(--peacock)}
+.nvrow .mono{font-size:1.2rem}
+
+/* ===== Back to top ===== */
+.totop{position:fixed;right:16px;bottom:calc(18px + env(safe-area-inset-bottom,0px));z-index:35;width:46px;height:46px;border-radius:50%;border:1.5px solid var(--rule2);background:var(--leaf);color:var(--ink);box-shadow:var(--shade);cursor:pointer;display:grid;place-items:center;opacity:0;transform:translateY(10px);pointer-events:none;transition:opacity .2s,transform .2s}
+.totop svg{width:22px;height:22px}
+.totop.show{opacity:1;transform:none;pointer-events:auto}
+body.puja .totop{display:none}
+
+/* ===== Small touches ===== */
+#reader.enter>*{animation:rise .35s ease-out both}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.dcard{transition:transform .18s}
+.dcard:hover{transform:translateY(-3px)}
+.pothi{transition:transform .18s,box-shadow .18s}
+.pothi:hover{transform:translateY(-2px);box-shadow:var(--shade)}
+.lchip{transition:background-color .15s}
+.row{transition:background-color .15s}
+::selection{background:rgba(242,165,22,.35)}
+@media print{.totop,.progress,.navbtns,.nb-acts,.dhyan .btn{display:none!important}.m-off .mean,.m-off .mean-hi{display:none}}
+.themeb svg{width:20px;height:20px}
+.nv-hero.compact .nv-in{grid-template-columns:1fr;padding:4px 22px 20px}
+.nv-hero.compact .nv-title{font-size:clamp(2rem,7vw,2.8rem)}
+.nv-hero.compact .nv-status{margin:4px 0 12px}
+@media (max-width:859px){
+  .nights.row{display:flex;overflow-x:auto;gap:8px;padding:4px 2px 10px;margin:10px -2px 0;scroll-snap-type:x proximity;scrollbar-width:none}
+  .nights.row::-webkit-scrollbar{display:none}
+  .nights.row li{flex:0 0 104px;scroll-snap-align:start}
+}
+body.searching .navband{display:none}
+.dhyan .mean,.dhyan .mean-hi{text-align:center;max-width:58ch}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .navband,:root:not([data-theme="light"]) .nv-hero{background:linear-gradient(135deg,#3A0A0C,#5A1012 55%,#3F0B0A)}}
+:root[data-theme="dark"] .navband,:root[data-theme="dark"] .nv-hero{background:linear-gradient(135deg,#3A0A0C,#5A1012 55%,#3F0B0A)}
+@media (max-width:430px){.festbtn{display:none!important}}

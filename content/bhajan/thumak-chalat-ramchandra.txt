@@ -15,6 +15,7 @@ refrain-first: yes
 ठुमक चलत रामचंद्र बाजत पैंजनियाँ॥
 ~ Thumak chalat Ramchandra baajat painjaniyan.
 = Little Ramchandra toddles along, his anklets jingling.
++ नन्हे रामचन्द्र ठुमक-ठुमक कर चल रहे हैं और उनकी पैंजनियाँ बज रही हैं।
 
 ---
 किलकि किलकि उठत धाय गिरत भूमि लटपटाय।
@@ -22,6 +23,7 @@ refrain-first: yes
 ~ Kilaki kilaki uthat dhaay girat bhoomi latpataay,
 ~ Dhaay maat god let Dashrath ki raniyan.
 = Squealing with laughter he gets up and runs, then stumbles and falls; Dasharath’s queens rush to gather him into their laps.
++ वे किलकारी मारते हुए उठकर दौड़ते हैं और लड़खड़ाकर ज़मीन पर गिर पड़ते हैं; राजा दशरथ की रानियाँ दौड़कर उन्हें गोद में उठा लेती हैं।
 
 ---
 अंचल रज अंग झारि विविध भाँति सो दुलारि।
@@ -29,6 +31,7 @@ refrain-first: yes
 ~ Anchal raj ang jhaari vividh bhaanti so dulaari,
 ~ Tan man dhan vaari vaari kahat mridu bachaniyan.
 = With the ends of their saris they brush the dust from him and fuss over him in every way, giving their all to him and speaking soft words.
++ वे अपने आँचल से उनके अंगों की धूल झाड़ती हैं, तरह-तरह से दुलार करती हैं, उन पर तन-मन-धन न्योछावर करती हैं और मीठे वचन बोलती हैं।
 
 ---
 विद्रुम से अरुण अधर बोलत मुख मधुर मधुर।
@@ -36,6 +39,7 @@ refrain-first: yes
 ~ Vidrum se arun adhar bolat mukh madhur madhur,
 ~ Subhag nasika mein charu latkat latkaniyan.
 = His lips are red as coral as he babbles sweetly, and a pretty ornament dangles at his nose.
++ मूँगे जैसे लाल होंठों से वे मीठी-मीठी तोतली बातें करते हैं, और सुन्दर नाक में प्यारा लटकन लटक रहा है।
 
 ---
 तुलसीदास अति आनंद देख के मुखारविंद।
@@ -43,3 +47,4 @@ refrain-first: yes
 ~ Tulsidas ati anand dekh ke mukharavind,
 ~ Raghuvar chhabi ke saman Raghuvar chhabi baniyan.
 = Tulsidas is overjoyed to see that lotus face: Raghuvar’s beauty can be compared only with Raghuvar’s beauty.
++ उनका कमल जैसा मुख देखकर तुलसीदास को बहुत आनन्द होता है; रघुवर की छवि जैसी केवल रघुवर की ही छवि है।

@@ -18,6 +18,7 @@ refrain-first: yes
 ~ Aarti Kunj Bihari ki,
 ~ Shri Giridhar Krishna Murari ki.
 = The aarti of Kunj Bihari, who roams the groves of Vrindavan: of Shri Giridhar, Krishna, Murari.
++ वृन्दावन के कुंजों में विहार करने वाले, गोवर्धन धारण करने वाले श्रीकृष्ण मुरारी की आरती।
 
 ---
 गले में बैजंती माला, बजावै मुरली मधुर बाला।
@@ -31,6 +32,7 @@ refrain-first: yes
 ~ Latan mein thaadhe Banmali; bhramar si alak, kasturi tilak,
 ~ Chandra si jhalak; lalit chhavi Shyama pyari ki.
 = He wears the Vaijayanti garland and plays his flute sweetly; earrings glitter in his ears, Nandlal, the joy of Nand. His body is dark as the sky and Radha shines beside him; he stands among the creepers with curls like black bees, a musk tilak and a moon-like glow — the lovely beauty of Shyama’s beloved.
++ उनके गले में वैजयन्ती माला है और वे मधुर मुरली बजाते हैं; कानों में कुण्डल झलकते हैं, वे नन्द के आनन्द नन्दलाल हैं। आकाश जैसा साँवला शरीर है और साथ में राधिका चमक रही हैं; वे लताओं के बीच खड़े वनमाली हैं, भौंरों जैसी लटें, कस्तूरी का तिलक और चन्द्रमा जैसी आभा है। यह श्यामा (राधा) के प्रिय की ललित छवि है।
 
 ---
 कनकमय मोर मुकुट बिलसै, देवता दरसन को तरसैं।
@@ -42,6 +44,7 @@ refrain-first: yes
 ~ Baje murchang, madhur mirdang, gwalin sang;
 ~ Atul rati gop kumari ki.
 = A golden peacock-feather crown gleams; the gods long for a glimpse of him and flowers rain from the sky. The murchang and mridang play sweetly among the cowherd girls, whose love for him has no equal.
++ सोने का मोर-मुकुट चमक रहा है; देवता उनके दर्शन को तरसते हैं और आकाश से फूलों की वर्षा होती है। ग्वालिनों के साथ मुरचंग और मधुर मृदंग बज रहे हैं; गोप-कुमारियों का उनसे अतुलनीय प्रेम है।
 
 ---
 जहां ते प्रकट भई गंगा, कलुष कलि हारिणि श्रीगंगा।
@@ -53,6 +56,7 @@ refrain-first: yes
 ~ Basi Shiv sees, jata ke beech, harai agh keech;
 ~ Charan chhavi Shri Banwari ki.
 = The beauty of Banwari’s feet, from which the Ganga flowed: Shri Ganga, who washes away the impurity of this age, whose remembrance breaks delusion, who lives in Shiv’s matted hair and cleanses the mire of sin.
++ यह श्री बनवारी के चरणों की छवि है, जिनसे गंगा प्रकट हुईं: वे श्रीगंगा जो कलियुग के पाप हरती हैं, जिनके स्मरण से मोह टूट जाता है, जो शिवजी की जटाओं में बसती हैं और पाप का कीचड़ धो देती हैं।
 
 ---
 चमकती उज्ज्वल तट रेनू, बज रही वृंदावन बेनू।
@@ -64,3 +68,4 @@ refrain-first: yes
 ~ Hansat mridu mand, chandni chand, katat bhav phand;
 ~ Ter sun deen dukhari ki.
 = The bright sand of the riverbank glitters and the flute sounds through Vrindavan, with gopis, cowherds and cows all around. He smiles softly, like moonlight, cutting the bonds of worldly life, and hears the call of the humble and suffering.
++ यमुना तट की उजली रेत चमक रही है, वृन्दावन में बाँसुरी बज रही है, चारों ओर गोपियाँ, ग्वाले और गायें हैं। वे चाँदनी जैसी कोमल मुस्कान से संसार के बन्धन काटते हैं और दीन-दुखियों की पुकार सुनते हैं।

@@ -1,0 +1,108 @@
+id: bhavani-ashtakam
+kind: stotra
+form: Ashtakam
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: भवान्यष्टकम् | Bhavani Ashtakam | Eight verses of surrender to Bhavani
+author: Adi Shankaracharya, 8th century | attributed
+occasions: navratri, daily
+when: A prayer of complete surrender, recited in Navratri and whenever one feels helpless. Every verse ends with the same line: you alone are my refuge, Bhavani.
+notes: The refrain “गतिस्त्वं गतिस्त्वं त्वमेका भवानि” closes all eight verses. Some editions add a ninth verse giving the benefit of reciting it.
+
+---
+न तातो न माता न बन्धुर्न दाता
+न पुत्रो न पुत्री न भृत्यो न भर्ता।
+न जाया न विद्या न वृत्तिर्ममैव
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Na tato na mata na bandhurna data,
+~ Na putro na putri na bhrityo na bharta.
+~ Na jaya na vidya na vrittirmamaiva,
+~ Gatistvam gatistvam tvameka Bhavani.
+= No father, no mother, no kinsman, no benefactor; no son, no daughter, no servant, no master; no wife, no learning, no livelihood is truly mine. You are my refuge, you are my refuge, you alone, Bhavani.
++ न पिता, न माता, न भाई-बन्धु, न दाता; न पुत्र, न पुत्री, न सेवक, न स्वामी; न पत्नी, न विद्या, न आजीविका, कुछ भी सचमुच मेरा नहीं है। हे भवानी, आप ही मेरी गति हैं, आप ही मेरी गति हैं, केवल आप।
+
+---
+भवाब्धावपारे महादुःखभीरुः
+पपात प्रकामी प्रलोभी प्रमत्तः।
+कुसंसारपाशप्रबद्धः सदाहं
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Bhavabdhavapare mahaduhkhabhiruh,
+~ Papata prakami pralobhi pramattah.
+~ Kusansarapashaprabaddhah sadaham,
+~ Gatistvam gatistvam tvameka Bhavani.
+= In the shoreless ocean of worldly life I have fallen, terrified of its great sorrows, full of desire, greed and heedlessness, and always bound by the noose of this wretched world. You are my refuge, you alone, Bhavani.
++ इस अपार संसार-सागर में मैं गिर पड़ा हूँ, बड़े दुःखों से डरा हुआ, कामना, लोभ और प्रमाद से भरा हुआ, और सदा इस बुरे संसार के बन्धन में बँधा हुआ। हे भवानी, केवल आप ही मेरी गति हैं।
+
+---
+न जानामि दानं न च ध्यानयोगं
+न जानामि तन्त्रं न च स्तोत्रमन्त्रम्।
+न जानामि पूजां न च न्यासयोगं
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Na janami danam na cha dhyanayogam,
+~ Na janami tantram na cha stotramantram.
+~ Na janami pujam na cha nyasayogam,
+~ Gatistvam gatistvam tvameka Bhavani.
+= I know nothing of charity or the discipline of meditation, nothing of tantra, hymns or mantras, nothing of worship or the placing of mantras on the body. You are my refuge, you alone, Bhavani.
++ मैं न दान जानता हूँ, न ध्यान-योग; न तन्त्र जानता हूँ, न स्तोत्र और मन्त्र; न पूजा जानता हूँ, न न्यास की विधि। हे भवानी, केवल आप ही मेरी गति हैं।
+
+---
+न जानामि पुण्यं न जानामि तीर्थं
+न जानामि मुक्तिं लयं वा कदाचित्।
+न जानामि भक्तिं व्रतं वापि मातर्
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Na janami punyam na janami tirtham,
+~ Na janami muktim layam va kadachit.
+~ Na janami bhaktim vratam vapi matar,
+~ Gatistvam gatistvam tvameka Bhavani.
+= I know nothing of merit or of pilgrimage, nothing ever of liberation or of merging into the divine, nothing of devotion or of vows, Mother. You are my refuge, you alone, Bhavani.
++ मैं न पुण्य जानता हूँ, न तीर्थ; न कभी मुक्ति जानी, न लय; हे माता, न भक्ति जानता हूँ, न व्रत। हे भवानी, केवल आप ही मेरी गति हैं।
+
+---
+कुकर्मी कुसङ्गी कुबुद्धिः कुदासः
+कुलाचारहीनः कदाचारलीनः।
+कुदृष्टिः कुवाक्यप्रबन्धः सदाहं
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Kukarmi kusangi kubuddhih kudasah,
+~ Kulacharahinah kadacharalinah.
+~ Kudrishtih kuvakyaprabandhah sadaham,
+~ Gatistvam gatistvam tvameka Bhavani.
+= I do wrong, keep bad company, think badly and serve poorly; I have abandoned the ways of my family and sunk into bad conduct; my eyes look on evil and my words are always harsh. You are my refuge, you alone, Bhavani.
++ मैं बुरे कर्म करने वाला, बुरी संगति वाला, दुर्बुद्धि और बुरा सेवक हूँ; कुल के आचार से हीन और दुराचार में डूबा हुआ हूँ; मेरी दृष्टि बुरी है और मैं सदा कटु वचन बोलता हूँ। हे भवानी, केवल आप ही मेरी गति हैं।
+
+---
+प्रजेशं रमेशं महेशं सुरेशं
+दिनेशं निशीथेश्वरं वा कदाचित्।
+न जानामि चान्यत् सदाहं शरण्ये
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Prajesham Ramesham Mahesham Suresham,
+~ Dinesham nishitheshvaram va kadachit.
+~ Na janami chanyat sadaham sharanye,
+~ Gatistvam gatistvam tvameka Bhavani.
+= I have never known Brahma, Vishnu, Shiv or Indra, the Sun or the Moon, nor anyone else; giver of refuge, you are my refuge, you alone, Bhavani.
++ मैं ब्रह्मा, विष्णु, महेश, इन्द्र, सूर्य या चन्द्रमा को कभी नहीं जानता, न किसी और को; हे शरण देने वाली, केवल आप ही मेरी गति हैं, हे भवानी।
+
+---
+विवादे विषादे प्रमादे प्रवासे
+जले चानले पर्वते शत्रुमध्ये।
+अरण्ये शरण्ये सदा मां प्रपाहि
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Vivade vishade pramade pravase,
+~ Jale chanale parvate shatrumadhye.
+~ Aranye sharanye sada mam prapahi,
+~ Gatistvam gatistvam tvameka Bhavani.
+= In quarrels and in grief, in carelessness and far from home, in water and in fire, on mountains and among enemies, in the forest: giver of refuge, protect me always. You are my refuge, you alone, Bhavani.
++ विवाद में, दुःख में, भूल में, परदेस में, जल में, आग में, पर्वत पर, शत्रुओं के बीच और वन में, हे शरण देने वाली, सदा मेरी रक्षा कीजिए। हे भवानी, केवल आप ही मेरी गति हैं।
+
+---
+अनाथो दरिद्रो जरारोगयुक्तो
+महाक्षीणदीनः सदा जाड्यवक्त्रः।
+विपत्तौ प्रविष्टः प्रणष्टः सदाहं
+गतिस्त्वं गतिस्त्वं त्वमेका भवानि॥
+~ Anatho daridro jararogayukto,
+~ Mahakshinadinah sada jadyavaktrah.
+~ Vipattau pravishtah pranashtah sadaham,
+~ Gatistvam gatistvam tvameka Bhavani.
+= Helpless and poor, worn by age and illness, utterly weak and wretched, always dull of speech, sunk in misfortune and lost: you are my refuge, you alone, Bhavani.
++ मैं अनाथ हूँ, दरिद्र हूँ, बुढ़ापे और रोग से घिरा हूँ, अत्यन्त दुर्बल और दीन हूँ, सदा जड़ बुद्धि वाला, विपत्ति में पड़ा और नष्ट हुआ हूँ। हे भवानी, केवल आप ही मेरी गति हैं।

@@ -20,3 +20,4 @@ when: Recited at school assemblies, before study and exams, and in Saraswati Puj
 ~ Ya Brahmachyuta Shankara prabhritibhir devaih sada vandita,
 ~ Sa mam patu Saraswati Bhagavati nihshesha jadyapaha.
 = She who is white as jasmine, the moon, snow and a string of pearls, dressed in white; whose hands are graced by the veena and the staff of blessing; who sits on a white lotus; who is always worshipped by Brahma, Vishnu, Shiv and all the gods: may that Goddess Saraswati, who removes all dullness of mind, protect me.
++ जो कुन्द के फूल, चन्द्रमा, बर्फ और मोतियों के हार जैसी श्वेत हैं, जो श्वेत वस्त्र पहनती हैं, जिनके हाथ वीणा और वरदण्ड से सुशोभित हैं, जो श्वेत कमल पर विराजती हैं, और ब्रह्मा, विष्णु, शंकर आदि देवता जिनकी सदा वन्दना करते हैं, वे सारी जड़ता दूर करने वाली भगवती सरस्वती मेरी रक्षा करें।

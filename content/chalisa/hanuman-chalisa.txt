@@ -17,6 +17,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Shriguru charan saroj raj, nij manu mukuru sudhari,
 ~ Baranaun Raghubar bimal jasu, jo dayaku phal chari.
 = Cleaning the mirror of my mind with the dust of my Guru’s lotus feet, I sing the spotless glory of Shri Ram, which grants the four aims of life.
++ श्री गुरु के चरणकमलों की धूल से अपने मन रूपी दर्पण को स्वच्छ करके, मैं श्री रघुवीर के निर्मल यश का वर्णन करता हूँ, जो चारों फल (धर्म, अर्थ, काम, मोक्ष) देने वाला है।
 
 --- दोहा
 बुद्धिहीन तनु जानिके, सुमिरौं पवन-कुमार।
@@ -24,6 +25,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Buddhiheen tanu janike, sumiraun Pavan-kumar,
 ~ Bal buddhi bidya dehu mohin, harahu kalesh bikar.
 = Knowing how little wisdom I have, I remember the son of the Wind. Give me strength, understanding and knowledge, and take away my troubles and faults.
++ अपने आप को बुद्धिहीन जानकर मैं पवनपुत्र हनुमान का स्मरण करता हूँ। हे प्रभु, मुझे बल, बुद्धि और विद्या दीजिए और मेरे क्लेश और विकार दूर कीजिए।
 
 ---
 जय हनुमान ज्ञान गुन सागर।
@@ -31,6 +33,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jai Hanuman gyan gun sagar,
 ~ jai Kapis tihun lok ujagar.
 = Victory to Hanuman, ocean of wisdom and virtue! Victory to the lord of the monkeys, whose light fills the three worlds.
++ हे ज्ञान और गुणों के सागर हनुमान, आपकी जय हो! हे वानरों के स्वामी, तीनों लोकों को प्रकाशित करने वाले, आपकी जय हो!
 
 ---
 राम दूत अतुलित बल धामा।
@@ -38,6 +41,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Ram doot atulit bal dhama,
 ~ Anjani-putra Pavansut nama.
 = Ram’s messenger, home of matchless strength, known as Anjani’s son and the son of the Wind.
++ आप श्री राम के दूत और अतुलित बल के धाम हैं; आप अंजनीपुत्र और पवनसुत नाम से जाने जाते हैं।
 
 ---
 महाबीर बिक्रम बजरंगी।
@@ -45,6 +49,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Mahabir bikram Bajrangi,
 ~ kumati nivar sumati ke sangi.
 = Great hero, mighty one with a body like a thunderbolt, you drive away bad thoughts and stand beside good sense.
++ हे महावीर, पराक्रमी, वज्र जैसे अंगों वाले, आप बुरी बुद्धि को दूर करते हैं और अच्छी बुद्धि वालों के साथी हैं।
 
 ---
 कंचन बरन बिराज सुबेसा।
@@ -52,6 +57,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Kanchan baran biraj subesa,
 ~ kanan kundal kunchit kesa.
 = Golden in colour and finely dressed, with rings in your ears and curling hair.
++ आपका रंग सोने जैसा है और आप सुन्दर वेश में शोभा पाते हैं; कानों में कुण्डल और बाल घुँघराले हैं।
 
 ---
 हाथ बज्र औ ध्वजा बिराजै।
@@ -59,6 +65,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Haath bajra au dhwaja birajai,
 ~ kaandhe moonj janeu saajai.
 = The thunderbolt and the banner shine in your hands, and a sacred thread of munja grass crosses your shoulder.
++ आपके हाथों में वज्र और ध्वजा शोभा पाते हैं और कन्धे पर मूँज का जनेऊ सजा है।
 
 ---
 संकर सुवन केसरीनंदन।
@@ -66,6 +73,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sankar suvan Kesarinandan,
 ~ tej pratap maha jag bandan.
 = Born of Shankar, joy of Kesari, the whole world bows to your radiance and might.
++ आप शंकर के अवतार और केसरी के पुत्र हैं; आपके तेज और प्रताप की सारा जगत वन्दना करता है।
 
 ---
 बिद्यावान गुनी अति चातुर।
@@ -73,6 +81,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Bidyavan guni ati chatur,
 ~ Ram kaj karibe ko aatur.
 = Learned, virtuous and wise, you are always eager to do Ram’s work.
++ आप विद्वान, गुणवान और अत्यन्त चतुर हैं, और श्री राम के काम करने के लिए सदा उत्सुक रहते हैं।
 
 ---
 प्रभु चरित्र सुनिबे को रसिया।
@@ -80,6 +89,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Prabhu charitra sunibe ko rasiya,
 ~ Ram Lakhan Sita man basiya.
 = You delight in hearing the Lord’s story, and Ram, Lakshman and Sita live in your heart.
++ आप प्रभु श्री राम का चरित्र सुनने के रसिया हैं; राम, लक्ष्मण और सीता आपके मन में बसते हैं।
 
 ---
 सूक्ष्म रूप धरि सियहिं दिखावा।
@@ -87,6 +97,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sukshma roop dhari Siyahin dikhava,
 ~ bikat roop dhari Lank jarava.
 = Taking a tiny form you appeared before Sita; taking a terrible form you set Lanka on fire.
++ आपने छोटा रूप धारण करके सीताजी को दर्शन दिए और विकट रूप धारण करके लंका को जलाया।
 
 ---
 भीम रूप धरि असुर सँहारे।
@@ -94,6 +105,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Bheem roop dhari asur sanhare,
 ~ Ramchandra ke kaj sanvare.
 = Taking a fearsome form you destroyed the demons and completed Ramchandra’s work.
++ आपने भयंकर रूप धारण करके असुरों का संहार किया और श्री रामचन्द्र के कार्य सँवारे।
 
 ---
 लाय सजीवन लखन जियाये।
@@ -101,6 +113,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Laay Sajivan Lakhan jiyaye,
 ~ Shri Raghubir harashi ur laye.
 = You brought the Sanjivani herb and revived Lakshman, and Shri Ram held you to his heart in joy.
++ आपने संजीवनी बूटी लाकर लक्ष्मण को जीवित किया, और श्री रघुवीर ने हर्षित होकर आपको हृदय से लगा लिया।
 
 ---
 रघुपति कीन्ही बहुत बड़ाई।
@@ -108,6 +121,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Raghupati keenhi bahut badai,
 ~ tum mam priya Bharatahi sam bhai.
 = Raghupati praised you greatly: “You are as dear to me as my brother Bharat.”
++ श्री रघुपति ने आपकी बहुत प्रशंसा की और कहा, “तुम मुझे भरत के समान प्रिय भाई हो।”
 
 ---
 सहस बदन तुम्हरो जस गावैं।
@@ -115,6 +129,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sahas badan tumharo jas gavain,
 ~ as kahi Shripati kanth lagavain.
 = “May the thousand-mouthed Shesh sing your praise,” said the Lord, and embraced you.
++ “हज़ार मुखों वाले शेषनाग तुम्हारा यश गाएँ,” ऐसा कहकर श्री राम ने आपको गले से लगा लिया।
 
 ---
 सनकादिक ब्रह्मादि मुनीसा।
@@ -122,6 +137,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sanakadik Brahmadi munisa,
 ~ Narad Sarad sahit Ahisa.
 = Sanaka and the sages, Brahma and the gods, Narad, Saraswati and the king of serpents,
++ सनक आदि ऋषि, ब्रह्मा आदि देवता, मुनीश्वर, नारद, सरस्वती और शेषनाग,
 
 ---
 जम कुबेर दिगपाल जहाँ ते।
@@ -129,6 +145,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jam Kuber Digpal jahan te,
 ~ kabi kobid kahi sake kahan te.
 = Yama, Kuber and the guardians of the directions cannot describe your glory, so how could poets and scholars?
++ यमराज, कुबेर और सब दिशाओं के रक्षक भी जब आपके यश का वर्णन नहीं कर सकते, तो कवि और विद्वान कैसे कर सकते हैं?
 
 ---
 तुम उपकार सुग्रीवहिं कीन्हा।
@@ -136,6 +153,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Tum upkar Sugrivahin keenha,
 ~ Ram milay raj pad deenha.
 = You did Sugriv a great service: you brought him to Ram, and he regained his throne.
++ आपने सुग्रीव पर उपकार किया; उन्हें श्री राम से मिलाया और राजपद दिलाया।
 
 ---
 तुम्हरो मंत्र बिभीषन माना।
@@ -143,6 +161,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Tumharo mantra Bibhishan mana,
 ~ Lankeshwar bhaye sab jag jana.
 = Vibhishan took your advice and became king of Lanka, as the whole world knows.
++ विभीषण ने आपकी सलाह मानी और वे लंका के राजा बने, यह सारा संसार जानता है।
 
 ---
 जुग सहस्र जोजन पर भानू।
@@ -150,6 +169,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jug sahasra jojan par bhanu,
 ~ leelyo tahi madhur phal janu.
 = The sun, thousands of leagues away, you swallowed, taking it for a sweet fruit.
++ हज़ारों योजन दूर स्थित सूर्य को आपने मीठा फल समझकर निगल लिया था।
 
 ---
 प्रभु मुद्रिका मेलि मुख माहीं।
@@ -157,6 +177,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Prabhu mudrika meli mukh mahin,
 ~ jaladhi laanghi gaye achraj nahin.
 = With the Lord’s ring in your mouth you leapt across the ocean. No wonder in that!
++ प्रभु की अँगूठी मुँह में रखकर आप समुद्र लाँघ गए, इसमें कोई आश्चर्य नहीं।
 
 ---
 दुर्गम काज जगत के जेते।
@@ -164,6 +185,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Durgam kaj jagat ke jete,
 ~ sugam anugrah tumhre tete.
 = Every hard task in the world becomes easy by your grace.
++ संसार के जितने भी कठिन काम हैं, वे आपकी कृपा से सरल हो जाते हैं।
 
 ---
 राम दुआरे तुम रखवारे।
@@ -171,6 +193,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Ram duare tum rakhvare,
 ~ hot na agya binu paisare.
 = You guard Ram’s door; no one enters without your leave.
++ आप श्री राम के द्वार के रखवाले हैं; आपकी आज्ञा के बिना कोई भीतर प्रवेश नहीं कर सकता।
 
 ---
 सब सुख लहै तुम्हारी सरना।
@@ -178,6 +201,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sab sukh lahai tumhari sarna,
 ~ tum rakshak kahu ko dar na.
 = Those who take refuge in you find every happiness. With you as protector, there is nothing to fear.
++ आपकी शरण में आने वाला सब सुख पाता है; जब आप रक्षक हैं, तो किसी का डर नहीं।
 
 ---
 आपन तेज सम्हारो आपै।
@@ -185,6 +209,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Aapan tej samharo aapai,
 ~ teenon lok haank te kaanpai.
 = Only you can hold your own power; the three worlds tremble at your roar.
++ अपने तेज को आप ही सँभाल सकते हैं; आपकी एक हाँक से तीनों लोक काँप उठते हैं।
 
 ---
 भूत पिसाच निकट नहिं आवै।
@@ -192,6 +217,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Bhoot pisach nikat nahin aavai,
 ~ Mahabir jab naam sunavai.
 = Ghosts and evil spirits stay away when the great hero’s name is spoken.
++ जहाँ महावीर हनुमान का नाम सुनाया जाता है, वहाँ भूत-पिशाच पास नहीं आते।
 
 ---
 नासै रोग हरै सब पीरा।
@@ -199,6 +225,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Nasai rog harai sab peera,
 ~ japat nirantar Hanumat beera.
 = Illness ends and every pain is removed by constantly repeating the name of brave Hanuman.
++ वीर हनुमान का निरन्तर जप करने से रोग नष्ट होते हैं और सब पीड़ा दूर होती है।
 
 ---
 संकट तें हनुमान छुड़ावै।
@@ -206,6 +233,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sankat te Hanuman chhudavai,
 ~ man kram bachan dhyan jo lavai.
 = Hanuman frees from trouble all who remember him in thought, deed and word.
++ जो मन, कर्म और वचन से हनुमानजी का ध्यान करता है, उसे वे संकट से छुड़ाते हैं।
 
 ---
 सब पर राम तपस्वी राजा।
@@ -213,6 +241,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sab par Ram tapasvi raja,
 ~ tin ke kaj sakal tum saja.
 = Ram, the ascetic king, is above all, and you carried out all his work.
++ तपस्वी राजा श्री राम सबसे ऊपर हैं, और आपने उनके सारे काम पूरे किए।
 
 ---
 और मनोरथ जो कोई लावै।
@@ -220,6 +249,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Aur manorath jo koi lavai,
 ~ soi amit jeevan phal pavai.
 = Whoever comes to you with any wish receives the boundless fruit of life.
++ जो कोई भी मनोरथ लेकर आपके पास आता है, वह जीवन का अपार फल पाता है।
 
 ---
 चारों जुग परताप तुम्हारा।
@@ -227,6 +257,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Charon jug partap tumhara,
 ~ hai parsiddh jagat ujiyara.
 = Your glory shines through all four ages and lights up the world.
++ चारों युगों में आपका प्रताप है, और आपकी कीर्ति संसार में प्रकाश की तरह प्रसिद्ध है।
 
 ---
 साधु संत के तुम रखवारे।
@@ -234,6 +265,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sadhu sant ke tum rakhvare,
 ~ asur nikandan Ram dulare.
 = You protect the good and the saintly, destroy demons, and are dear to Ram.
++ आप साधु-संतों के रखवाले, असुरों का नाश करने वाले और श्री राम के दुलारे हैं।
 
 ---
 अष्ट सिद्धि नौ निधि के दाता।
@@ -241,6 +273,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Ashta siddhi nau nidhi ke data,
 ~ as bar deen Janaki mata.
 = Mother Janaki blessed you to be the giver of the eight powers and the nine treasures.
++ माता जानकी ने आपको यह वरदान दिया है कि आप आठों सिद्धियाँ और नौ निधियाँ देने वाले होंगे।
 
 ---
 राम रसायन तुम्हरे पासा।
@@ -248,6 +281,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Ram rasayan tumhre pasa,
 ~ sada raho Raghupati ke dasa.
 = You hold the healing nectar of Ram’s name, and remain forever Raghupati’s servant.
++ आपके पास राम-नाम रूपी रसायन है; आप सदा श्री रघुपति के दास बने रहें।
 
 ---
 तुम्हरे भजन राम को पावै।
@@ -255,6 +289,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Tumhre bhajan Ram ko pavai,
 ~ janam janam ke dukh bisravai.
 = Through devotion to you one reaches Ram and forgets the sorrows of many lives.
++ आपके भजन से श्री राम मिलते हैं और जन्म-जन्मान्तर के दुःख भूल जाते हैं।
 
 ---
 अंत काल रघुबर पुर जाई।
@@ -262,6 +297,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Ant kaal Raghubar pur jai,
 ~ jahan janma Hari-bhakt kahai.
 = At life’s end one goes to Ram’s abode, and wherever born again is known as a devotee of Hari.
++ अन्त समय में भक्त श्री राम के धाम जाता है, और जहाँ भी जन्म लेता है, हरि-भक्त कहलाता है।
 
 ---
 और देवता चित्त न धरई।
@@ -269,6 +305,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Aur devta chitt na dharai,
 ~ Hanumat sei sarb sukh karai.
 = Even without turning the mind to other gods, serving Hanuman brings every happiness.
++ दूसरे देवताओं का ध्यान न करते हुए भी, केवल हनुमानजी की सेवा से सब सुख मिल जाते हैं।
 
 ---
 संकट कटै मिटै सब पीरा।
@@ -276,6 +313,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Sankat katai mitai sab peera,
 ~ jo sumirai Hanumat balbeera.
 = Troubles are cut away and all pain ends for one who remembers mighty Hanuman.
++ जो बलवान वीर हनुमान का स्मरण करता है, उसके संकट कट जाते हैं और सब पीड़ा मिट जाती है।
 
 ---
 जै जै जै हनुमान गोसाईं।
@@ -283,6 +321,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jai jai jai Hanuman Gosain,
 ~ kripa karahu Gurudev ki nain.
 = Victory, victory, victory to Lord Hanuman! Be gracious to me as a guru is to his disciple.
++ हे स्वामी हनुमान, आपकी जय हो, जय हो, जय हो! गुरुदेव की तरह मुझ पर कृपा कीजिए।
 
 ---
 जो सत बार पाठ कर कोई।
@@ -290,6 +329,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jo sat baar paath kar koi,
 ~ chhootahi bandi maha sukh hoi.
 = Whoever recites this a hundred times is freed from bondage and finds great joy.
++ जो कोई इसका सौ बार पाठ करता है, वह बन्धनों से छूट जाता है और उसे महान सुख मिलता है।
 
 ---
 जो यह पढ़ै हनुमान चालीसा।
@@ -297,6 +337,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Jo yah padhai Hanuman Chalisa,
 ~ hoy siddhi sakhi Gaurisa.
 = Whoever reads this Hanuman Chalisa succeeds; Shiv, lord of Gauri, is witness to it.
++ जो यह हनुमान चालीसा पढ़ता है, उसे सिद्धि मिलती है; इसके साक्षी स्वयं गौरीपति शिव हैं।
 
 ---
 तुलसीदास सदा हरि चेरा।
@@ -304,6 +345,7 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Tulsidas sada Hari chera,
 ~ keejai nath hriday mahan dera.
 = Tulsidas is forever Hari’s servant. Lord, make your home in my heart.
++ तुलसीदास सदा श्री हरि के सेवक हैं। हे नाथ, मेरे हृदय में निवास कीजिए।
 
 --- दोहा
 पवनतनय संकट हरन, मंगल मूरति रूप।
@@ -311,3 +353,4 @@ notes: Editions differ in small ways, for example “संकर सुवन �
 ~ Pavantanay sankat haran, mangal murati roop,
 ~ Ram Lakhan Sita sahit, hriday basahu sur bhoop.
 = Son of the Wind, remover of troubles, form of all that is auspicious: king of the gods, live in my heart together with Ram, Lakshman and Sita.
++ हे पवनपुत्र, संकट हरने वाले, मंगल मूर्ति स्वरूप, देवताओं के राजा, आप श्री राम, लक्ष्मण और सीता सहित मेरे हृदय में निवास कीजिए।

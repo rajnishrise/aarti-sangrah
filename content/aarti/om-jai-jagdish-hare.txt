@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Om jai Jagdish hare, Swami jai Jagdish hare,
 ~ Bhakt janon ke sankat, daas janon ke sankat, kshan mein door kare.
 = Om, glory to you, Hari, Lord of the universe! You remove the troubles of your devotees and servants in an instant.
++ हे जगत के स्वामी हरि, आपकी जय हो! आप भक्तों और सेवकों के संकट पल भर में दूर कर देते हैं।
 
 ---
 जो ध्यावे फल पावे, दुःख बिनसे मन का, स्वामी दुःख बिनसे मन का।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Jo dhyave phal pave, dukh binse man ka, Swami dukh binse man ka,
 ~ Sukh sampatti ghar aave, kasht mite tan ka.
 = Whoever meditates on you receives the fruit, and the mind’s sorrow is destroyed; happiness and prosperity come home and the body’s suffering ends.
++ जो आपका ध्यान करता है, उसे फल मिलता है और उसके मन का दुःख मिट जाता है; घर में सुख-सम्पत्ति आती है और शरीर का कष्ट दूर होता है।
 
 ---
 मात पिता तुम मेरे, शरण गहूँ मैं किसकी, स्वामी शरण गहूँ मैं किसकी।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Maat pita tum mere, sharan gahoon main kiski, Swami sharan gahoon main kiski,
 ~ Tum bin aur na dooja, aas karoon main jiski.
 = You are my mother and father; whose refuge should I seek? Without you there is no other in whom I can place my hope.
++ आप ही मेरे माता-पिता हैं; मैं और किसकी शरण लूँ? आपके सिवा दूसरा कोई नहीं, जिससे मैं आशा रखूँ।
 
 ---
 तुम पूरण परमात्मा, तुम अन्तर्यामी, स्वामी तुम अन्तर्यामी।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Tum pooran Paramatma, tum Antaryami, Swami tum Antaryami,
 ~ Parabrahm Parameshwar, tum sab ke swami.
 = You are the complete Supreme Soul, the knower of every heart: the Supreme Brahman, the Supreme Lord, master of all.
++ आप पूर्ण परमात्मा हैं, सबके मन की जानने वाले अन्तर्यामी हैं; आप ही परब्रह्म परमेश्वर और सबके स्वामी हैं।
 
 ---
 तुम करुणा के सागर, तुम पालनकर्ता, स्वामी तुम पालनकर्ता।
@@ -45,6 +49,7 @@ refrain-first: yes
 ~ Tum karuna ke sagar, tum palankarta, Swami tum palankarta,
 ~ Main moorakh phalgami, main sevak tum swami, kripa karo bharta.
 = You are an ocean of compassion and the sustainer of all. I am foolish and chase rewards; I am your servant and you my master. Be gracious, Lord.
++ आप करुणा के सागर और सबका पालन करने वाले हैं। मैं मूर्ख हूँ और फल की इच्छा करता हूँ; मैं सेवक हूँ और आप स्वामी, हे प्रभु, कृपा कीजिए।
 
 ---
 तुम हो एक अगोचर, सबके प्राणपति, स्वामी सबके प्राणपति।
@@ -52,6 +57,7 @@ refrain-first: yes
 ~ Tum ho ek agochar, sabke pranpati, Swami sabke pranpati,
 ~ Kis vidhi miloon dayamay, tumko main kumati.
 = You are the One beyond the senses, lord of every life. How can someone of my poor understanding reach you, merciful one?
++ आप एक हैं, इन्द्रियों से परे हैं और सबके प्राणों के स्वामी हैं। हे दयामय, मुझ जैसा कम बुद्धि वाला आपसे किस प्रकार मिले?
 
 ---
 दीनबन्धु दुःखहर्ता, ठाकुर तुम मेरे, स्वामी रक्षक तुम मेरे।
@@ -59,6 +65,7 @@ refrain-first: yes
 ~ Deenbandhu dukhharta, Thakur tum mere, Swami rakshak tum mere,
 ~ Apne haath uthao, apni sharan lagao, dwaar pada tere.
 = Friend of the humble, remover of sorrow, you are my lord and protector. Raise your hand and take me into your refuge; I lie at your door.
++ हे दीनों के बन्धु, दुःख हरने वाले, आप ही मेरे स्वामी और रक्षक हैं। अपना हाथ बढ़ाइए और मुझे अपनी शरण में लीजिए; मैं आपके द्वार पर पड़ा हूँ।
 
 ---
 विषय विकार मिटाओ, पाप हरो देवा, स्वामी पाप हरो देवा।
@@ -66,6 +73,7 @@ refrain-first: yes
 ~ Vishay vikaar mitao, paap haro Deva, Swami paap haro Deva,
 ~ Shraddha bhakti badhao, santan ki seva.
 = Wipe away my cravings and failings and take away my sins, Lord. Increase my faith, my devotion and my service to the saintly.
++ हे देव, मेरे विषय-विकार मिटाइए और पाप हर लीजिए। मेरी श्रद्धा, भक्ति और संतों की सेवा बढ़ाइए।
 
 ---
 तन मन धन सब कुछ है तेरा, स्वामी सब कुछ है तेरा।
@@ -73,3 +81,4 @@ refrain-first: yes
 ~ Tan man dhan sab kuchh hai tera, Swami sab kuchh hai tera,
 ~ Tera tujhko arpan, kya laage mera.
 = Body, mind and wealth all belong to you. I offer you what is already yours; what part of it is mine?
++ तन, मन, धन सब कुछ आपका ही है। आपकी वस्तु आपको ही अर्पित है; इसमें मेरा क्या लगता है?

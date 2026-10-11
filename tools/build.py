@@ -52,7 +52,7 @@ def parse_file(path):
                 head[key] = val
             continue
         if line.startswith("---"):
-            cur = {"label": line[3:].strip(), "d": [], "r": [], "m": [], "sp": None, "line": no}
+            cur = {"label": line[3:].strip(), "d": [], "r": [], "m": [], "h": [], "sp": None, "line": no}
             blocks.append(cur)
         elif not line.strip():
             continue
@@ -60,6 +60,8 @@ def parse_file(path):
             cur["r"].append(line[2:].strip())
         elif line.startswith("= ") or line == "=":
             cur["m"].append(line[2:].strip())
+        elif line.startswith("+ ") or line == "+":
+            cur["h"].append(line[2:].strip())
         elif line.startswith("> "):
             parts = [p.strip() for p in line[2:].split("|")]
             cur["sp"] = {"d": parts[0], "r": parts[1] if len(parts) > 1 else ""}
@@ -84,9 +86,16 @@ def clean_block(where, b, label=None):
         warn(w, f"{len(b['d'])} Devanagari lines but {len(b['r'])} Roman lines")
     if not b["m"]:
         warn(w, "has no meaning (add a line starting with '= ')")
+    if not b["h"]:
+        warn(w, "has no Hindi meaning (add a line starting with '+ ')")
+    for l in b["h"]:
+        if not DEVA.search(l):
+            err(w, f"Hindi meaning without Devanagari: {l[:40]!r}")
     out = {"d": "\n".join(b["d"]), "r": "\n".join(b["r"])}
     if b["m"]:
         out["m"] = " ".join(b["m"])
+    if b["h"]:
+        out["h"] = " ".join(b["h"])
     if label:
         out["n"] = label
     if b["sp"]:
@@ -123,6 +132,8 @@ def meta(where, head, core):
     for opt in ("form", "dialect", "notes", "source"):
         if head.get(opt):
             m[opt] = head[opt]
+    if head.get("keywords"):
+        m["kw"] = [k.strip() for k in head["keywords"].split(",") if k.strip()]
     return m
 
 
@@ -160,10 +171,12 @@ def build_granth(folder, core):
     rows = head.get("chapter", [])
     for row in rows if isinstance(rows, list) else [rows]:
         p = [x.strip() for x in row.split("|")]
-        if len(p) != 5 or not p[0].isdigit() or not p[4].isdigit():
-            err(f"{where}/index.txt", f"chapter line must be 'number | Devanagari | Roman | English | verse count': {row[:50]}")
+        if len(p) not in (5, 6) or not p[0].isdigit() or not p[4].isdigit():
+            err(f"{where}/index.txt", f"chapter line must be 'number | Devanagari | Roman | English | verse count', optionally followed by '| summary': {row[:50]}")
             continue
         chapters[int(p[0])] = {"n": int(p[0]), "d": p[1], "r": p[2], "en": p[3], "count": int(p[4])}
+        if len(p) == 6 and p[5]:
+            chapters[int(p[0])]["sum"] = p[5]
     for f in sorted(folder.glob("*.txt")):
         if f.name == "index.txt":
             continue
@@ -177,18 +190,39 @@ def build_granth(folder, core):
         if n not in chapters:
             err(fw, f"chapter {n} is not listed in index.txt")
             continue
-        verses, k = [], 0
+        # Numbering: verses count up from `from:` (default 1). With `numbering: print` in index.txt,
+        # a speaker line takes a number of its own, as in printed editions of the Durga Saptashati.
+        # `--- span 3` makes one block cover three numbers (a refrain-like line recited three times).
+        print_nums = str(head.get("numbering", "")).lower() == "print"
+        try:
+            first = int(h.get("from", 1))
+            last = int(h.get("to", chapters[n]["count"]))
+        except ValueError:
+            err(fw, "from and to must be numbers")
+            continue
+        verses, k = [], first - 1
         for b in blocks:
-            if b["label"]:
+            span = re.fullmatch(r"span (\d+)", b["label"])
+            if b["label"] and not span:
                 verses.append(clean_block(fw, b, b["label"]))
-            else:
+                continue
+            if print_nums and b["sp"]:
                 k += 1
-                verses.append(clean_block(fw, b, f"{n}.{k}".translate(DIGITS)))
-        if k != chapters[n]["count"]:
-            err(fw, f"has {k} numbered verses but index.txt says {chapters[n]['count']}")
+                b["sp"]["no"] = k
+            width = int(span.group(1)) if span else 1
+            lab = f"{n}.{k + 1}" if width == 1 else f"{n}.{k + 1}–{k + width}"
+            k += width
+            verses.append(clean_block(fw, b, lab.translate(DIGITS)))
+        if k != last:
+            err(fw, f"numbered verses end at {k} but should end at {last}")
+        if first != 1 or last != chapters[n]["count"]:
+            chapters[n]["part"] = {"from": first, "to": last}
+            if not h.get("excerpt"):
+                err(fw, "a partial chapter needs an 'excerpt:' line saying what it holds")
         chapters[n]["verses"] = verses
-        if h.get("intro"):
-            chapters[n]["intro"] = h["intro"]
+        for opt in ("intro", "excerpt"):
+            if h.get(opt):
+                chapters[n][opt] = h[opt]
     g["chapters"] = [chapters[k] for k in sorted(chapters)]
     return g
 
@@ -216,6 +250,27 @@ def main():
         for i in p["ids"]:
             if i not in known:
                 err(f"core.json preset '{p['n']}'", f"unknown text id '{i}'")
+    nav = core.get("navratri")
+    if nav:
+        by_id = {t["id"]: t for t in texts}
+        if nav.get("occ") not in core["occasions"]:
+            err("core.json navratri", f"unknown occasion '{nav.get('occ')}'")
+        if [d["n"] for d in nav["days"]] != list(range(1, 10)):
+            err("core.json navratri", "days must be numbered 1 to 9 in order")
+        for d in nav["days"]:
+            for r in d.get("read", []):
+                t = by_id.get(r["id"])
+                where = f"core.json navratri day {d['n']}"
+                if not t:
+                    err(where, f"unknown text id '{r['id']}'")
+                elif "ch" in r:
+                    ch = next((c for c in t.get("chapters", []) if c["n"] == r["ch"]), None)
+                    if not ch or not ch.get("verses"):
+                        err(where, f"'{r['id']}' has no readable chapter {r['ch']}")
+                    elif r.get("at") and not any(v.get("n") == r["at"] for v in ch["verses"]):
+                        err(where, f"no verse {r['at']} in '{r['id']}' chapter {r['ch']}")
+                elif r.get("v") is not None and not 0 <= r["v"] < len(t.get("verses", [])):
+                    err(where, f"'{r['id']}' has no verse index {r['v']}")
     for w in warnings:
         print("warning:", w)
     for e in errors:

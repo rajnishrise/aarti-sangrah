@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>आरती संग्रह · Aarti Sangrah</title>
-<meta name="description" content="Hindu aartis, chalisas, stotras, mantras, bhajans and the Bhagavad Gita, in Devanagari and Roman script with the meaning of every verse. Browse by deity, festival and weekday, and sing along in puja mode.">
+<meta name="description" content="Hindu aartis, chalisas, stotras, mantras, bhajans, the Bhagavad Gita and the Durga Saptashati, with a page for each night of Navratri, in Devanagari and Roman script with the meaning of every verse in English and Hindi. Browse by deity, festival and weekday, and sing along in puja mode.">
 <meta name="theme-color" content="#8E1A1A">
 <meta property="og:title" content="आरती संग्रह · Aarti Sangrah">
 <meta property="og:description" content="Aartis, chalisas, stotras, bhajans and the Gita, with the meaning of every verse.">
@@ -34,13 +34,15 @@
       <input id="q" type="search" autocomplete="off" spellcheck="false" aria-label="Search by name, god, festival or a line you remember" placeholder="Search a name, a god, or a line you remember">
       <kbd>/</kbd>
     </label>
+    <a class="btn festbtn" id="festBtn" href="#/navratri" hidden><span lang="hi">नवरात्रि</span></a>
     <button class="btn bare" id="pujaBtn" type="button" aria-haspopup="dialog">My puja <span class="count" id="pujaCount"></span></button>
-    <button class="btn bare" id="themeBtn" type="button" aria-label="Switch light or dark">◐</button>
+    <button class="btn bare themeb" id="themeBtn" type="button" aria-label="Switch light or dark"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg></button>
   </div>
 </header>
 <main>
   <div id="home">
     <section class="hero" aria-label="Today"><div class="toran" aria-hidden="true"></div><div class="wrap hero-in" id="today"></div></section>
+    <section class="navband" id="navratri" aria-label="Navratri" hidden></section>
     <section class="wrap sec" aria-labelledby="darshanT">
       <h2 class="sec-title" id="darshanT"><svg aria-hidden="true"><use href="#kamal"/></svg><span class="dv" lang="hi">देव दर्शन</span>Deities</h2>
       <p class="sec-sub">Choose a deity to see every aarti, chalisa, stotra and bhajan for them.</p>
@@ -82,6 +84,7 @@
   <button class="btn solid" id="pNext" type="button">Next verse</button>
   <button class="btn bare" id="pExit" type="button" aria-label="Leave puja mode">✕</button>
 </div>
+<button class="totop" id="toTop" type="button" aria-label="Back to top"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 14l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
 <div class="toast" id="toast" role="status" aria-live="polite"></div>
 <script src="data/library.js"></script>
 <script src="assets/app.js"></script>

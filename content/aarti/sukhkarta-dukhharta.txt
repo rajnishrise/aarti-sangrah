@@ -17,6 +17,7 @@ refrain-first: no
 ~ Jai Dev jai Dev jai Mangalmurti,
 ~ Darshanmatre mankamana purti.
 = Glory, Lord, to the auspicious one: the mere sight of you fulfils the heart’s wishes.
++ हे देव, हे मंगलमूर्ति, आपकी जय हो! आपके दर्शन मात्र से मन की कामनाएँ पूरी हो जाती हैं।
 
 ---
 सुखकर्ता दुःखहर्ता वार्ता विघ्नाची।
@@ -28,6 +29,7 @@ refrain-first: no
 ~ Sarvangi sundar uti shendurachi,
 ~ Kanthi jhalake maal muktaphalanchi.
 = Giver of joy and remover of sorrow, whose grace leaves not even a whisper of obstacles and showers love. His whole body glows with vermilion paste and a string of pearls gleams at his throat.
++ आप सुख देने वाले और दुःख हरने वाले हैं; आपकी कृपा से विघ्नों की बात भी नहीं रहती, और आप प्रेम बरसाते हैं। आपके सारे अंगों पर सिन्दूर का सुन्दर लेप है और गले में मोतियों की माला झलकती है।
 
 ---
 रत्नखचित फरा तुज गौरीकुमरा।
@@ -39,6 +41,7 @@ refrain-first: no
 ~ Hirejadit mukut shobhato bara,
 ~ Runjhunati nupure charani ghagariya.
 = Son of Gauri, jewels adorn you and you are anointed with sandalwood, kumkum and saffron. A diamond-studded crown shines on you, and anklets with tiny bells jingle at your feet.
++ हे गौरीपुत्र, आप रत्नों से सजे हैं और आप पर चन्दन, कुमकुम और केसर का लेप है। हीरों से जड़ा मुकुट सुन्दर शोभा देता है और चरणों में घुँघरू वाले नूपुर रुनझुन बजते हैं।
 
 ---
 लंबोदर पीतांबर फणिवरबंधना।
@@ -50,3 +53,4 @@ refrain-first: no
 ~ Das Ramacha vaat pahe sadana,
 ~ Sankati pavave nirvani rakshave survaravandana.
 = Big-bellied lord in yellow silk with a serpent for a sash, straight-trunked, curve-faced, three-eyed. Ramdas, your servant, waits for you at home: come to us in trouble and protect us at the last, lord worshipped by the gods.
++ हे लम्बोदर, आप पीताम्बर पहनते हैं और सर्प की करधनी बाँधते हैं; आपकी सूँड सीधी है, मुख टेढ़ा है और तीन नेत्र हैं। आपका दास रामदास घर पर आपकी राह देख रहा है; हे देवताओं से वन्दित, संकट में आइए और अन्त समय में रक्षा कीजिए।

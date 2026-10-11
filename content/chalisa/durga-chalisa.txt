@@ -1,0 +1,340 @@
+id: durga-chalisa
+kind: chalisa
+deity: durga
+lang: hi
+language: Hindi
+dialect: Awadhi and Braj
+region: All of North India
+title: श्री दुर्गा चालीसा | Shri Durga Chalisa | Forty verses in praise of Maa Durga
+author: Devidas, whose name is in the last chaupai | attributed
+occasions: navratri, daily
+when: Recited every day of Navratri, usually before Jai Ambe Gauri, and on Tuesdays and Fridays through the year.
+notes: Editions differ in places. The thirty-sixth chaupai is printed either as “रिपु मूरख मोहि अति डर पावें” or “मोह मदादिक सब बिनशावें”, and the closing lines vary from book to book. Most printings have forty-one chaupais rather than exactly forty. The eleventh chaupai names हिरण्याक्ष, as most books print it, although in the Narsingh story the demon is his brother Hiranyakashipu.
+
+---
+नमो नमो दुर्गे सुख करनी।
+नमो नमो अम्बे दुःख हरनी॥
+~ Namo namo Durge sukh karani,
+~ Namo namo Ambe dukh harani.
+= I bow again and again to you, Durga, giver of happiness; I bow again and again to you, Mother Ambe, remover of sorrow.
++ हे सुख देने वाली दुर्गा माँ, आपको बार-बार नमस्कार है। हे दुःख हरने वाली अम्बे माँ, आपको बार-बार नमस्कार है।
+
+---
+निरंकार है ज्योति तुम्हारी।
+तिहूँ लोक फैली उजियारी॥
+~ Nirankar hai jyoti tumhari,
+~ Tihun lok phaili ujiyari.
+= Your light is formless, and its brightness has spread through the three worlds.
++ आपकी ज्योति निराकार है, और उसका प्रकाश तीनों लोकों में फैला हुआ है।
+
+---
+शशि ललाट मुख महाविशाला।
+नेत्र लाल भृकुटि विकराला॥
+~ Shashi lalat mukh mahavishala,
+~ Netra lal bhrikuti vikarala.
+= The moon is on your brow and your face is broad and majestic; your eyes are red and your frown is fearsome.
++ आपके मस्तक पर चन्द्रमा है और मुख अत्यन्त विशाल है; आपके नेत्र लाल हैं और भौंहें भयंकर हैं।
+
+---
+रूप मातु को अधिक सुहावे।
+दरश करत जन अति सुख पावे॥
+~ Roop matu ko adhik suhave,
+~ Darash karat jan ati sukh pave.
+= The Mother’s form is utterly lovely; those who see it are filled with joy.
++ माता का रूप अत्यन्त सुहावना है; जो उनके दर्शन करता है, वह बहुत सुख पाता है।
+
+---
+तुम संसार शक्ति लय कीना।
+पालन हेतु अन्न धन दीना॥
+~ Tum sansar shakti lay keena,
+~ Palan hetu ann dhan deena.
+= You hold all the power of the world within you, and to sustain it you gave grain and wealth.
++ आपने संसार की सारी शक्ति अपने में समा रखी है, और उसके पालन के लिए अन्न और धन दिया है।
+
+---
+अन्नपूर्णा हुई जग पाला।
+तुम ही आदि सुन्दरी बाला॥
+~ Annapurna hui jag pala,
+~ Tum hi aadi sundari bala.
+= As Annapurna you nourish the world; you are the primordial beauty, the eternal maiden.
++ अन्नपूर्णा बनकर आप जगत का पालन करती हैं; आप ही आदि सुन्दरी बाला हैं।
+
+---
+प्रलयकाल सब नाशन हारी।
+तुम गौरी शिवशंकर प्यारी॥
+~ Pralaykal sab nashan hari,
+~ Tum Gauri Shivshankar pyari.
+= At the dissolution of the world you are the one who ends all things; you are Gauri, beloved of Shiv Shankar.
++ प्रलय के समय आप ही सबका नाश करने वाली हैं; आप ही शिवशंकर की प्रिय गौरी हैं।
+
+---
+शिव योगी तुम्हरे गुण गावें।
+ब्रह्मा विष्णु तुम्हें नित ध्यावें॥
+~ Shiv yogi tumhare gun gaven,
+~ Brahma Vishnu tumhen nit dhyaven.
+= Shiv and the yogis sing your glories, and Brahma and Vishnu meditate on you every day.
++ शिवजी और योगीजन आपके गुण गाते हैं, और ब्रह्मा तथा विष्णु नित्य आपका ध्यान करते हैं।
+
+---
+रूप सरस्वती को तुम धारा।
+दे सुबुद्धि ऋषि मुनिन उबारा॥
+~ Roop Saraswati ko tum dhara,
+~ De subuddhi rishi munin ubara.
+= You took the form of Saraswati and, giving them wisdom, saved the rishis and sages.
++ आपने सरस्वती का रूप धारण किया और ऋषि-मुनियों को सद्बुद्धि देकर उनका उद्धार किया।
+
+---
+धरयो रूप नरसिंह को अम्बा।
+परगट भई फाड़कर खम्बा॥
+~ Dharyo roop Narsingh ko Amba,
+~ Pargat bhai phadkar khamba.
+= Mother, you took the form of Narsingh and appeared by bursting out of the pillar.
++ हे माँ अम्बे, आपने नरसिंह का रूप धारण किया और खम्भा फाड़कर प्रकट हुईं।
+
+---
+रक्षा करि प्रह्लाद बचायो।
+हिरण्याक्ष को स्वर्ग पठायो॥
+~ Raksha kari Prahlad bachayo,
+~ Hiranyaksh ko swarg pathayo.
+= You protected and saved Prahlad, and sent the demon king to heaven by slaying him.
++ आपने रक्षा करके प्रह्लाद को बचाया और असुर राजा (हिरण्यकशिपु) का वध करके उसे स्वर्ग भेज दिया।
+
+---
+लक्ष्मी रूप धरो जग माहीं।
+श्री नारायण अंग समाहीं॥
+~ Lakshmi roop dharo jag mahin,
+~ Shri Narayan ang samahin.
+= You took the form of Lakshmi in the world and dwell at the side of Shri Narayan.
++ आपने संसार में लक्ष्मी का रूप धारण किया और श्री नारायण के अंग में समाई रहती हैं।
+
+---
+क्षीरसिन्धु में करत विलासा।
+दयासिन्धु दीजै मन आसा॥
+~ Ksheersindhu mein karat vilasa,
+~ Dayasindhu deejai man aasa.
+= You delight in the ocean of milk; ocean of mercy, fulfil the hopes of my heart.
++ आप क्षीरसागर में विहार करती हैं; हे दया की सागर, मेरे मन की आशा पूरी कीजिए।
+
+---
+हिंगलाज में तुम्हीं भवानी।
+महिमा अमित न जात बखानी॥
+~ Hinglaj mein tumhin Bhavani,
+~ Mahima amit na jat bakhani.
+= You are Bhavani of Hinglaj; your boundless glory cannot be described.
++ हिंगलाज में आप ही भवानी के रूप में विराजती हैं; आपकी अपार महिमा का वर्णन नहीं किया जा सकता।
+
+---
+मातंगी अरु धूमावति माता।
+भुवनेश्वरी बगला सुख दाता॥
+~ Matangi aru Dhumavati Mata,
+~ Bhuvaneshwari Bagla sukh data.
+= You are Mother Matangi and Dhumavati; as Bhuvaneshwari and Bagla you give happiness.
++ आप ही मातंगी और धूमावती माता हैं; आप ही भुवनेश्वरी और बगलामुखी बनकर सुख देती हैं।
+
+---
+श्री भैरव तारा जग तारिणी।
+छिन्न भाल भव दुःख निवारिणी॥
+~ Shri Bhairav Tara jag tarini,
+~ Chhinn bhal bhav dukh nivarini.
+= As Bhairavi and Tara you carry the world across; as Chhinnamasta you end the sorrows of worldly life.
++ भैरवी और तारा बनकर आप जगत को तारती हैं; छिन्नमस्ता बनकर आप संसार के दुःख दूर करती हैं।
+
+---
+केहरि वाहन सोह भवानी।
+लांगुर वीर चलत अगवानी॥
+~ Kehari vahan soh Bhavani,
+~ Langur veer chalat agvani.
+= Bhavani looks splendid riding the lion, and the brave Langur Veer walks ahead of her.
++ सिंह पर सवार भवानी शोभा पाती हैं, और वीर लांगुर (हनुमान) उनके आगे-आगे चलते हैं।
+
+---
+कर में खप्पर खड्ग विराजै।
+जाको देख काल डर भाजै॥
+~ Kar mein khappar khadg virajai,
+~ Jako dekh kal dar bhajai.
+= A skull-bowl and a sword shine in your hands; seeing them, even Death runs in fear.
++ आपके हाथों में खप्पर और खड्ग सुशोभित हैं, जिन्हें देखकर काल भी डरकर भाग जाता है।
+
+---
+सोहै अस्त्र और त्रिशूला।
+जाते उठत शत्रु हिय शूला॥
+~ Sohai astra aur trishula,
+~ Jate uthat shatru hiy shula.
+= Weapons and the trident adorn you, and at the sight of them pain rises in the hearts of enemies.
++ आपके अस्त्र और त्रिशूल शोभा पाते हैं, जिन्हें देखकर शत्रुओं के हृदय में पीड़ा उठती है।
+
+---
+नगरकोट में तुम्हीं विराजत।
+तिहुँलोक में डंका बाजत॥
+~ Nagarkot mein tumhin virajat,
+~ Tihunlok mein danka bajat.
+= You dwell at Nagarkot, and your drum resounds through the three worlds.
++ नगरकोट (कांगड़ा) में आप ही विराजमान हैं, और तीनों लोकों में आपका डंका बजता है।
+
+---
+शुम्भ निशुम्भ दानव तुम मारे।
+रक्तबीज शंखन संहारे॥
+~ Shumbh Nishumbh danav tum mare,
+~ Raktabeej shankhan sanhare.
+= You slew the demons Shumbh and Nishumbh, and destroyed Raktabeej and his countless doubles.
++ आपने शुम्भ और निशुम्भ दानवों को मारा, और रक्तबीज तथा उसके असंख्य रूपों का संहार किया।
+
+---
+महिषासुर नृप अति अभिमानी।
+जेहि अघ भार मही अकुलानी॥
+~ Mahishasur nrip ati abhimani,
+~ Jehi agh bhar mahi akulani.
+= King Mahishasur was utterly arrogant, and the earth groaned under the weight of his sins.
++ राजा महिषासुर अत्यन्त अभिमानी था, जिसके पापों के बोझ से पृथ्वी व्याकुल हो उठी थी।
+
+---
+रूप कराल कालिका धारा।
+सेन सहित तुम तिहि संहारा॥
+~ Roop karal Kalika dhara,
+~ Sen sahit tum tihi sanhara.
+= You took the terrible form of Kalika and destroyed him along with his army.
++ आपने काली का भयंकर रूप धारण किया और उसे उसकी सेना सहित नष्ट कर दिया।
+
+---
+परी गाढ़ सन्तन पर जब जब।
+भई सहाय मातु तुम तब तब॥
+~ Pari gaadh santan par jab jab,
+~ Bhai sahay matu tum tab tab.
+= Whenever hard times fell on the saints, Mother, you came to their help.
++ जब-जब संतों पर संकट पड़ा, तब-तब हे माता, आपने उनकी सहायता की।
+
+---
+अमरपुरी अरु बासव लोका।
+तब महिमा सब रहें अशोका॥
+~ Amarpuri aru Basav loka,
+~ Tab mahima sab rahen ashoka.
+= By your glory the city of the immortals and Indra’s realm all remain free of sorrow.
++ आपकी महिमा से देवताओं की नगरी और इन्द्रलोक सब शोकरहित रहते हैं।
+
+---
+ज्वाला में है ज्योति तुम्हारी।
+तुम्हें सदा पूजें नर-नारी॥
+~ Jvala mein hai jyoti tumhari,
+~ Tumhen sada pujen nar-nari.
+= Your flame burns at Jwalaji, and men and women worship you always.
++ ज्वालाजी में आपकी ज्योति जलती है, और सभी नर-नारी सदा आपकी पूजा करते हैं।
+
+---
+प्रेम भक्ति से जो यश गावें।
+दुःख दारिद्र निकट नहिं आवें॥
+~ Prem bhakti se jo yash gaven,
+~ Dukh daridra nikat nahin aaven.
+= Sorrow and poverty never come near those who sing your glory with loving devotion.
++ जो प्रेम और भक्ति से आपका यश गाते हैं, उनके पास दुःख और दरिद्रता नहीं आते।
+
+---
+ध्यावे तुम्हें जो नर मन लाई।
+जन्म-मरण ताकौ छुटि जाई॥
+~ Dhyave tumhen jo nar man laai,
+~ Janm-maran takau chhuti jaai.
+= Whoever meditates on you with a focused mind is freed from birth and death.
++ जो मनुष्य मन लगाकर आपका ध्यान करता है, वह जन्म-मरण के बन्धन से छूट जाता है।
+
+---
+जोगी सुर मुनि कहत पुकारी।
+योग न हो बिन शक्ति तुम्हारी॥
+~ Jogi sur muni kahat pukari,
+~ Yog na ho bin shakti tumhari.
+= Yogis, gods and sages declare aloud that without your power there can be no yoga.
++ योगी, देवता और मुनि पुकार-पुकार कर कहते हैं कि आपकी शक्ति के बिना योग सिद्ध नहीं होता।
+
+---
+शंकर आचारज तप कीनो।
+काम अरु क्रोध जीति सब लीनो॥
+~ Shankar Aacharaj tap keeno,
+~ Kaam aru krodh jeeti sab leeno.
+= Shankaracharya performed austerities and conquered desire and anger.
++ शंकराचार्य ने तप किया और काम तथा क्रोध सबको जीत लिया।
+
+---
+निशिदिन ध्यान धरो शंकर को।
+काहु काल नहिं सुमिरो तुमको॥
+~ Nishidin dhyan dharo Shankar ko,
+~ Kahu kal nahin sumiro tumko.
+= Day and night he meditated on Shankar, but never once remembered you.
++ वे दिन-रात भगवान शंकर का ध्यान करते रहे, पर कभी आपका स्मरण नहीं किया।
+
+---
+शक्ति रूप का मरम न पायो।
+शक्ति गई तब मन पछितायो॥
+~ Shakti roop ka maram na payo,
+~ Shakti gayi tab man pachhitayo.
+= He did not grasp the secret of your form as Shakti; when his strength left him, he repented.
++ उन्होंने आपके शक्ति-रूप का रहस्य नहीं समझा; जब उनकी शक्ति चली गई, तब उनका मन पछताया।
+
+---
+शरणागत हुई कीर्ति बखानी।
+जय जय जय जगदम्ब भवानी॥
+~ Sharanagat hui kirti bakhani,
+~ Jai jai jai Jagdamb Bhavani.
+= Taking refuge in you, he sang your praise: “Victory, victory, victory to Jagdamba Bhavani!”
++ तब उन्होंने आपकी शरण लेकर आपकी कीर्ति गाई: “जय जय जय जगदम्बा भवानी!”
+
+---
+भई प्रसन्न आदि जगदम्बा।
+दई शक्ति नहिं कीन विलम्बा॥
+~ Bhai prasann aadi Jagdamba,
+~ Dai shakti nahin keen vilamba.
+= The primal Mother of the world was pleased and gave him back his strength without delay.
++ आदि जगदम्बा प्रसन्न हुईं और बिना देर किए उन्हें शक्ति लौटा दी।
+
+---
+मोको मातु कष्ट अति घेरो।
+तुम बिन कौन हरै दुःख मेरो॥
+~ Moko matu kasht ati ghero,
+~ Tum bin kaun harai dukh mero.
+= Mother, great troubles surround me; who but you can take away my sorrow?
++ हे माता, मुझे बहुत कष्टों ने घेर रखा है; आपके बिना मेरा दुःख कौन हरेगा?
+
+---
+आशा तृष्णा निपट सतावें।
+रिपु मूरख मोहि अति डर पावें॥
+~ Aasha trishna nipat sataven,
+~ Ripu moorakh mohi ati dar paven.
+= Hope and craving torment me endlessly, and foolish enemies frighten me greatly.
++ आशा और तृष्णा मुझे बहुत सताती हैं, और मूर्ख शत्रु मुझे बहुत डराते हैं।
+
+---
+शत्रु नाश कीजै महारानी।
+सुमिरौं इकचित तुम्हें भवानी॥
+~ Shatru naash keejai Maharani,
+~ Sumiraun ikchit tumhen Bhavani.
+= Great Queen, destroy my enemies; Bhavani, I remember you with a single mind.
++ हे महारानी, मेरे शत्रुओं का नाश कीजिए; हे भवानी, मैं एकाग्र मन से आपका स्मरण करता हूँ।
+
+---
+करो कृपा हे मातु दयाला।
+ऋद्धि-सिद्धि दै करहु निहाला॥
+~ Karo kripa he matu dayala,
+~ Riddhi-siddhi dai karahu nihala.
+= Be gracious, compassionate Mother; grant me prosperity and success and make me fulfilled.
++ हे दयालु माता, कृपा कीजिए; ऋद्धि-सिद्धि देकर मुझे निहाल कर दीजिए।
+
+---
+जब लगि जिऊँ दया फल पाऊँ।
+तुम्हरो यश मैं सदा सुनाऊँ॥
+~ Jab lagi jiun daya phal paun,
+~ Tumharo yash main sada sunaun.
+= As long as I live, may I receive the fruit of your mercy, and may I always tell of your glory.
++ जब तक मैं जीवित रहूँ, आपकी दया का फल पाता रहूँ और सदा आपका यश सुनाता रहूँ।
+
+---
+श्री दुर्गा चालीसा जो कोई गावै।
+सब सुख भोग परमपद पावै॥
+~ Shri Durga Chalisa jo koi gavai,
+~ Sab sukh bhog parampad pavai.
+= Whoever sings this Shri Durga Chalisa enjoys every happiness and reaches the highest state.
++ जो कोई यह श्री दुर्गा चालीसा गाता है, वह सब सुख भोगकर परमपद पाता है।
+
+---
+देवीदास शरण निज जानी।
+करहु कृपा जगदम्ब भवानी॥
+~ Devidas sharan nij jani,
+~ Karahu kripa Jagdamb Bhavani.
+= Knowing Devidas to be in your refuge, Jagdamba Bhavani, be gracious to him.
++ देवीदास को अपनी शरण में जानकर, हे जगदम्बा भवानी, उस पर कृपा कीजिए।

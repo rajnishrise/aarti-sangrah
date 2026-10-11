@@ -18,3 +18,4 @@ when: A prayer for the welfare of every being, said at the end of puja, satsang 
 ~ Sarve bhadrani pashyantu, ma kashchid duhkhabhagbhavet.
 ~ Om shantih shantih shantih.
 = May all be happy; may all be free from illness. May all see only what is good, and may no one suffer. Om, peace, peace, peace.
++ सब सुखी हों, सब रोगरहित हों। सब कल्याण देखें और कोई भी दुःख का भागी न हो। ॐ शान्ति, शान्ति, शान्ति।

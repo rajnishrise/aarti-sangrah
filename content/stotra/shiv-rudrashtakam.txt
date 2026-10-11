@@ -17,6 +17,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Namamishamishan nirvanaroopam, vibhum vyapakam Brahma Vedasvaroopam,
 ~ Nijam nirgunam nirvikalpam niriham, chidakashamakashavasam bhaje’ham.
 = I bow to the Lord of all, whose very form is liberation: all-pervading, the Brahman whose form is the Veda. I worship him who is the Self, beyond qualities, doubt and desire, pure consciousness spread like the sky.
++ मैं उन ईशान को नमस्कार करता हूँ जो मोक्ष स्वरूप हैं, सर्वव्यापक हैं, वेदस्वरूप ब्रह्म हैं। मैं उन्हें भजता हूँ जो आत्मस्वरूप, निर्गुण, संशयरहित, इच्छारहित हैं और आकाश की तरह फैली चेतना हैं।
 
 ---
 निराकारमोंकारमूलं तुरीयं। गिरा ज्ञान गोतीतमीशं गिरीशं॥
@@ -24,6 +25,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Nirakaram Omkaramoolam turiyam, gira gyan gotitamisham Girisham,
 ~ Karalam Mahakal kalam kripalam, gunagar sansaraparam nato’ham.
 = Formless, the root of Om, beyond the three states of waking, dream and sleep; beyond speech, thought and the senses, lord of the mountain. Fearsome, the death of Death, yet full of mercy, home of all virtues, beyond the world: to him I bow.
++ जो निराकार हैं, ओंकार के मूल हैं, तुरीय अवस्था (जाग्रत, स्वप्न, सुषुप्ति से परे) हैं; वाणी, ज्ञान और इन्द्रियों से परे हैं, कैलाशपति हैं; जो विकराल हैं, महाकाल के भी काल हैं, फिर भी कृपालु हैं, गुणों के धाम और संसार से परे हैं, उन्हें मैं नमस्कार करता हूँ।
 
 ---
 तुषाराद्रि संकाश गौरं गभीरं। मनोभूत कोटि प्रभा श्री शरीरं॥
@@ -31,6 +33,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Tusharadri sankash gauram gabhiram, manobhoot koti prabha shri shariram,
 ~ Sphuranmauli kallolini charu Ganga, lasadbhalabalendu kanthe bhujanga.
 = Fair as the snowy Himalaya and deep beyond measure, his body shines with the beauty of millions of Kamadevs. The lovely Ganga ripples on his head, the young moon glows on his brow, and serpents circle his neck.
++ जो हिमालय के समान गौर और गम्भीर हैं, जिनके शरीर में करोड़ों कामदेवों जैसी शोभा है; जिनके सिर पर सुन्दर गंगा लहराती हैं, मस्तक पर बाल चन्द्रमा चमकता है और गले में सर्प हैं।
 
 ---
 चलत्कुण्डलं भ्रू सुनेत्रं विशालं। प्रसन्नाननं नीलकंठं दयालं॥
@@ -38,6 +41,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Chalatkundalam bhru sunetram vishalam, prasannananam Neelkantham dayalam,
 ~ Mrigadhishacharmambaram mundamalam, priyam Shankaram sarvanatham bhajami.
 = Earrings swaying, fine brows and wide, lovely eyes, a joyful face, a blue throat and a kind heart; clothed in a lion’s skin and garlanded with skulls: I worship beloved Shankar, lord of all.
++ जिनके कानों में कुण्डल हिलते हैं, भौंहें और नेत्र सुन्दर और विशाल हैं, मुख प्रसन्न है, कण्ठ नीला है और जो दयालु हैं; जो सिंह की खाल पहनते हैं और मुण्डमाला धारण करते हैं, उन सबके स्वामी प्रिय शंकर को मैं भजता हूँ।
 
 ---
 प्रचंडं प्रकृष्टं प्रगल्भं परेशं। अखंडं अजं भानुकोटिप्रकाशं॥
@@ -45,6 +49,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Prachandam prakrishtam pragalbham paresham, akhandam ajam bhanukotiprakasham,
 ~ Trayah shool nirmoolanam shoolapanim, bhaje’ham Bhavanipatim bhavagamyam.
 = Fierce, supreme, fearless, the highest lord; whole, unborn, bright as millions of suns; the trident-holder who uproots the three kinds of suffering. I worship Bhavani’s lord, who is reached through love.
++ जो प्रचण्ड, श्रेष्ठ, निर्भय और परमेश्वर हैं; अखण्ड, अजन्मा और करोड़ों सूर्यों के समान प्रकाशमान हैं; जो त्रिशूलधारी तीनों प्रकार के दुःखों को जड़ से मिटाते हैं, भाव से प्राप्त होने वाले उन भवानीपति को मैं भजता हूँ।
 
 ---
 कलातीत कल्याण कल्पान्तकारी। सदा सज्जनानन्ददाता पुरारी॥
@@ -52,6 +57,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Kalatit kalyan kalpantakari, sada sajjanananda data Purari,
 ~ Chidananda sandoha mohapahari, prasida prasida prabho Manmathari.
 = Beyond time and parts, all goodness, who brings each age to its close; giver of joy to the good, destroyer of Tripura; mass of consciousness and bliss who removes delusion: be pleased, be pleased, O Lord who burned Kamadev.
++ जो कलाओं से परे हैं, कल्याण स्वरूप हैं, कल्प का अन्त करने वाले हैं, सज्जनों को सदा आनन्द देने वाले त्रिपुरारि हैं, चेतना और आनन्द के समूह हैं और मोह को हरने वाले हैं; हे कामदेव को भस्म करने वाले प्रभु, प्रसन्न होइए, प्रसन्न होइए।
 
 ---
 न यावत् उमानाथ पादारविन्दं। भजन्तीह लोके परे वा नराणां॥
@@ -59,6 +65,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Na yavat Umanath padaravindam, bhajantiha loke pare va naranam,
 ~ Na tavat sukham shanti santapanasham, prasida prabho sarvabhootadhivasam.
 = Until people worship the lotus feet of Uma’s lord, they find no happiness or peace in this world or the next, and their pain does not end. Be pleased, Lord who lives in every being.
++ जब तक मनुष्य उमापति के चरणकमलों को नहीं भजते, तब तक उन्हें इस लोक या परलोक में न सुख मिलता है, न शान्ति, और न उनके कष्ट मिटते हैं। हे सब प्राणियों में निवास करने वाले प्रभु, प्रसन्न होइए।
 
 ---
 न जानामि योगं जपं नैव पूजां। नतोऽहं सदा सर्वदा शम्भु तुभ्यं॥
@@ -66,6 +73,7 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Na janami yogam japam naiva pujam, nato’ham sada sarvada Shambhu tubhyam,
 ~ Jara janma duhkhaugha tatapyamanam, prabho pahi apannamamisha Shambho.
 = I know no yoga, no japa, no proper worship; I only bow to you, always, Shambhu. I burn in the flood of sorrow of birth and old age: protect me, Lord, for I have come to you in distress.
++ मैं न योग जानता हूँ, न जप, न पूजा; हे शम्भु, मैं तो सदा-सर्वदा आपको ही नमस्कार करता हूँ। बुढ़ापे और जन्म के दुःखों की बाढ़ में जलते हुए मुझ दुखी की, हे प्रभु शम्भु, रक्षा कीजिए।
 
 --- फल
 रुद्राष्टकमिदं प्रोक्तं विप्रेण हरतोषये।
@@ -73,3 +81,4 @@ notes: Unlike the rest of the Manas it is in Sanskrit. Some editions print the s
 ~ Rudrashtakamidam proktam viprena haratoshaye,
 ~ ye pathanti nara bhaktya tesham Shambhuh prasidati.
 = This Rudrashtakam was sung by a Brahmin to please Shiv. Shambhu is pleased with all who recite it with devotion.
++ भगवान शिव को प्रसन्न करने के लिए एक ब्राह्मण ने यह रुद्राष्टक गाया था। जो मनुष्य इसे भक्तिपूर्वक पढ़ते हैं, उन पर शम्भु प्रसन्न होते हैं।

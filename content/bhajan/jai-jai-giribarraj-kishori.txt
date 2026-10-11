@@ -1,0 +1,89 @@
+id: jai-jai-giribarraj-kishori
+kind: bhajan
+form: Stuti from the Ramcharitmanas
+deity: durga
+lang: hi
+language: Hindi
+dialect: Awadhi
+region: All of North India
+title: जय जय गिरिबरराज किसोरी | Jai Jai Giribarraj Kishori | Sita’s prayer to Gauri
+author: Goswami Tulsidas, from the Bal Kand of the Ramcharitmanas | known
+occasions: navratri, daily
+when: In the Manas, Sita sings this to Gauri (Parvati) in the temple of Janakpur before the bow ceremony, and the goddess blesses her. It is sung in Navratri, especially on Ashtami for Mahagauri, and by unmarried girls praying for a good husband.
+notes: Dohas 235 and 236 of the Bal Kand with the chaupais between them, as printed in Gita Press editions. Tulsidas uses Awadhi spellings such as बिस्व and बेदु.
+
+---
+जय जय गिरिबरराज किसोरी। जय महेस मुख चंद चकोरी॥
+जय गजबदन षडानन माता। जगत जननि दामिनि दुति गाता॥
+~ Jai jai Giribarraj Kishori, jai Mahes mukh chand chakori,
+~ Jai Gajbadan Shadanan mata, jagat janani damini duti gata.
+= Glory, glory to the daughter of the king of mountains! Glory to you, the chakor bird gazing at the moon of Shiv’s face! Glory to the mother of elephant-faced Ganesh and six-faced Kartikeya, mother of the world, whose body shines like lightning.
++ हे पर्वतराज हिमालय की पुत्री, आपकी जय हो, जय हो! हे महादेव के मुखचन्द्र को निहारने वाली चकोरी, आपकी जय हो! हे गणेश और षडानन (कार्तिकेय) की माता, जगत की जननी, बिजली जैसी कान्ति वाले शरीर वाली, आपकी जय हो।
+
+---
+नहिं तव आदि मध्य अवसाना। अमित प्रभाउ बेदु नहिं जाना॥
+भव भव बिभव पराभव कारिनि। बिस्व बिमोहनि स्वबस बिहारिनि॥
+~ Nahin tav aadi madhya avasana, amit prabhau bedu nahin jana,
+~ Bhav bhav bibhav parabhav karini, bisva bimohani svabas biharini.
+= You have no beginning, middle or end; even the Vedas do not know your boundless power. You bring about the birth, growth and dissolution of the world; you enchant the universe and move freely by your own will.
++ आपका न आदि है, न मध्य, न अन्त; आपके अपार प्रभाव को वेद भी नहीं जानते। आप संसार की उत्पत्ति, पालन और संहार करने वाली हैं; सारे विश्व को मोहित करने वाली और अपनी इच्छा से विहार करने वाली हैं।
+
+--- दोहा
+पतिदेवता सुतीय महुँ मातु प्रथम तव रेख।
+महिमा अमित न सकहिं कहि सहस सारदा सेष॥
+~ Patidevata sutiya mahun matu pratham tav rekh,
+~ Mahima amit na sakahin kahi sahas Sarada Sesh.
+= Mother, among devoted and virtuous wives you are counted first. Not even a thousand Saraswatis and Sheshnags could describe your boundless glory.
++ हे माता, पति को देवता मानने वाली श्रेष्ठ स्त्रियों में आपकी गिनती सबसे पहले है। आपकी अपार महिमा को हजारों सरस्वती और शेषनाग भी नहीं कह सकते।
+
+---
+सेवत तोहि सुलभ फल चारी। बरदायनी पुरारि पिआरी॥
+देबि पूजि पद कमल तुम्हारे। सुर नर मुनि सब होहिं सुखारे॥
+~ Sevat tohi sulabh phal chari, bardayani Purari piari,
+~ Debi puji pad kamal tumhare, sur nar muni sab hohin sukhare.
+= Serving you, the four aims of life come easily. Giver of boons, beloved of Shiv! Goddess, by worshipping your lotus feet gods, men and sages all become happy.
++ आपकी सेवा करने से चारों फल (धर्म, अर्थ, काम, मोक्ष) सहज ही मिल जाते हैं। हे वर देने वाली, हे शिवजी की प्रिया! हे देवी, आपके चरण-कमलों की पूजा करके देवता, मनुष्य और मुनि सब सुखी हो जाते हैं।
+
+---
+मोर मनोरथु जानहु नीकें। बसहु सदा उर पुर सबही कें॥
+कीन्हेउँ प्रगट न कारन तेहीं। अस कहि चरन गहे बैदेहीं॥
+~ Mor manorathu janahu neeken, basahu sada ur pur sabahi ken,
+~ Keenheun pragat na karan tehin, as kahi charan gahe Baidehin.
+= You know my heart’s wish well, for you live always in the city of every heart; that is why I have not spoken it aloud. Saying this, Sita clasped the goddess’s feet.
++ आप मेरे मन की इच्छा भली-भाँति जानती हैं, क्योंकि आप सदा सबके हृदय रूपी नगर में निवास करती हैं; इसी कारण मैंने उसे प्रकट नहीं किया। ऐसा कहकर सीताजी ने देवी के चरण पकड़ लिए।
+
+---
+बिनय प्रेम बस भई भवानी। खसी माल मूरति मुसुकानी॥
+सादर सियँ प्रसादु सिर धरेऊ। बोली गौरि हरषु हियँ भरेऊ॥
+~ Binay prem bas bhai Bhavani, khasi maal murati musukani,
+~ Sadar siyan prasadu sir dhareu, boli Gauri harashu hiyan bhareu.
+= Bhavani was won over by her humility and love. A garland slipped from the image and the image smiled. Sita reverently placed the blessed garland on her head, and Gauri spoke, her heart full of joy.
++ सीताजी की विनय और प्रेम से भवानी वश में हो गईं। मूर्ति से माला खिसक पड़ी और मूर्ति मुस्कुरा उठी। सीताजी ने आदरपूर्वक उस प्रसाद को सिर पर रखा, और गौरीजी हृदय में हर्ष भरकर बोलीं।
+
+---
+सुनु सिय सत्य असीस हमारी। पूजिहि मन कामना तुम्हारी॥
+नारद बचन सदा सुचि साचा। सो बरु मिलिहि जाहिं मनु राचा॥
+~ Sunu siya satya asees hamari, poojihi man kamana tumhari,
+~ Narad bachan sada suchi sacha, so baru milihi jahin manu racha.
+= Listen, Sita, my blessing is true: your heart’s desire will be fulfilled. Narad’s words are always pure and true; you will marry the one your heart is set on.
++ हे सीता, सुनो, मेरा आशीर्वाद सत्य है: तुम्हारे मन की कामना पूरी होगी। नारदजी के वचन सदा पवित्र और सच्चे होते हैं; जिस पर तुम्हारा मन रीझा है, वही वर तुम्हें मिलेगा।
+
+--- छंद
+मनु जाहिं राचेउ मिलिहि सो बरु सहज सुंदर साँवरो।
+करुना निधान सुजान सीलु सनेहु जानत रावरो॥
+एहि भाँति गौरि असीस सुनि सिय सहित हियँ हरषीं अली।
+तुलसी भवानिहि पूजि पुनि पुनि मुदित मन मंदिर चली॥
+~ Manu jahin racheu milihi so baru sahaj sundar sanvaro,
+~ Karuna nidhan sujan seelu sanehu janat ravaro.
+~ Ehi bhanti Gauri asees suni Siya sahit hiyan harashin ali,
+~ Tulasi Bhavanihi puji puni puni mudit man mandir chali.
+= The one your heart has chosen, naturally handsome and dark, will be yours. He is a treasure of compassion and all-knowing, and he knows your goodness and your love. Hearing Gauri’s blessing, Sita and her friends rejoiced. Says Tulsi: worshipping Bhavani again and again, Sita returned to the palace with a glad heart.
++ जिस पर तुम्हारा मन रीझ गया है, वही स्वभाव से सुन्दर साँवला वर तुम्हें मिलेगा। वे करुणा के भण्डार और सब जानने वाले हैं, तुम्हारे शील और स्नेह को जानते हैं। गौरीजी का यह आशीर्वाद सुनकर सीताजी और उनकी सखियाँ हृदय में हर्षित हुईं। तुलसीदासजी कहते हैं, भवानी की बार-बार पूजा करके सीताजी प्रसन्न मन से महल को चलीं।
+
+--- सोरठा
+जानि गौरि अनुकूल सिय हिय हरषु न जाइ कहि।
+मंजुल मंगल मूल बाम अंग फरकन लगे॥
+~ Jani Gauri anukool siya hiy harashu na jai kahi,
+~ Manjul mangal mool bam ang pharakan lage.
+= Knowing Gauri to be favourable, Sita felt a joy beyond words, and her left limbs began to throb, a lovely sign of good fortune to come.
++ गौरीजी को अनुकूल जानकर सीताजी के हृदय में जो हर्ष हुआ, वह कहा नहीं जा सकता। उनके बाएँ अंग फड़कने लगे, जो सुन्दर मंगल के शुभ संकेत हैं।
