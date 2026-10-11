@@ -1,0 +1,224 @@
+id: argala-stotram
+kind: stotra
+form: Stotram
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: अर्गलास्तोत्रम् | Argala Stotram | The hymn that opens the bolt
+author: Recited as the second limb before the Durga Saptashati; its seer is named as Vishnu | traditional
+occasions: navratri, daily
+when: Recited after the Devi Kavach and before the Keelak at the start of the Durga Saptashati path, and on its own through Navratri. Most verses end with the same prayer: give me beauty, give me victory, give me glory, destroy my enemies.
+notes: An argala is the bolt of a door; the hymn is said to unbar the way to the Saptashati. Verse numbers follow the Gita Press edition, which has 25 verses; some editions have a few more. Checked verse by verse against one online edition, not yet proofread against a printed copy.
+keywords: argala, argala stotra, argala stotram, jayanti mangala kali, roopam dehi jayam dehi, rupam dehi
+
+--- विनियोग
+ॐ अस्य श्रीअर्गलास्तोत्रमन्त्रस्य विष्णुर्ऋषिः, अनुष्टुप् छन्दः,
+श्रीमहालक्ष्मीर्देवता, श्रीजगदम्बाप्रीतये सप्तशतीपाठाङ्गत्वेन जपे विनियोगः।
+ॐ नमश्चण्डिकायै॥
+~ Om asya shriargalastotramantrasya vishnurrishih, anushtup chhandah,
+~ Shrimahalakshmirdevata, shrijagadambapritaye saptashatipathangatvena jape viniyogah,
+~ Om namashchandikayai.
+= Dedication: Of this Argala hymn the seer is Vishnu, the metre anushtup, the deity Shri Mahalakshmi. It is recited as part of the Saptashati path, to please the Mother of the world. Salutation to Chandika.
++ विनियोग: इस अर्गलास्तोत्र के ऋषि विष्णु, छन्द अनुष्टुप् और देवता श्रीमहालक्ष्मी हैं। श्रीजगदम्बा की प्रसन्नता के लिए सप्तशती पाठ के अंग के रूप में इसके जप का विनियोग किया जाता है। चण्डिका को नमस्कार।
+
+---
+> मार्कण्डेय उवाच | Markandeya said
+ॐ जयन्ती मङ्गला काली भद्रकाली कपालिनी।
+दुर्गा क्षमा शिवा धात्री स्वाहा स्वधा नमोऽस्तु ते॥
+~ Om jayanti mangala kali bhadrakali kapalini,
+~ Durga kshama shiva dhatri svaha svadha namo’stu te.
+= Jayanti, Mangala, Kali, Bhadrakali, Kapalini, Durga, Kshama, Shiva, Dhatri, Svaha, Svadha: salutation to you.
++ जयन्ती, मंगला, काली, भद्रकाली, कपालिनी, दुर्गा, क्षमा, शिवा, धात्री, स्वाहा और स्वधा, इन नामों वाली देवी, आपको नमस्कार है।
+
+---
+जय त्वं देवि चामुण्डे जय भूतार्तिहारिणि।
+जय सर्वगते देवि कालरात्रि नमोऽस्तु ते॥
+~ Jaya tvam devi chamunde jaya bhutartiharini,
+~ Jaya sarvagate devi kalaratri namo’stu te.
+= Victory to you, Goddess Chamunda; victory to you who take away the suffering of beings; victory to you who are everywhere. Goddess Kalaratri, salutation to you.
++ हे चामुण्डा देवी, आपकी जय हो। प्राणियों की पीड़ा हरने वाली, आपकी जय हो। सर्वत्र व्याप्त देवी, आपकी जय हो। हे कालरात्रि, आपको नमस्कार है।
+
+---
+मधुकैटभविद्राविविधातृवरदे नमः।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Madhukaitabhavidravividhatrivarade namah,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Salutation to you who routed Madhu and Kaitabh and gave Brahma his boon. Give me beauty, give me victory, give me glory, destroy my enemies.
++ मधु और कैटभ को भगाने वाली और ब्रह्मा को वर देने वाली देवी, आपको नमस्कार है। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+महिषासुरनिर्णाशि भक्तानां सुखदे नमः।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Mahishasuranirnashi bhaktanam sukhade namah,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Slayer of Mahishasur, giver of happiness to devotees, salutation to you. Give me beauty, give me victory, give me glory, destroy my enemies.
++ महिषासुर का नाश करने वाली और भक्तों को सुख देने वाली देवी, आपको नमस्कार है। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+रक्तबीजवधे देवि चण्डमुण्डविनाशिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Raktabijavadhe devi chandamundavinashini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess who slew Raktabeej and destroyed Chand and Mund: give me beauty, give me victory, give me glory, destroy my enemies.
++ रक्तबीज का वध करने वाली और चण्ड-मुण्ड का विनाश करने वाली देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+शुम्भस्यैव निशुम्भस्य धूम्राक्षस्य च मर्दिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Shumbhasyaiva nishumbhasya dhumrakshasya cha mardini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Crusher of Shumbh, Nishumbh and Dhumraksha: give me beauty, give me victory, give me glory, destroy my enemies.
++ शुम्भ, निशुम्भ और धूम्रलोचन का मर्दन करने वाली देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+वन्दिताङ्घ्रियुगे देवि सर्वसौभाग्यदायिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Vanditanghriyuge devi sarvasaubhagyadayini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess whose two feet are worshipped by all, giver of every good fortune: give me beauty, give me victory, give me glory, destroy my enemies.
++ जिनके युगल चरणों की सब वन्दना करते हैं और जो सब सौभाग्य देने वाली हैं, ऐसी देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+अचिन्त्यरूपचरिते सर्वशत्रुविनाशिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Achintyarupacharite sarvashatruvinashini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= You whose form and deeds are beyond thought, destroyer of all enemies: give me beauty, give me victory, give me glory, destroy my enemies.
++ जिनके रूप और चरित्र का चिन्तन भी नहीं हो सकता और जो सब शत्रुओं का नाश करने वाली हैं, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+नतेभ्यः सर्वदा भक्त्या चण्डिके दुरितापहे।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Natebhyah sarvada bhaktya chandike duritapahe,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Chandika, who take away the sins of those who always bow to you in devotion: give me beauty, give me victory, give me glory, destroy my enemies.
++ हे चण्डिके, जो सदा भक्तिपूर्वक आपको प्रणाम करते हैं, उनके पाप दूर करने वाली देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+स्तुवद्भ्यो भक्तिपूर्वं त्वां चण्डिके व्याधिनाशिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Stuvadbhyo bhaktipurvam tvam chandike vyadhinashini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Chandika, who destroy the sickness of those who praise you with devotion: give me beauty, give me victory, give me glory, destroy my enemies.
++ हे चण्डिके, भक्तिपूर्वक आपकी स्तुति करने वालों के रोग नष्ट करने वाली देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+चण्डिके सततं ये त्वामर्चयन्तीह भक्तितः।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Chandike satatam ye tvamarchayantiha bhaktitah,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Chandika, to those who worship you here always with devotion, give beauty, give victory, give glory, destroy their enemies.
++ हे चण्डिके, जो इस संसार में सदा भक्ति से आपकी पूजा करते हैं, उन्हें रूप दो, जय दो, यश दो और उनके शत्रुओं का नाश करो।
+
+---
+देहि सौभाग्यमारोग्यं देहि मे परमं सुखम्।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Dehi saubhagyamarogyam dehi me paramam sukham,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Give me good fortune and health, give me the highest happiness. Give me beauty, give me victory, give me glory, destroy my enemies.
++ मुझे सौभाग्य और आरोग्य दो, परम सुख दो। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+विधेहि द्विषतां नाशं विधेहि बलमुच्चकैः।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Vidhehi dvishatam nasham vidhehi balamuchchakaih,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Bring about the destruction of those who hate me, and grant me great strength. Give me beauty, give me victory, give me glory, destroy my enemies.
++ जो मुझसे द्वेष करते हैं उनका नाश करो, और मुझे बहुत अधिक बल दो। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+विधेहि देवि कल्याणं विधेहि परमां श्रियम्।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Vidhehi devi kalyanam vidhehi paramam shriyam,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess, bring about my welfare, grant me the highest prosperity. Give me beauty, give me victory, give me glory, destroy my enemies.
++ हे देवी, मेरा कल्याण करो, मुझे परम सम्पत्ति दो। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+सुरासुरशिरोरत्ननिघृष्टचरणेऽम्बिके।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Surasurashiroratnanighrishtacharane’mbike,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Ambika, whose feet are rubbed by the crest-jewels of gods and demons bowing before you: give me beauty, give me victory, give me glory, destroy my enemies.
++ हे अम्बिके, देवता और असुर दोनों अपने मस्तक के मुकुटों की मणियाँ आपके चरणों पर घिसते हैं। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+विद्यावन्तं यशस्वन्तं लक्ष्मीवन्तं जनं कुरु।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Vidyavantam yashasvantam lakshmivantam janam kuru,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Make your devotee learned, renowned and prosperous. Give me beauty, give me victory, give me glory, destroy my enemies.
++ अपने भक्त को विद्वान, यशस्वी और लक्ष्मीवान बनाओ। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+प्रचण्डदैत्यदर्पघ्ने चण्डिके प्रणताय मे।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Prachandadaityadarpaghne chandike pranataya me,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Chandika, crusher of the pride of fierce demons, to me who bow before you, give beauty, give victory, give glory, destroy my enemies.
++ प्रचण्ड दैत्यों का घमण्ड चूर करने वाली चण्डिके, मुझ प्रणाम करने वाले को रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+चतुर्भुजे चतुर्वक्त्रसंस्तुते परमेश्वरि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Chaturbhuje chaturvaktrasamstute parameshvari,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Four-armed one, praised by four-faced Brahma, supreme Goddess: give me beauty, give me victory, give me glory, destroy my enemies.
++ चार भुजाओं वाली, चार मुख वाले ब्रह्मा से प्रशंसित परमेश्वरी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+कृष्णेन संस्तुते देवि शश्वद्भक्त्या सदाम्बिके।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Krishnena samstute devi shashvadbhaktya sadambike,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess Ambika, praised by Krishna constantly and with devotion: give me beauty, give me victory, give me glory, destroy my enemies.
++ हे अम्बिका देवी, भगवान कृष्ण सदा भक्तिपूर्वक आपकी स्तुति करते हैं। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+हिमाचलसुतानाथसंस्तुते परमेश्वरि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Himachalasutanathasamstute parameshvari,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Supreme Goddess, praised by Shiv, the lord of the Himalaya’s daughter: give me beauty, give me victory, give me glory, destroy my enemies.
++ हिमालय की पुत्री पार्वती के स्वामी शिव से प्रशंसित परमेश्वरी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+इन्द्राणीपतिसद्भावपूजिते परमेश्वरि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Indranipatisadbhavapujite parameshvari,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Supreme Goddess, worshipped with true devotion by Indra, Indrani’s husband: give me beauty, give me victory, give me glory, destroy my enemies.
++ इन्द्राणी के पति इन्द्र जिनकी सच्चे भाव से पूजा करते हैं, ऐसी परमेश्वरी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+देवि प्रचण्डदोर्दण्डदैत्यदर्पविनाशिनि।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Devi prachandadordandadaityadarpavinashini,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess who destroy the pride of demons with your mighty arms: give me beauty, give me victory, give me glory, destroy my enemies.
++ अपनी प्रचण्ड भुजाओं से दैत्यों का घमण्ड नष्ट करने वाली देवी, मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+देवि भक्तजनोद्दामदत्तानन्दोदयेऽम्बिके।
+रूपं देहि जयं देहि यशो देहि द्विषो जहि॥
+~ Devi bhaktajanoddamadattanandodaye’mbike,
+~ Rupam dehi jayam dehi yasho dehi dvisho jahi.
+= Goddess Ambika, who give boundless joy to your devotees: give me beauty, give me victory, give me glory, destroy my enemies.
++ हे अम्बिका देवी, आप अपने भक्तों को असीम आनन्द देती हैं। मुझे रूप दो, जय दो, यश दो और मेरे शत्रुओं का नाश करो।
+
+---
+पत्नीं मनोरमां देहि मनोवृत्तानुसारिणीम्।
+तारिणीं दुर्गसंसारसागरस्य कुलोद्भवाम्॥
+~ Patnim manoramam dehi manovrittanusarinim,
+~ Tarinim durgasamsarasagarasya kulodbhavam.
+= Give me a lovely wife who follows my heart, born of a good family, who helps me across the hard ocean of the world.
++ मुझे मन के अनुसार चलने वाली, सुन्दर, उत्तम कुल में जन्मी और दुर्गम संसार-सागर से पार करने वाली पत्नी दो।
+
+---
+इदं स्तोत्रं पठित्वा तु महास्तोत्रं पठेन्नरः।
+स तु सप्तशतीसंख्यावरमाप्नोति सम्पदाम्॥
+~ Idam stotram pathitva tu mahastotram pathennarah,
+~ Sa tu saptashatisamkhyavaramapnoti sampadam.
+= Whoever reads this hymn and then the great hymn, the Saptashati, gains the best of riches, in measure with its seven hundred verses.
++ जो मनुष्य इस स्तोत्र का पाठ करके फिर महास्तोत्र सप्तशती का पाठ करता है, वह सप्तशती के जप की संख्या के अनुसार श्रेष्ठ फल और सम्पत्ति पाता है।

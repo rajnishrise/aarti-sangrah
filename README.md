@@ -2,7 +2,7 @@
 
 A library of Hindu devotional texts: aartis, chalisas, stotras, mantras, bhajans, the Bhagavad Gita and the Durga Saptashati. Every text has the Devanagari, a singable Roman version and an English and a Hindi meaning for each verse, along with its deity, the occasions it is sung on, its author and known variants.
 
-> **Status:** 38 texts. They have not yet been proofread against printed editions, and the Hindi meanings are new and need a native reader’s review; please [report mistakes](https://github.com/rajnishrise/aarti-sangrah/issues).
+> **Status:** 42 texts. None has been proofread against a printed edition yet, though the Durga Saptashati and its Kavach, Argala and Keelak have been checked verse by verse against one online edition. The Hindi meanings are new and need a native reader’s review; please [report mistakes](https://github.com/rajnishrise/aarti-sangrah/issues).
 
 ## What it does
 
