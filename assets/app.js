@@ -261,11 +261,11 @@ function rowHTML({ a, ch, hit }, devQuery) {
   if (a.kind === 'granth' && ch) {
     const c = chapterOf(a, ch);
     tD = c.d; tR = `${shortTitle(a)}, chapter ${ch}: ${c.r}`; href = `#/granth/${a.id}/${ch}`; blocks = c.verses;
-    meta = `Chapter ${ch}<br>${c.part ? `Verses ${c.part.from}–${c.part.to}` : `${c.count} verses`}`;
+    meta = `Chapter ${ch}<span class="msep">, </span><br>${c.part ? `Verses ${c.part.from}–${c.part.to}` : `${c.count} verses`}`;
   } else if (a.kind === 'granth') {
-    meta = `Granth<br>${a.chapters.filter(c => c.verses && !c.part).length} of ${a.chapters.length} chapters`;
+    meta = `Granth<span class="msep">, </span><br>${a.chapters.filter(c => c.verses && !c.part).length} of ${a.chapters.length} chapters`;
   } else {
-    meta = `${esc(kindLabel(a))}<br>${a.verses.length} ${a.verses.length === 1 ? 'verse' : 'verses'}`;
+    meta = `${esc(kindLabel(a))}<span class="msep">, </span><br>${a.verses.length} ${a.verses.length === 1 ? 'verse' : 'verses'}`;
   }
   let snip = '';
   if (hit != null && blocks) {
@@ -291,7 +291,7 @@ function navHits(q) {
 function navRowHTML(x) {
   const href = x ? `#/navratri/${x.n}` : '#/navratri';
   return `<li><a class="row nvrow" href="${href}"><span class="mono" style="--c:#A3121F" aria-hidden="true">${x ? toDev(x.n) : 'न'}</span>
-    <span class="t" lang="hi">${x ? 'माँ ' + x.gd : NAV.d}</span><span class="meta">${x ? `Navratri<br>night ${x.n}` : 'Festival<br>9 nights'}</span>
+    <span class="t" lang="hi">${x ? 'माँ ' + x.gd : NAV.d}</span><span class="meta">${x ? `Navratri<span class="msep">, </span><br>night ${x.n}` : 'Festival<span class="msep">, </span><br>9 nights'}</span>
     <span class="r">${x ? `${esc(x.g)}, ${esc(x.means.toLowerCase())}` : 'The nine nights: each goddess, her verse, and what to read'}</span></a></li>`;
 }
 function renderList() {
