@@ -79,7 +79,7 @@ button{font:inherit;color:inherit}
 
 /* index rows, like the contents page of an aarti booklet */
 .index{list-style:none;margin:0;padding:0;border-top:1px solid var(--rule)}
-.row{display:grid;grid-template-columns:auto 1fr auto;gap:2px 14px;align-items:center;padding:13px 6px;border-bottom:1px solid var(--rule);color:inherit;text-decoration:none}
+.row{display:grid;grid-template-columns:auto minmax(0,1fr) auto;gap:2px 14px;align-items:center;padding:13px 6px;border-bottom:1px solid var(--rule);color:inherit;text-decoration:none}
 .row:hover{background:var(--leaf)}
 .row .t{font-family:var(--f-deva);font-size:1.42rem;line-height:1.35}
 .row .t:lang(mr){font-family:var(--f-deva-mr)}
@@ -471,3 +471,24 @@ body.searching .navband{display:none}
 @media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .navband,:root:not([data-theme="light"]) .nv-hero{background:linear-gradient(135deg,#3A0A0C,#5A1012 55%,#3F0B0A)}}
 :root[data-theme="dark"] .navband,:root[data-theme="dark"] .nv-hero{background:linear-gradient(135deg,#3A0A0C,#5A1012 55%,#3F0B0A)}
 @media (max-width:430px){.festbtn{display:none!important}}
+/* phones: keep everything inside the screen width */
+.msep{display:none}
+.step{grid-template-columns:2.2em minmax(0,1fr)}
+.verses .step{grid-template-columns:var(--lw,2.2em) minmax(0,1fr)}
+.dev,.rom,.mean,.mean-hi,.a-head h1,.a-rom{overflow-wrap:break-word}
+.foot nav a{display:inline-block;padding:8px 0}
+@media (max-width:600px){
+  .verses .step{grid-template-columns:calc(var(--lw,2.2em)*.72) minmax(0,1fr);gap:0 .55em}
+  .vn{font-size:.95em;overflow-wrap:anywhere}
+  .tools{-webkit-mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent);mask-image:linear-gradient(90deg,#000 calc(100% - 28px),transparent);padding-right:28px}
+  .tools .btn.solid{order:-1}
+  .seg button{min-width:36px;padding:0 8px}
+  .row{grid-template-columns:auto minmax(0,1fr)}
+  .row .t{grid-column:2;grid-row:1}.row .r{grid-column:2;grid-row:2}
+  .row .meta{grid-column:2;grid-row:3;text-align:left;font-size:.8rem}
+  .row .snip{grid-column:1/-1}
+  .row .meta br{display:none}
+  .row .meta .msep{display:inline}
+  .row .mono{grid-row:1/span 3}
+}
+.search{min-width:0}.search input{width:100%}
