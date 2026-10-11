@@ -1,0 +1,52 @@
+id: ya-devi-sarvabhuteshu
+kind: mantra
+form: Shloka
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: या देवी सर्वभूतेषु | Ya Devi Sarvabhuteshu | To the Goddess present in every being
+author: From the Devi Mahatmya (Durga Saptashati), chapter 5 | known
+occasions: navratri, daily
+when: Chanted through Navratri, often as the opening of Devi puja. In the Saptashati the same verse is repeated for twenty-one forms of the Goddess; the five here are the ones most often chanted on their own. The full hymn is in the Durga Saptashati, chapter 5.
+notes: Each verse is recited with the line “नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः” three times over, which is why printed editions give every verse three numbers.
+
+---
+या देवी सर्वभूतेषु शक्तिरूपेण संस्थिता।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+~ Ya Devi sarvabhuteshu shaktirupena sansthita,
+~ Namastasyai namastasyai namastasyai namo namah.
+= To the Goddess who dwells in all beings as power: salutations to her, salutations to her, salutations to her, again and again.
++ जो देवी सब प्राणियों में शक्ति के रूप में स्थित हैं, उनको नमस्कार है, उनको नमस्कार है, उनको बार-बार नमस्कार है।
+
+---
+या देवी सर्वभूतेषु मातृरूपेण संस्थिता।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+~ Ya Devi sarvabhuteshu matrirupena sansthita,
+~ Namastasyai namastasyai namastasyai namo namah.
+= To the Goddess who dwells in all beings as mother: salutations to her, again and again.
++ जो देवी सब प्राणियों में माता के रूप में स्थित हैं, उनको बार-बार नमस्कार है।
+
+---
+या देवी सर्वभूतेषु लक्ष्मीरूपेण संस्थिता।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+~ Ya Devi sarvabhuteshu Lakshmirupena sansthita,
+~ Namastasyai namastasyai namastasyai namo namah.
+= To the Goddess who dwells in all beings as prosperity: salutations to her, again and again.
++ जो देवी सब प्राणियों में लक्ष्मी (समृद्धि) के रूप में स्थित हैं, उनको बार-बार नमस्कार है।
+
+---
+या देवी सर्वभूतेषु बुद्धिरूपेण संस्थिता।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+~ Ya Devi sarvabhuteshu buddhirupena sansthita,
+~ Namastasyai namastasyai namastasyai namo namah.
+= To the Goddess who dwells in all beings as intelligence: salutations to her, again and again.
++ जो देवी सब प्राणियों में बुद्धि के रूप में स्थित हैं, उनको बार-बार नमस्कार है।
+
+---
+या देवी सर्वभूतेषु शान्तिरूपेण संस्थिता।
+नमस्तस्यै नमस्तस्यै नमस्तस्यै नमो नमः॥
+~ Ya Devi sarvabhuteshu shantirupena sansthita,
+~ Namastasyai namastasyai namastasyai namo namah.
+= To the Goddess who dwells in all beings as peace: salutations to her, again and again.
++ जो देवी सब प्राणियों में शान्ति के रूप में स्थित हैं, उनको बार-बार नमस्कार है।

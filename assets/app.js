@@ -27,7 +27,7 @@ const DSTOP = new Set(['आरती','की','का','के','श्री',
 
 const D = window.AARTI_DATA;
 const DEITIES = D.deities, KINDS = D.kinds, OCC = D.occasions, OCC_ORDER = D.occOrder,
-  WEEKDAYS = D.weekdays, FESTS = D.fests, PRESETS = D.presets, TEXTS = D.texts;
+  WEEKDAYS = D.weekdays, FESTS = D.fests, PRESETS = D.presets, TEXTS = D.texts, NAV = D.navratri;
 const DEITY = Object.fromEntries(DEITIES.map(d => [d.id, d]));
 const KIND = Object.fromEntries(KINDS.map(k => [k.id, k]));
 const BY_ID = Object.fromEntries(TEXTS.map(t => [t.id, t]));
@@ -50,8 +50,13 @@ const store = {
   get(k, d) { try { const v = localStorage.getItem('aarti:' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
   set(k, v) { try { localStorage.setItem('aarti:' + k, JSON.stringify(v)); } catch (e) { /* storage unavailable */ } }
 };
+/* meaning: 'en', 'hi', 'both' or 'off'. Older visits stored true or false. */
+const MEANINGS = ['en', 'hi', 'both', 'off'];
+const storedMeaning = store.get('meaning', 'both');
 const state = {
-  script: store.get('script', 'both'), meaning: store.get('meaning', true), refrainFull: store.get('refrainFull', false),
+  script: store.get('script', 'both'),
+  meaning: storedMeaning === false ? 'off' : MEANINGS.includes(storedMeaning) ? storedMeaning : 'both',
+  refrainFull: store.get('refrainFull', false),
   scale: store.get('scale', 1), favs: new Set(store.get('favs', []).filter(id => BY_ID[id])),
   puja: store.get('puja', []).filter(id => BY_ID[id] && BY_ID[id].kind !== 'granth'),
   filter: { kind: 'all', value: null }, query: '', view: null, step: -1, pujaMode: false, seqPos: -1,
@@ -63,6 +68,7 @@ const chapterOf = (g, n) => g.chapters.find(c => c.n === n);
 const textHref = t => t.kind === 'granth' ? `#/granth/${t.id}` : `#/${t.kind}/${t.id}`;
 const baseLang = t => t.language.split(' (')[0];
 const kindLabel = t => t.form || KIND[t.kind].n;
+const shortTitle = t => t.title.r.split(' (')[0];
 
 /* ---- deity art: painting in a temple arch, with a marigold mala along the arch ---- */
 const MALA_P = 'M1.5 64V50C1.5 27 21 15 38.5 9.4C44 7.6 48 4.8 50 2.2C52 4.8 56 7.6 61.5 9.4C79 15 98.5 27 98.5 50V64';
@@ -102,10 +108,10 @@ function addUnit(t, ch, blocks, titleR, titleD, extra) {
 }
 for (const t of TEXTS) {
   if (t.kind !== 'granth') { addUnit(t, null, t.verses, t.title.r + ' ' + t.title.en, t.title.d); continue; }
-  const gk = ['gita', 'geeta', 'bhagwat geeta'];
+  const gk = t.kw || [];
   addUnit(t, null, [], t.title.r + ' ' + t.title.en, t.title.d, gk);
   for (const c of t.chapters) {
-    if (c.verses) addUnit(t, c.n, c.verses, `${t.title.r} chapter ${c.n} ${c.r} ${c.en}`, `${t.title.d} ${c.d}`, gk.concat(['adhyay ' + c.n]));
+    if (c.verses) addUnit(t, c.n, c.verses, `${shortTitle(t)} chapter ${c.n} ${c.r} ${c.en}`, `${t.title.d} ${c.d}`, gk.concat(['adhyay ' + c.n]));
   }
 }
 
@@ -186,7 +192,8 @@ function renderToday() {
       : `<p class="h-label">Next festival</p><div class="f-when"><span class="f-num">${toDev(days)}</span><span>${days === 1 ? 'day to go' : 'days to go'}</span></div><p class="f-name" lang="hi">${o.d}</p><p class="f-sub">${esc(name)}, ${fmt(f.start)}</p>`;
     const more = up.slice(1, 5).map(g => `<li><a href="#/" data-filter="occ:${g.occ}" style="color:inherit">${esc(g.label || OCC[g.occ].n)}</a><span>${fmt(g.start)}</span></li>`).join('');
     const texts = TEXTS.filter(t => t.occ.includes(f.occ));
-    html += `<div class="fest">${when}${texts.length ? `<div class="h-links">${texts.map(linkChip).join('')}</div>` : ''}
+    const navLink = NAV && f.occ === NAV.occ ? `<a class="lchip nav" href="#/navratri${live ? '/' + dayN : ''}"><span class="nv-dot" lang="hi">${toDev(live ? dayN : 9)}</span><span>${live ? `Tonight: <span lang="hi">${NAV.days[dayN - 1].gd}</span>` : 'The nine nights'}</span></a>` : '';
+    html += `<div class="fest">${when}${texts.length || navLink ? `<div class="h-links">${navLink}${texts.slice(0, navLink ? 5 : 99).map(linkChip).join('')}${navLink && texts.length > 5 ? `<a class="lchip more" href="#/navratri">+${texts.length - 5} more</a>` : ''}</div>` : ''}
       ${more ? `<details class="f-more"><summary>Coming up after that</summary><ul>${more}</ul></details>` : ''}
       <p class="f-fine">Dates follow a North Indian panchang and can differ by a day where you live.</p></div>`;
   }
@@ -253,10 +260,10 @@ function rowHTML({ a, ch, hit }, devQuery) {
   let tD = a.title.d, tR = a.title.r, href = textHref(a), meta, L = a.lang, blocks = a.verses;
   if (a.kind === 'granth' && ch) {
     const c = chapterOf(a, ch);
-    tD = c.d; tR = `Bhagavad Gita, chapter ${ch}: ${c.r}`; href = `#/granth/${a.id}/${ch}`; blocks = c.verses;
-    meta = `Chapter ${ch}<br>${c.count} verses`;
+    tD = c.d; tR = `${shortTitle(a)}, chapter ${ch}: ${c.r}`; href = `#/granth/${a.id}/${ch}`; blocks = c.verses;
+    meta = `Chapter ${ch}<br>${c.part ? `Verses ${c.part.from}–${c.part.to}` : `${c.count} verses`}`;
   } else if (a.kind === 'granth') {
-    meta = `Granth<br>${a.chapters.filter(c => c.verses).length} of ${a.chapters.length} chapters`;
+    meta = `Granth<br>${a.chapters.filter(c => c.verses && !c.part).length} of ${a.chapters.length} chapters`;
   } else {
     meta = `${esc(kindLabel(a))}<br>${a.verses.length} ${a.verses.length === 1 ? 'verse' : 'verses'}`;
   }
@@ -271,16 +278,37 @@ function rowHTML({ a, ch, hit }, devQuery) {
     <span class="meta">${meta}${state.favs.has(a.id) && !ch ? ' <span class="heart" aria-label="saved">♥</span>' : ''}</span>
     <span class="r">${esc(tR)}${baseLang(a) !== 'Hindi' && !ch ? ', ' + esc(a.language) : ''}</span>${snip}</a></li>`;
 }
+/* Navratri pages show up in search for the festival's name or a goddess of the nine nights. */
+const NAV_WORDS = ['navratri', 'navaratri', 'navratra', 'navratre', 'navdurga', 'navadurga', 'nine nights', 'durga puja', 'garba'];
+function navHits(q) {
+  if (!NAV || !q.trim()) return [];
+  const dev = /[\u0900-\u097F]/.test(q), qd = deva(q), ql = light(q), out = [];
+  const hit = (r, d) => dev ? !!qd && (d.includes(qd) || qd.includes(d)) : ql.length >= 4 && (light(r).startsWith(ql) || ql.includes(light(r)));
+  if (NAV_WORDS.some(w => hit(w, '')) || (dev && /नवरात्र|नवदुर्गा/.test(qd))) out.push(null);
+  NAV.days.forEach(x => { if (hit(x.g, deva(x.gd))) out.push(x); });
+  return out;
+}
+function navRowHTML(x) {
+  const href = x ? `#/navratri/${x.n}` : '#/navratri';
+  return `<li><a class="row nvrow" href="${href}"><span class="mono" style="--c:#A3121F" aria-hidden="true">${x ? toDev(x.n) : 'न'}</span>
+    <span class="t" lang="hi">${x ? 'माँ ' + x.gd : NAV.d}</span><span class="meta">${x ? `Navratri<br>night ${x.n}` : 'Festival<br>9 nights'}</span>
+    <span class="r">${x ? `${esc(x.g)}, ${esc(x.means.toLowerCase())}` : 'The nine nights: each goddess, her verse, and what to read'}</span></a></li>`;
+}
 function renderList() {
   const { items, title, note } = currentList(), devQ = /[\u0900-\u097F]/.test(state.query);
   $('#listTitle').textContent = title;
   $('#listNote').textContent = note;
-  $('#list').innerHTML = items.map(it => rowHTML(it, devQ)).join('');
+  $('#list').innerHTML = navHits(state.query).map(navRowHTML).join('') + items.map(it => rowHTML(it, devQ)).join('');
 }
 function renderBrowse() { renderTabs(); renderChips(); renderList(); renderShelf(); }
 
 /* ================= Pages: deity, granth, credits ================= */
-const bar = (title, tools = '') => `<div class="rbar"><div class="wrap rbar-in"><button class="btn bare" type="button" data-act="back">Back</button><div class="rbar-t">${title}</div>${tools}</div></div>`;
+const HOME_ICON = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M3.5 11 12 4l8.5 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 9.6V20h4.4v-5.4h3.2V20H18V9.6" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>`;
+const THEME_ICON = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M20 14.5A8 8 0 0 1 9.5 4a8 8 0 1 0 10.5 10.5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>`;
+const BACK_ICON = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M15 5l-7 7 7 7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+const bar = (title, tools = '') => `<div class="rbar"><div class="wrap rbar-in">
+  <div class="navbtns"><button class="btn bare nb" type="button" data-act="back" aria-label="Back">${BACK_ICON}<span>Back</span></button><a class="btn bare nb" href="#/" data-act="home" aria-label="Home">${HOME_ICON}<span>Home</span></a></div>
+  <div class="rbar-t">${title}</div>${tools}</div><div class="progress" aria-hidden="true"><span id="prog"></span></div></div>`;
 const groupHTML = (dv, en, rows) => `<section class="group"><h2><span class="dv" lang="hi">${dv}</span>${esc(en)}</h2><ul class="index">${rows}</ul></section>`;
 
 function renderDeityPage(d) {
@@ -294,24 +322,30 @@ function renderDeityPage(d) {
     <header class="dp-head">${arch(d, 'clamp(150px,46vw,230px)', 'Painting of ' + d.n, true)}<div>
       <h1 class="dp-name" lang="hi">${d.d}</h1>
       <p class="dp-en">${esc(d.label || d.n)}${d.akaD && d.akaD.length ? `, also called <span lang="hi">${d.akaD.join(', ')}</span>` : ''}</p>
-      <p class="dp-about">${esc(d.about)}</p>${facts ? `<p class="dp-facts">${facts}</p>` : ''}${credit}</div></header>
+      <p class="dp-about">${esc(d.about)}</p>${facts ? `<p class="dp-facts">${facts}</p>` : ''}${credit}
+      ${NAV && d.id === 'durga' ? `<p class="dp-cta"><a class="btn solid" href="#/navratri">Navratri: the nine nights</a><a class="btn" href="#/granth/durga-saptashati">Durga Saptashati</a></p>` : ''}</div></header>
     ${groups || '<p class="empty">No texts for this deity yet.</p>'}</div>`;
 }
 
 function renderGranthPage(g) {
-  const ready = g.chapters.filter(c => c.verses).length;
+  const full = g.chapters.filter(c => c.verses && !c.part).length, parts = g.chapters.filter(c => c.part);
   const rows = g.chapters.map(c => {
     const inner = `<span class="cn">${toDev(c.n)}</span><span class="cd" lang="sa">${c.d}</span><span class="ce">${esc(c.r)}: ${esc(c.en)}</span>`;
-    return c.verses ? `<li><a class="ch" href="#/granth/${g.id}/${c.n}">${inner}<span class="cs">${c.count} verses</span></a></li>`
-      : `<li><div class="ch soon">${inner}<span class="cs">${c.count} verses<br>In preparation</span></div></li>`;
+    const sum = c.sum ? `<details class="ch-sum"><summary>${c.verses ? 'The story of this chapter' : 'What happens in this chapter'}</summary><p>${esc(c.sum)}</p></details>` : '';
+    const row = !c.verses ? `<div class="ch soon">${inner}<span class="cs">${c.count} verses<br>In preparation</span></div>`
+      : c.part ? `<a class="ch" href="#/granth/${g.id}/${c.n}">${inner}<span class="cs">Verses ${c.part.from}–${c.part.to}<br><span class="part">of ${c.count}</span></span></a>`
+      : `<a class="ch" href="#/granth/${g.id}/${c.n}">${inner}<span class="cs">${c.count} verses</span></a>`;
+    return `<li>${row}${sum}</li>`;
   }).join('');
+  const d = DEITY[g.deity];
+  const status = `${full} of ${g.chapters.length} chapters are ready to read${parts.length ? `, with part of chapter ${parts.map(c => c.n).join(' and ')}` : ''}.`;
   $('#reader').innerHTML = bar(`<span lang="sa">${g.title.d}</span>`) + `<div class="page">
-    <header class="dp-head">${arch(DEITY[g.deity], 'clamp(130px,40vw,200px)', 'Painting of Krishna', true)}<div>
+    <header class="dp-head">${arch(d, 'clamp(130px,40vw,200px)', 'Painting of ' + (d.label || d.n), true)}<div>
       <p class="kind">Granth</p><h1 class="dp-name" lang="sa">${g.title.d}</h1>
       <p class="dp-en">${esc(g.title.r)}: ${esc(g.title.en)}</p><p class="dp-about">${esc(g.when)}</p>
       <p class="dp-facts">${esc(g.auth.t)}. ${esc(g.notes || '')}</p></div></header>
     <section class="group"><h2><span class="dv" lang="hi">अध्याय</span>Chapters</h2>
-      <p class="dp-facts">${ready} of ${g.chapters.length} chapters are ready to read.</p><ol class="chapters">${rows}</ol></section></div>`;
+      <p class="dp-facts">${status}</p><ol class="chapters">${rows}</ol></section></div>`;
 }
 
 function renderCredits() {
@@ -321,14 +355,116 @@ function renderCredits() {
     <h1 class="dp-name" lang="hi">चित्र आभार</h1>
     <p class="dp-about">The paintings are public-domain works, most by Raja Ravi Varma (1848–1906) and the Ravi Varma Press, shown from Wikimedia Commons. Each one links to its page there. The marigolds, lotuses and arches are original artwork made for this site.</p>
     <ul class="index" style="margin-top:18px">${rows}</ul>
-    <p class="dp-about" style="margin-top:22px">The texts are traditional and in the public domain. The Roman versions and English meanings were written for this site.</p></div>`;
+    <p class="dp-about" style="margin-top:22px">The texts are traditional and in the public domain. The Roman versions and the English and Hindi meanings were written for this site.</p></div>`;
+}
+
+
+/* ================= Navratri ================= */
+/* The nine nights come from core.json (navratri) and the festival dates (fests). */
+const ORD = ['', 'first', 'second', 'third', 'fourth', 'fifth', 'sixth', 'seventh', 'eighth', 'ninth'];
+function navSeason() {
+  if (!NAV) return null;
+  const t0 = day0(new Date());
+  const runs = FESTS.filter(f => f.occ === NAV.occ).map(f => { const s = pd(f.date); return { f, start: s, end: new Date(s.getFullYear(), s.getMonth(), s.getDate() + (f.len || 9)) }; })
+    .sort((a, b) => a.start - b.start);
+  if (!runs.length) return null;
+  const r = runs.find(x => x.end > t0) || runs[runs.length - 1];
+  const dayN = Math.floor((t0 - r.start) / 864e5) + 1;
+  const live = dayN >= 1 && dayN <= 9;
+  const until = Math.round((r.start - t0) / 864e5);
+  return { ...r, live, dayN: live ? dayN : null, until, soon: until > 0 && until <= 45, justAfter: dayN === 10 };
+}
+const nightDate = (se, n) => se ? new Date(se.start.getFullYear(), se.start.getMonth(), se.start.getDate() + n - 1) : null;
+function readHref(r) {
+  const t = BY_ID[r.id];
+  if (r.ch) {
+    const c = chapterOf(t, r.ch), i = r.at ? c.verses.findIndex(v => v.n === r.at) : -1;
+    return `#/granth/${t.id}/${r.ch}${i > -1 ? '/' + i : ''}`;
+  }
+  return textHref(t) + (r.v != null ? '/' + r.v : '');
+}
+function readRow(r) {
+  const t = BY_ID[r.id], d = DEITY[t.deity], c = r.ch ? chapterOf(t, r.ch) : null;
+  const tD = c ? c.d : t.title.d, tR = c ? `${shortTitle(t)}, chapter ${r.ch}${c.part ? ` (verses ${c.part.from}–${c.part.to})` : ''}` : t.title.r;
+  return `<li><a class="row" href="${readHref(r)}">${avatar(d)}<span class="t" lang="${t.lang}">${esc(tD)}</span>
+    <span class="meta">${esc(c ? 'Granth' : kindLabel(t))}</span><span class="r">${esc(tR)}</span><span class="why">${esc(r.why)}</span></a></li>`;
+}
+function nightStrip(se, cur) {
+  return `<ol class="nights${cur ? ' row' : ''}" aria-label="The nine nights">${NAV.days.map(x => {
+    const dt = nightDate(se, x.n), tonight = se && se.live && se.dayN === x.n, past = se && se.live && x.n < se.dayN;
+    return `<li><a class="night${tonight ? ' tonight' : ''}${past ? ' past' : ''}" href="#/navratri/${x.n}"${cur === x.n ? ' aria-current="page"' : ''}>
+      <span class="nn" lang="hi">${toDev(x.n)}</span><span class="ng" lang="hi">${x.gd}</span><span class="ne">${esc(x.g)}</span>
+      ${dt ? `<span class="nd">${tonight ? 'Tonight' : esc(fmt(dt))}</span>` : ''}</a></li>`;
+  }).join('')}</ol>`;
+}
+function navStatus(se) {
+  if (!se) return 'Dates for the next Navratri haven’t been added yet.';
+  const range = `${fmt(se.start)} to ${fmt(nightDate(se, 9))}`;
+  if (se.live) { const x = NAV.days[se.dayN - 1]; return `Tonight is the ${ORD[se.dayN]} night, for Maa ${x.g}. ${range}.`; }
+  if (se.until > 0) return `Begins in ${se.until} ${se.until === 1 ? 'day' : 'days'}: ${range}.`;
+  return `This year’s Navratri was ${range}.`;
+}
+function renderNavratri(n) {
+  const se = navSeason(), x = n ? NAV.days[n - 1] : null, durga = DEITY.durga;
+  const head = `<header class="nv-hero${n ? ' compact' : ''}"><div class="toran" aria-hidden="true"></div><div class="nv-in">
+      ${n ? '' : arch(durga, 'clamp(110px,30vw,170px)', 'Painting of Maa Durga', true)}
+      <div><p class="nv-kicker">${esc(NAV.tag)}</p><h1 class="nv-title" lang="hi">${NAV.d}</h1>
+      <p class="nv-en">${esc(NAV.n)}</p><p class="nv-status">${esc(navStatus(se))}</p>
+      ${n ? '<a class="btn ghost" href="#/navratri">About the festival</a>' : (se && se.live ? `<a class="btn gold" href="#/navratri/${se.dayN}">Tonight: <span lang="hi">${NAV.days[se.dayN - 1].gd}</span></a>` : '')}
+      </div></div></header>`;
+  let body;
+  if (x) {
+    const dh = BY_ID['navdurga-dhyan'], dr = x.read.find(r => r.id === 'navdurga-dhyan'), v = dr ? dh.verses[dr.v] : null, dt = nightDate(se, x.n);
+    const prev = n > 1 ? NAV.days[n - 2] : null, next = n < 9 ? NAV.days[n] : null;
+    body = `<section class="nv-day">
+      <p class="kind">${esc(x.tithi)}, <span lang="hi">${x.td}</span>${dt ? ` · ${esc(fmt(dt))}` : ''}</p>
+      <h2 class="nv-g"><span class="nv-num" lang="hi">${toDev(x.n)}</span><span lang="hi">माँ ${x.gd}</span></h2>
+      <p class="nv-means">${esc(x.g)}: ${esc(x.means)}</p>
+      <p>${esc(x.about)}</p>
+      <dl class="facts nv-facts"><div><dt>Her form</dt><dd>${esc(x.look)}</dd></div><div><dt>Offering</dt><dd>${esc(x.offer)} Customs vary from family to family.</dd></div></dl>
+      ${v ? `<div class="dhyan s-${state.script} m-${state.meaning}"><p class="dh-l"><span lang="hi">ध्यान मन्त्र</span> Meditation verse</p>
+        <p class="dev" lang="sa">${lines(v.d)}</p><p class="rom" lang="sa-Latn">${lines(v.r)}</p>
+        ${v.m ? `<p class="mean">${esc(v.m)}</p>` : ''}${v.h ? `<p class="mean-hi" lang="hi">${esc(v.h)}</p>` : ''}
+        <a class="btn" href="${readHref(dr)}">Open in the reader</a></div>` : ''}
+      <h3 class="sec-h"><span class="dv" lang="hi">आज का पाठ</span>Read and sing tonight</h3>
+      <ul class="index">${x.read.filter(r => r !== dr).map(readRow).join('')}</ul>
+      <nav class="chnav" aria-label="Nights">${prev ? `<a class="btn" href="#/navratri/${n - 1}">← <span lang="hi">${prev.gd}</span></a>` : '<span></span>'}
+        <a class="btn" href="#/navratri">All nine nights</a>${next ? `<a class="btn" href="#/navratri/${n + 1}"><span lang="hi">${next.gd}</span> →</a>` : `<a class="btn" href="#/" data-filter="occ:${NAV.after.occ}">${esc(OCC[NAV.after.occ].n)} →</a>`}</nav>
+    </section>`;
+  } else {
+    const texts = TEXTS.filter(t => t.occ.includes(NAV.occ));
+    const groups = KINDS.map(k => { const ts = texts.filter(t => t.kind === k.id); return ts.length ? groupHTML(k.d, k.pl, ts.map(t => rowHTML({ a: t, ch: null, hit: null })).join('')) : ''; }).join('');
+    body = `<section class="nv-about">${NAV.about.map(p => `<p>${esc(p)}</p>`).join('')}</section>
+      <section class="group"><h2><span class="dv" lang="hi">परम्परा</span>How it is kept</h2>
+        <div class="customs">${NAV.customs.map(c => `<div class="custom"><h3><span lang="hi">${c.d}</span>${esc(c.n)}</h3><p>${esc(c.t)}</p></div>`).join('')}</div></section>
+      <section class="group nv-puja"><h2><span class="dv" lang="hi">पूजा क्रम</span>An evening puja order</h2>
+        <p class="dp-facts">Ganesh aarti, Durga Chalisa, Jai Ambe Gauri and Karpur Gauram, the order many North Indian homes follow. Begin puja opens each in turn in puja mode.</p>
+        <button class="btn solid" type="button" data-act="navpuja">Begin Navratri puja</button></section>
+      ${groups}
+      <section class="group"><h2><span class="dv" lang="hi">विजयादशमी</span>The tenth day</h2><p class="dp-about">${esc(NAV.after.t)}</p></section>`;
+  }
+  $('#reader').innerHTML = bar(`<span lang="hi">नवरात्रि</span>${n ? ` · <span lang="hi">${x.gd}</span>` : ''}`) + `<div class="page nv">${head}
+    <section class="group"><h2><span class="dv" lang="hi">नौ रातें</span>The nine nights</h2>${nightStrip(se, n)}</section>${body}</div>`;
+}
+function navBanner() {
+  const se = navSeason(), box = $('#navratri');
+  if (!se || !(se.live || se.soon)) { box.hidden = true; $('#festBtn').hidden = true; return; }
+  const x = se.live ? NAV.days[se.dayN - 1] : NAV.days[0];
+  box.hidden = false; $('#festBtn').hidden = false;
+  box.innerHTML = `<div class="wrap nb-in">
+    <div class="nb-text"><p class="nv-kicker">${se.live ? `Navratri · night ${se.dayN} of 9` : `Navratri begins in ${se.until} ${se.until === 1 ? 'day' : 'days'}`}</p>
+      <h2 class="nb-title"><span lang="hi">${se.live ? 'माँ ' + x.gd : NAV.d}</span></h2>
+      <p class="nb-sub">${se.live ? `${esc(x.g)}, ${esc(x.means.toLowerCase())}. ${esc(x.about.split('. ')[0])}.` : 'A page for each of the nine nights, with the goddess of the night, her meditation verse, and the aartis, chalisa and Durga Saptashati to read.'}</p>
+      <div class="nb-acts"><a class="btn gold" href="#/navratri/${x.n}">${se.live ? 'Tonight’s puja' : 'The first night'}</a><a class="btn ghost" href="#/navratri">All nine nights</a><a class="btn ghost" href="#/granth/durga-saptashati">Durga Saptashati</a></div></div>
+    <ol class="nb-dots" aria-hidden="true">${NAV.days.map(d => `<li class="${se.live && d.n === se.dayN ? 'on' : se.live && d.n < se.dayN ? 'done' : ''}"><span lang="hi">${toDev(d.n)}</span></li>`).join('')}</ol></div>`;
 }
 
 /* ================= Reader ================= */
 function blockHTML(v, label, cls, dv, L) {
-  const sp = v.sp ? `<p class="sp"><span class="spd" lang="${L}">${esc(v.sp.d)}</span><span class="spr">${esc(v.sp.r)}</span></p>` : '';
+  const spNo = v.sp && v.sp.no ? `<span class="spn" aria-hidden="true"> ॥${toDev(v.sp.no)}॥</span>` : '';
+  const sp = v.sp ? `<p class="sp"><span class="spd" lang="${L}">${esc(v.sp.d)}${spNo}</span><span class="spr">${esc(v.sp.r)}</span></p>` : '';
   return `<div class="step ${cls}" data-v="${dv}" tabindex="0"><span class="vn" aria-hidden="true">${esc(label)}</span><div>${sp}
-    <p class="dev" lang="${L}">${lines(v.d)}</p><p class="rom" lang="${L}-Latn">${lines(v.r)}</p>${v.m ? `<p class="mean">${esc(v.m)}</p>` : ''}</div></div>`;
+    <p class="dev" lang="${L}">${lines(v.d)}</p><p class="rom" lang="${L}-Latn">${lines(v.r)}</p>${v.m ? `<p class="mean">${esc(v.m)}</p>` : ''}${v.h ? `<p class="mean-hi" lang="hi">${esc(v.h)}</p>` : ''}</div></div>`;
 }
 function versesHTML(a, ch) {
   const L = a.lang, out = [];
@@ -344,7 +480,7 @@ function versesHTML(a, ch) {
 function labelWidth(a, ch) {
   const vs = ch ? chapterOf(a, ch).verses : a.verses;
   const m = Math.max(...vs.map((v, i) => (v.n || toDev(i + 1)).length));
-  return m > 3 ? '3.9em' : m > 2 ? '3.2em' : m > 1 ? '2.6em' : '2.2em';
+  return m > 6 ? '5.2em' : m > 4 ? '4.4em' : m > 3 ? '3.9em' : m > 2 ? '3.2em' : m > 1 ? '2.6em' : '2.2em';
 }
 function aboutHTML(a, c) {
   const d = DEITY[a.deity], b = AUTH[a.auth.c];
@@ -374,7 +510,7 @@ function renderReader(a, ch) {
   const d = DEITY[a.deity], c = ch ? chapterOf(a, ch) : null, fav = state.favs.has(a.id), inP = state.puja.includes(a.id);
   const nx = c ? null : nextInSeq(), rel = c ? [] : related(a);
   const tD = c ? c.d : a.title.d, tR = c ? `${a.title.r}, chapter ${ch}: ${c.r}` : a.title.r;
-  const kindLine = c ? `Chapter ${ch} of ${a.chapters.length}, <span lang="sa">${a.title.d}</span>`
+  const kindLine = c ? `Chapter ${ch} of ${a.chapters.length}${c.part ? `, verses ${c.part.from} to ${c.part.to}` : ''}, <span lang="sa">${a.title.d}</span>`
     : d.id === 'ishvar' ? `${esc(kindLabel(a))}, a universal prayer` : `${esc(kindLabel(a))} of ${esc(d.n)}, <span lang="hi">${d.d}</span>`;
   const seqLbl = state.seqPos >= 0 && !c ? `<small>Puja ${state.seqPos + 1} of ${state.puja.length}</small>` : '';
   const ready = c ? a.chapters.filter(x => x.verses) : [];
@@ -387,14 +523,20 @@ function renderReader(a, ch) {
         <button type="button" data-script="both" aria-pressed="${state.script === 'both'}" aria-label="Devanagari and Roman"><span class="dv" lang="hi">अ</span>+A</button>
         <button type="button" data-script="rom" aria-pressed="${state.script === 'rom'}" aria-label="Roman only">A</button>
       </div>
-      <button class="btn" type="button" data-act="meaning" aria-pressed="${state.meaning}">Meaning</button>
+      <div class="seg" role="group" aria-label="Meaning">
+        <span class="seg-l" aria-hidden="true">Meaning</span>
+        <button type="button" data-mean="en" aria-pressed="${state.meaning === 'en'}" aria-label="English meaning">EN</button>
+        <button type="button" data-mean="hi" aria-pressed="${state.meaning === 'hi'}" aria-label="Hindi meaning"><span class="dv" lang="hi">हिंदी</span></button>
+        <button type="button" data-mean="both" aria-pressed="${state.meaning === 'both'}" aria-label="English and Hindi meaning">EN+<span class="dv" lang="hi">हि</span></button>
+        <button type="button" data-mean="off" aria-pressed="${state.meaning === 'off'}" aria-label="Hide meanings">Off</button>
+      </div>
       ${a.refrain && !c ? `<button class="btn" type="button" data-act="refrain" aria-pressed="${state.refrainFull}" title="Show the whole refrain after every verse">Full refrain</button>` : ''}
       <div class="seg" role="group" aria-label="Text size"><button type="button" data-act="smaller" aria-label="Smaller text">A−</button><button type="button" data-act="bigger" aria-label="Larger text">A+</button></div>
-      <button class="btn bare" type="button" data-act="theme" aria-label="Switch light or dark">◐</button>
+      <button class="btn bare themeb" type="button" data-act="theme" aria-label="Switch light or dark">${THEME_ICON}</button>
       <button class="btn solid" type="button" data-act="puja">${state.pujaMode ? 'Leave puja mode' : 'Puja mode'}</button>
     </div>`;
   $('#reader').innerHTML = bar(`<span lang="${a.lang}">${esc(tD)}</span>${seqLbl}`, tools) + `
-  <article id="art" class="s-${state.script}${state.meaning ? '' : ' no-mean'}">
+  <article id="art" class="s-${state.script} m-${state.meaning}">
     <header class="a-head">
       <a class="ah-arch" href="#/deity/${d.id}" aria-label="${esc(d.label || d.n)}: all texts">${arch(d, 'clamp(70px,17vw,100px)')}</a>
       <p class="kind">${kindLine}</p>
@@ -408,6 +550,7 @@ function renderReader(a, ch) {
       </div>
     </header>
     ${c && c.intro ? `<p class="intro">${esc(c.intro)}</p>` : ''}
+    ${c && c.excerpt ? `<p class="intro excerpt"><strong>Part of this chapter.</strong> ${esc(c.excerpt)}</p>` : ''}
     <div class="verses" id="verses" style="--lw:${labelWidth(a, ch)}">${versesHTML(a, ch)}</div>
     ${nx ? `<div class="seqnext"><button class="btn solid" type="button" data-act="nextaarti">Next in my puja: <span lang="${nx.lang}">${esc(nx.title.d)}</span></button></div>` : ''}
     <div class="offer"><svg class="lotus" aria-hidden="true"><use href="#kamal"/></svg>
@@ -462,6 +605,7 @@ function route() {
   const [a, b, c, d] = p;
   if (a === 'deity' && DEITY[b]) return openView({ type: 'deity', id: b });
   if (a === 'credits') return openView({ type: 'credits' });
+  if (a === 'navratri' && NAV) { const n = Number(b); return openView({ type: 'navratri', n: n >= 1 && n <= 9 ? n : null }); }
   if (a === 'library' && KIND[b]) { state.filter = { kind: 'kind', value: b }; clearQuery(); state.pendingBrowse = true; return showHome(); }
   if (a === 'granth' && BY_ID[b]) {
     const n = Number(c);
@@ -482,7 +626,7 @@ function showHome() {
   document.body.classList.remove('reading');
   $('#reader').hidden = true; $('#reader').innerHTML = '';
   document.title = 'आरती संग्रह · Aarti Sangrah';
-  renderToday(); renderGallery(); renderBrowse();
+  renderToday(); navBanner(); renderGallery(); renderBrowse();
   if (state.pendingBrowse) { state.pendingBrowse = false; requestAnimationFrame(scrollToBrowse); }
   else if (was) requestAnimationFrame(() => window.scrollTo(0, state.homeScroll));
 }
@@ -499,6 +643,7 @@ function openView(v) {
   if (v.type === 'deity') { const d = DEITY[v.id]; renderDeityPage(d); document.title = `${d.d} · ${d.label || d.n}: aartis, mantras and bhajans | Aarti Sangrah`; }
   else if (v.type === 'granth') { const g = BY_ID[v.id]; renderGranthPage(g); document.title = `${g.title.d} · ${g.title.r} | Aarti Sangrah`; }
   else if (v.type === 'credits') { renderCredits(); document.title = 'Image credits | Aarti Sangrah'; }
+  else if (v.type === 'navratri') { renderNavratri(v.n); const cur = $('.nights.row [aria-current]'); if (cur) cur.parentNode.parentNode.scrollLeft = Math.max(0, cur.parentNode.offsetLeft - 40); const x = v.n ? NAV.days[v.n - 1] : null; document.title = x ? `Navratri night ${v.n}: ${x.gd} · Maa ${x.g} | Aarti Sangrah` : `${NAV.d} · Navratri: the nine nights, aartis and Durga Saptashati | Aarti Sangrah`; }
   else {
     const a = BY_ID[v.id];
     if (!v.ch && state.seqPos >= 0 && state.puja[state.seqPos] !== a.id) state.seqPos = state.puja.indexOf(a.id);
@@ -507,6 +652,7 @@ function openView(v) {
     document.title = c ? `${a.title.r} ${v.ch}: ${c.r}, with meaning | Aarti Sangrah` : `${a.title.d} · ${a.title.r}, with meaning | Aarti Sangrah`;
   }
   window.scrollTo(0, 0);
+  const rd = $('#reader'); rd.classList.remove('enter'); void rd.offsetWidth; rd.classList.add('enter');
   if (v.type !== 'text') return;
   if (v.verse != null && !Number.isNaN(v.verse)) {
     const i = $$('#verses .step').findIndex(s => s.dataset.v === String(v.verse));
@@ -561,9 +707,9 @@ function setPuja(on) {
 function syncReader() {
   const art = $('#art'); if (!art) return;
   art.classList.remove('s-dev', 's-rom', 's-both'); art.classList.add('s-' + state.script);
-  art.classList.toggle('no-mean', !state.meaning);
+  MEANINGS.forEach(m => art.classList.toggle('m-' + m, state.meaning === m));
   $$('#reader [data-script]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.script === state.script)));
-  const m = $('#reader [data-act="meaning"]'); if (m) m.setAttribute('aria-pressed', String(state.meaning));
+  $$('#reader [data-mean]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.mean === state.meaning)));
   const r = $('#reader [data-act="refrain"]'); if (r) r.setAttribute('aria-pressed', String(state.refrainFull));
 }
 function rerenderVerses() {
@@ -583,7 +729,13 @@ function act(name) {
   const v = state.view, a = v && BY_ID[v.id];
   switch (name) {
     case 'back': goBack(); break;
-    case 'meaning': state.meaning = !state.meaning; store.set('meaning', state.meaning); syncReader(); break;
+    case 'home': state.homeScroll = 0; break;
+    case 'navpuja': {
+      const pr = PRESETS.find(p => p.n === 'Navratri');
+      state.puja = pr.ids.slice(); savePuja(); state.seqPos = 0; state.startPuja = true;
+      toast('My puja is now the Navratri order');
+      location.hash = textHref(BY_ID[state.puja[0]]); break;
+    }
     case 'refrain': state.refrainFull = !state.refrainFull; store.set('refrainFull', state.refrainFull); rerenderVerses(); break;
     case 'smaller': applyScale(state.scale - 0.1); break;
     case 'bigger': applyScale(state.scale + 0.1); break;
@@ -610,6 +762,8 @@ function act(name) {
 $('#reader').addEventListener('click', e => {
   const s = e.target.closest('[data-script]');
   if (s) { state.script = s.dataset.script; store.set('script', state.script); syncReader(); return; }
+  const mb = e.target.closest('[data-mean]');
+  if (mb) { state.meaning = mb.dataset.mean; store.set('meaning', state.meaning); syncReader(); return; }
   const b = e.target.closest('[data-act]');
   if (b) { act(b.dataset.act); return; }
   const st = e.target.closest('.step');
@@ -708,6 +862,21 @@ document.addEventListener('click', e => {
   else { renderBrowse(); scrollToBrowse(); }
 });
 $('#themeBtn').addEventListener('click', toggleTheme);
+
+/* reading progress along the reader bar, and a way back to the top of long pages */
+let scrollRaf = 0;
+function onScroll() {
+  if (scrollRaf) return;
+  scrollRaf = requestAnimationFrame(() => {
+    scrollRaf = 0;
+    const y = window.scrollY, max = document.documentElement.scrollHeight - innerHeight;
+    const p = $('#prog'); if (p) p.style.transform = `scaleX(${max > 0 ? Math.min(1, y / max) : 0})`;
+    $('#toTop').classList.toggle('show', y > 900 && !state.pujaMode);
+    document.body.classList.toggle('scrolled', y > 8);
+  });
+}
+window.addEventListener('scroll', onScroll, { passive: true });
+$('#toTop').addEventListener('click', () => window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' }));
 
 /* ================= Start ================= */
 applyTheme(store.get('theme', null));

@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Vaishnav jan to tene kahiye je peed parai jaane re,
 ~ Par dukhe upkar kare to ye man abhiman na aane re.
 = Call that person a true devotee who feels the pain of others, who helps those in sorrow and never lets pride into the mind.
++ सच्चा वैष्णव उसी को कहना चाहिए जो दूसरों की पीड़ा को समझता है, दुःख में दूसरों की सहायता करता है और फिर भी मन में अभिमान नहीं लाता।
 
 ---
 सकळ लोकमां सहुने वंदे, निंदा न करे केनी रे।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Sakal lokman sahune vande, ninda na kare keni re,
 ~ Vach kachh man nishchal rakhe, dhan dhan janani teni re.
 = Such a person honours everyone in the world and speaks ill of no one, and keeps word, deed and mind steady. Blessed, blessed is the mother who bore them.
++ वह संसार में सबको आदर देता है और किसी की निन्दा नहीं करता; वाणी, कर्म और मन को स्थिर रखता है। ऐसे व्यक्ति की माता धन्य है।
 
 ---
 समदृष्टि ने तृष्णा त्यागी, परस्त्री जेने मात रे।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Samdrishti ne trushna tyagi, parstri jene maat re,
 ~ Jihva thaki asatya na bole, pardhan nav jhale haath re.
 = They see all with an equal eye and have given up craving; every other woman is a mother to them. Their tongue never tells a lie, and their hand never takes another’s wealth.
++ वह सबको समान दृष्टि से देखता है और तृष्णा छोड़ चुका है; पराई स्त्री उसके लिए माता समान है। उसकी जीभ कभी झूठ नहीं बोलती और उसका हाथ पराया धन नहीं छूता।
 
 ---
 मोह माया व्यापे नहि जेने, दृढ वैराग्य जेना मनमां रे।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Moh maya vyape nahi jene, dridh vairagya jena manman re,
 ~ Ramnaam shun tali lagi, sakal tirath tena tanman re.
 = Delusion and illusion cannot touch them; firm detachment fills their mind. They are absorbed in the name of Ram, and every place of pilgrimage lives within them.
++ मोह और माया उसे नहीं व्यापते, उसके मन में दृढ़ वैराग्य है। उसकी लगन राम-नाम में लगी है, और सारे तीर्थ उसके शरीर में बसते हैं।
 
 ---
 वणलोभी ने कपटरहित छे, काम क्रोध निवार्या रे।
@@ -45,3 +49,4 @@ refrain-first: yes
 ~ Vanlobhi ne kapatrahit chhe, kaam krodh nivarya re,
 ~ Bhane Narsaiyo tenun darsan kartan, kul ekoter tarya re.
 = They are free of greed and deceit, and have overcome lust and anger. Narsinh says: just seeing such a person saves seventy-one generations of one’s family.
++ वह लोभ और कपट से रहित है, उसने काम और क्रोध को जीत लिया है। नरसी कहते हैं, ऐसे व्यक्ति के दर्शन से इकहत्तर पीढ़ियाँ तर जाती हैं।

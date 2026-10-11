@@ -1,0 +1,20 @@
+id: sarva-mangala-mangalye
+kind: mantra
+form: Shloka
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: सर्वमङ्गलमङ्गल्ये | Sarva Mangala Mangalye | The Narayani verse
+author: From the Devi Mahatmya (Durga Saptashati), chapter 11 | known
+occasions: navratri, closing, daily
+when: The most recited verse of the Durga Saptashati, said at the end of Devi puja, at weddings and before any auspicious beginning. Many recite it 108 times in Navratri.
+notes: In Gita Press editions it is verse 10 of chapter 11, the Narayani Stuti, which the gods sing after Shumbh is slain.
+
+---
+सर्वमङ्गलमङ्गल्ये शिवे सर्वार्थसाधिके।
+शरण्ये त्र्यम्बके गौरि नारायणि नमोऽस्तु ते॥
+~ Sarvamangalamangalye Shive sarvarthasadhike,
+~ Sharanye Tryambake Gauri Narayani namo’stu te.
+= Most auspicious of all that is auspicious, gracious one who fulfils every aim, giver of refuge, three-eyed Gauri: Narayani, I bow to you.
++ हे सभी मंगलों में सबसे मंगलमयी, कल्याण करने वाली शिवा, सब कामनाएँ पूरी करने वाली, शरण देने वाली, तीन नेत्रों वाली गौरी, हे नारायणी, आपको नमस्कार है।

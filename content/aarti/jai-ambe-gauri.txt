@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Jai Ambe Gauri, Maiya jai Shyama Gauri,
 ~ Tumko nishdin dhyavat, Hari Brahma Shivri.
 = Glory to Mother Ambe, to Gauri, to Shyama! Vishnu, Brahma and Shiv meditate on you day and night.
++ हे अम्बे गौरी, हे श्यामा गौरी, आपकी जय हो! विष्णु, ब्रह्मा और शिव दिन-रात आपका ध्यान करते हैं।
 
 ---
 माँग सिन्दूर विराजत, टीको मृगमद को।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Maang sindoor virajat, teeko mrigmad ko,
 ~ Ujjwal se dou naina, chandravadan neeko.
 = Vermilion graces the parting of your hair, with a tilak of musk; your eyes are bright and your face is lovely as the moon.
++ आपकी माँग में सिन्दूर और माथे पर कस्तूरी का टीका शोभा पा रहा है; आपके दोनों नेत्र उज्ज्वल हैं और मुख चन्द्रमा जैसा सुन्दर है।
 
 ---
 कनक समान कलेवर, रक्ताम्बर राजै।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Kanak samaan kalevar, raktambar raajai,
 ~ Raktapushp gal mala, kanthan par saajai.
 = Your form shines like gold, dressed in red, and a garland of red flowers adorns your neck.
++ आपका शरीर सोने जैसा चमकता है और आप लाल वस्त्र धारण करती हैं; गले में लाल फूलों की माला शोभा देती है।
 
 ---
 केहरि वाहन राजत, खड्ग खप्पर धारी।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Kehari vahan raajat, khadg khappar dhari,
 ~ Sur nar muni jan sevat, tinke dukhhari.
 = You ride the lion, holding sword and skull-bowl. Gods, humans and sages serve you, and you take away their sorrows.
++ आप सिंह की सवारी करती हैं और खड्ग तथा खप्पर धारण करती हैं। देवता, मनुष्य और मुनि आपकी सेवा करते हैं और आप उनके दुःख हरती हैं।
 
 ---
 कानन कुण्डल शोभित, नासाग्रे मोती।
@@ -45,6 +49,7 @@ refrain-first: yes
 ~ Kaanan kundal shobhit, nasagre moti,
 ~ Kotik chandra divakar, sam raajat jyoti.
 = Earrings shine in your ears and a pearl at your nose; your radiance equals millions of moons and suns.
++ कानों में कुण्डल और नाक में मोती शोभा पाते हैं; आपकी ज्योति करोड़ों चन्द्रमा और सूर्य के समान है।
 
 ---
 शुम्भ निशुम्भ बिदारे, महिषासुर घाती।
@@ -52,6 +57,7 @@ refrain-first: yes
 ~ Shumbh Nishumbh bidaare, Mahishasur ghaati,
 ~ Dhoomra vilochan naina, nishdin madmaati.
 = You tore apart Shumbh and Nishumbh and slew Mahishasur; you struck down Dhumralochan, your eyes ablaze with divine fervour day and night.
++ आपने शुम्भ-निशुम्भ को चीर डाला और महिषासुर का वध किया; धूम्रलोचन को मारा, आपके नेत्र दिन-रात दिव्य मद से भरे रहते हैं।
 
 ---
 चण्ड मुण्ड संहारे, शोणित बीज हरे।
@@ -59,6 +65,7 @@ refrain-first: yes
 ~ Chand Mund sanhaare, shonit beej hare,
 ~ Madhu Kaitabh dou maare, sur bhayheen kare.
 = You destroyed Chand and Mund and vanquished Raktabeej; you slew Madhu and Kaitabh and freed the gods from fear.
++ आपने चण्ड-मुण्ड का संहार किया और रक्तबीज को मारा; मधु और कैटभ दोनों को मारकर देवताओं को भयमुक्त किया।
 
 ---
 ब्रह्माणी रुद्राणी, तुम कमला रानी।
@@ -66,6 +73,7 @@ refrain-first: yes
 ~ Brahmani Rudrani, tum Kamla Rani,
 ~ Aagam nigam bakhani, tum Shiv patrani.
 = You are Brahmani and Rudrani, and Queen Kamala; the scriptures sing your praise, chief queen of Shiv.
++ आप ही ब्रह्माणी, रुद्राणी और कमला रानी हैं; वेद और शास्त्र आपका बखान करते हैं, आप शिवजी की पटरानी हैं।
 
 ---
 चौंसठ योगिनी मंगल गावत, नृत्य करत भैरों।
@@ -73,6 +81,7 @@ refrain-first: yes
 ~ Chaunsath yogini mangal gaavat, nritya karat Bhairon,
 ~ Baajat taal mridanga, aru baajat damru.
 = The sixty-four yoginis sing auspicious songs and Bhairav dances; cymbals and drums resound, and the damru too.
++ चौंसठ योगिनियाँ मंगल गीत गाती हैं और भैरव नृत्य करते हैं; ताल, मृदंग और डमरू बजते हैं।
 
 ---
 तुम ही जग की माता, तुम ही हो भरता।
@@ -80,6 +89,7 @@ refrain-first: yes
 ~ Tum hi jag ki mata, tum hi ho bharta,
 ~ Bhaktan ki dukh harta, sukh sampati karta.
 = You alone are the mother of the world and its sustainer; you remove your devotees’ sorrows and bring them happiness and plenty.
++ आप ही जगत की माता और पालनहार हैं; आप भक्तों के दुःख हरती हैं और उन्हें सुख-सम्पत्ति देती हैं।
 
 ---
 भुजा चार अति शोभित, वरमुद्रा धारी।
@@ -87,6 +97,7 @@ refrain-first: yes
 ~ Bhuja chaar ati shobhit, varmudra dhari,
 ~ Manvanchhit phal paavat, sevat nar nari.
 = Your four arms are radiant, one raised in blessing; the men and women who serve you receive what their hearts desire.
++ आपकी चारों भुजाएँ अत्यन्त सुन्दर हैं और एक हाथ वरमुद्रा में है; जो नर-नारी आपकी सेवा करते हैं, वे मनचाहा फल पाते हैं।
 
 ---
 कंचन थाल विराजत, अगर कपूर बाती।
@@ -94,6 +105,7 @@ refrain-first: yes
 ~ Kanchan thaal virajat, agar kapoor baati,
 ~ Shrimalketu mein raajat, koti ratan jyoti.
 = A golden plate is set with aloe-wood, camphor and wicks, and the flames shine like countless jewels.
++ सोने की थाली में अगर, कपूर और बाती सजी है, और उसकी लौ करोड़ों रत्नों जैसी चमकती है।
 
 ---
 श्री अम्बेजी की आरती, जो कोई नर गावे।
@@ -101,3 +113,4 @@ refrain-first: yes
 ~ Shri Ambeji ki aarti, jo koi nar gaave,
 ~ Kahat Shivanand Swami, sukh sampatti paave.
 = Whoever sings this aarti of Mother Ambe, says Swami Shivanand, gains happiness and prosperity.
++ स्वामी शिवानन्द कहते हैं, जो कोई श्री अम्बे जी की यह आरती गाता है, वह सुख और सम्पत्ति पाता है।

@@ -25,6 +25,7 @@ refrain-first: yes
 ॐ जय जगदीश हरे, स्वामी जय जगदीश हरे।
 ~ Om jai Jagdish hare, Swami jai Jagdish hare,
 = Om, glory to you, Hari, Lord of the universe!
++ हे जगत के स्वामी हरि, आपकी जय हो!
 
 ---
 जो ध्यावे फल पावे, दुःख बिनसे मन का।
@@ -33,7 +34,8 @@ refrain-first: yes
 ```
 
 - `---` starts a block. `--- refrain` marks the refrain; any other word after `---` (such as `--- दोहा`) becomes the block’s label. Blocks with no label are numbered automatically.
-- Lines with no prefix are Devanagari. Lines starting `~ ` are the Roman version, one per Devanagari line. A line starting `= ` is the English meaning.
+- Lines with no prefix are Devanagari. Lines starting `~ ` are the Roman version, one per Devanagari line. A line starting `= ` is the English meaning, and a line starting `+ ` is the Hindi meaning. Readers choose English, Hindi, both or neither.
+- A line starting `> ` names a speaker or a heading for the block, as in `> शैलपुत्री | Shailputri, the first night`.
 - `author` ends with `known` (historically documented), `attributed` (credited, usually by a signature line) or `traditional` (author unknown).
 - `deity` and `occasions` must exist in `content/core.json`. Add new ones there.
 - Optional headers: `form` (a display label such as Stuti or Ashtakam) and `dialect`.
@@ -47,6 +49,14 @@ chapter: 12 | भक्तियोग | Bhakti Yog | The yoga of devotion | 20
 ```
 
 Each chapter file (`12.txt`) starts with `chapter: 12` and an optional `intro:` line, followed by its verses. Verses are numbered १२.१, १२.२ and so on. A line starting `> ` names the speaker, as in `> अर्जुन उवाच | Arjun said`. The build checks that the number of verses matches the index.
+
+A chapter line in `index.txt` can end with a sixth field, a short summary of the chapter, which the chapter list shows whether or not the verses have been entered yet.
+
+Some granths need a little more:
+
+- `numbering: print` in `index.txt` gives each speaker line a number of its own, as the Gita Press Durga Saptashati does with ऋषिरुवाच.
+- `--- span 3` makes one block cover three verse numbers, for a verse printed once but counted three times (the या देवी verses).
+- A chapter file can hold only part of a chapter, with `from: 8`, `to: 82` and an `excerpt:` line saying what it holds. The reader marks it as part of the chapter.
 
 ## Paintings
 

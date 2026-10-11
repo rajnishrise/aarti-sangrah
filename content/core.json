@@ -736,6 +736,7 @@
    "n": "Navratri",
    "ids": [
     "jai-ganesh-deva",
+    "durga-chalisa",
     "jai-ambe-gauri",
     "karpur-gauram"
    ]
@@ -757,5 +758,327 @@
     "shri-ramchandra-kripalu"
    ]
   }
- ]
+ ],
+ "navratri": {
+  "occ": "navratri",
+  "d": "शारदीय नवरात्रि",
+  "n": "Sharad Navratri",
+  "tag": "Nine nights of the Goddess",
+  "about": [
+   "Navratri means “nine nights”. Sharad Navratri, the autumn one, begins on the first day of the bright half of Ashvin and is the greatest of the four Navratris in the year; Chaitra Navratri in spring ends on Ram Navami, and the two Gupta Navratris of Magh and Ashadh are kept quietly by those who know them.",
+   "For nine nights the Goddess is worshipped in nine forms, the Navdurga, one each night, from Shailputri, daughter of the mountain, to Siddhidatri, giver of perfection. The Durga Saptashati tells why: the gods, helpless before Mahishasur and later Shumbh and Nishumbh, poured their power into one Goddess, and she fought and won. The tenth day, Vijayadashami or Dussehra, celebrates her victory and Ram’s victory over Ravan, whom he fought after worshipping the Goddess."
+  ],
+  "customs": [
+   {
+    "n": "Ghatasthapana",
+    "d": "घटस्थापना",
+    "t": "On the first morning a kalash of water, crowned with mango leaves and a coconut, is set up as the seat of the Goddess, often beside a bed of soil sown with barley (jau or jawara) that sprouts through the nine days. Many homes keep an akhand jyoti, a lamp that is not allowed to go out until Navami."
+   },
+   {
+    "n": "Path and aarti",
+    "d": "पाठ और आरती",
+    "t": "Morning and evening, families sing the Durga aarti and recite the Durga Chalisa, and those who can read the Durga Saptashati, either whole each day or divided across the nine days."
+   },
+   {
+    "n": "Vrat",
+    "d": "व्रत",
+    "t": "Many fast through the nine days or on the first and last, eating fruit, milk, and dishes of kuttu, singhara, sabudana and samak rice, without grain, onion or garlic. Others fast only on Ashtami."
+   },
+   {
+    "n": "Kanya pujan",
+    "d": "कन्या पूजन",
+    "t": "On Ashtami or Navami, nine young girls, seen as forms of the Goddess, and often one boy as Langur (Bhairav), are invited home, their feet washed, and they are fed halwa, puri and black chana and given gifts."
+   },
+   {
+    "n": "Across India",
+    "d": "देश भर में",
+    "t": "Bengal celebrates Durga Puja from Shashthi to Dashami in pandals, with Sandhi Puja at the meeting of Ashtami and Navami. Gujarat dances garba and dandiya every night. Tamil Nadu, Karnataka and Andhra set out golu, steps of dolls. Kerala and the South keep Saraswati and Ayudha Puja on Navami, and children begin their learning on Vijayadashami. Mysuru and Kullu hold their famous Dasara processions."
+   }
+  ],
+  "days": [
+   {
+    "n": 1,
+    "tithi": "Pratipada",
+    "td": "प्रतिपदा",
+    "g": "Shailputri",
+    "gd": "शैलपुत्री",
+    "means": "Daughter of the mountain",
+    "about": "Sati, born again as the daughter of Himavan, king of the mountains, after giving up her life at her father Daksh’s sacrifice. As Parvati she would once more become Shiv’s wife. She is worshipped on the first day, together with the kalash.",
+    "look": "Rides the bull Nandi, holds a trident in her right hand and a lotus in her left, with a crescent moon on her brow.",
+    "offer": "Pure ghee is commonly offered on the first day.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 1,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "Recited every day of Navratri"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     },
+     {
+      "id": "ya-devi-sarvabhuteshu",
+      "why": "To begin the nine nights"
+     }
+    ]
+   },
+   {
+    "n": 2,
+    "tithi": "Dwitiya",
+    "td": "द्वितीया",
+    "g": "Brahmacharini",
+    "gd": "ब्रह्मचारिणी",
+    "means": "She who practises austerity",
+    "about": "Parvati as the young ascetic who undertook years of fierce tapas, living on leaves and then on nothing at all, to win Shiv as her husband. She stands for steadfastness and devotion that does not give up.",
+    "look": "Walks barefoot in white, holding a japa mala in her right hand and a kamandalu, a water-pot, in her left.",
+    "offer": "Sugar is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 2,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "bhavani-ashtakam",
+      "why": "A prayer of complete surrender"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The daily chalisa"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 3,
+    "tithi": "Tritiya",
+    "td": "तृतीया",
+    "g": "Chandraghanta",
+    "gd": "चन्द्रघण्टा",
+    "means": "She who wears a bell-shaped moon",
+    "about": "Parvati as Shiv’s bride, a half-moon shaped like a bell on her forehead. The sound of her bell drives away demons and fear, and brings her devotees courage and peace.",
+    "look": "Golden in colour, with ten arms bearing weapons, riding a lion, ready for battle yet calm.",
+    "offer": "Milk, or kheer made with milk, is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 3,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-saptashati",
+      "ch": 4,
+      "at": "४.२४",
+      "why": "The Shakradi Stuti, where the gods ask her bell to protect them"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The daily chalisa"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 4,
+    "tithi": "Chaturthi",
+    "td": "चतुर्थी",
+    "g": "Kushmanda",
+    "gd": "कूष्माण्डा",
+    "means": "She whose warmth holds the cosmic egg",
+    "about": "When there was only darkness, she created the universe with a gentle smile. She lives in the core of the sun and gives it its light and energy.",
+    "look": "Eight-armed (Ashtabhuja), holding a kamandalu, bow, arrow, lotus, a pot of nectar, discus, mace and japa mala, riding a lion.",
+    "offer": "Malpua is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 4,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-saptashati",
+      "ch": 5,
+      "why": "Ya Devi Sarvabhuteshu: the Goddess present in every being"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The daily chalisa"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 5,
+    "tithi": "Panchami",
+    "td": "पञ्चमी",
+    "g": "Skandamata",
+    "gd": "स्कन्दमाता",
+    "means": "Mother of Skanda",
+    "about": "The mother of Skanda, also called Kartikeya, the commander of the gods’ army. Worshipping her, it is said, brings the grace of her son too.",
+    "look": "Seated on a lotus, which is why she is also called Padmasana, with the child Skanda on her lap; four-armed, holding lotuses, and riding a lion.",
+    "offer": "Bananas are commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 5,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "jai-jai-giribarraj-kishori",
+      "why": "Sita’s prayer to the mother of Ganesh and six-faced Skanda"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The daily chalisa"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 6,
+    "tithi": "Shashthi",
+    "td": "षष्ठी",
+    "g": "Katyayani",
+    "gd": "कात्यायनी",
+    "means": "Daughter of the sage Katyayan",
+    "about": "Born in the hermitage of the sage Katyayan, she is the warrior form who slew Mahishasur. The gopis of Braj worshipped her for a month to win Krishna as their beloved. In Bengal, Durga Puja begins on this day.",
+    "look": "Four-armed, holding a sword and a lotus, the other hands raised in blessing and reassurance, riding a lion.",
+    "offer": "Honey is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 6,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-saptashati",
+      "ch": 11,
+      "why": "The gods praise Katyayani as Narayani"
+     },
+     {
+      "id": "sarva-mangala-mangalye",
+      "why": "The best-known verse of the Narayani Stuti"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 7,
+    "tithi": "Saptami",
+    "td": "सप्तमी",
+    "g": "Kalaratri",
+    "gd": "कालरात्रि",
+    "means": "The dark night of time",
+    "about": "The fiercest of the nine, the night that swallows all darkness. She destroyed Raktabeej and every evil force. Though terrifying to see, she always brings good to her devotees, so she is also called Shubhankari.",
+    "look": "Dark as night, hair loose, a necklace flashing like lightning, three eyes and fire on her breath; four-armed with a sword and an iron hook, riding a donkey.",
+    "offer": "Jaggery is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 7,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The chalisa, which sings of her terrible Kalika form"
+     },
+     {
+      "id": "durge-durghat-bhari",
+      "why": "An aarti to the slayer of Mahishasur"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 8,
+    "tithi": "Ashtami",
+    "td": "अष्टमी",
+    "g": "Mahagauri",
+    "gd": "महागौरी",
+    "means": "The radiantly fair one",
+    "about": "After Parvati’s long austerities her body had grown dark with dust; Shiv washed her with the waters of the Ganga and she shone white as jasmine and the moon. Durga Ashtami, with kanya pujan and havan in many homes, falls on this day.",
+    "look": "Dressed all in white, riding a white bull, four-armed, with a trident and a damru.",
+    "offer": "Coconut is commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 8,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "jai-jai-giribarraj-kishori",
+      "why": "Sita’s prayer to Gauri"
+     },
+     {
+      "id": "sarva-mangala-mangalye",
+      "why": "Said at kanya pujan and the havan"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     }
+    ]
+   },
+   {
+    "n": 9,
+    "tithi": "Navami",
+    "td": "नवमी",
+    "g": "Siddhidatri",
+    "gd": "सिद्धिदात्री",
+    "means": "Giver of perfection",
+    "about": "She grants every siddhi, every spiritual power and attainment. By her grace, it is said, half of Shiv’s body became the Goddess, and he became Ardhanarishvar. On Navami Navratri closes with kanya pujan, havan and, in the South, Ayudha and Saraswati Puja.",
+    "look": "Seated on a lotus, four-armed with a discus, conch, mace and lotus, attended by siddhas, gandharvas and gods.",
+    "offer": "Sesame seeds, or halwa, puri and chana for the girls of kanya pujan, are commonly offered.",
+    "read": [
+     {
+      "id": "navdurga-dhyan",
+      "v": 9,
+      "why": "Her meditation verse"
+     },
+     {
+      "id": "durga-saptashati",
+      "ch": 11,
+      "why": "The Narayani Stuti, to close the path"
+     },
+     {
+      "id": "durga-chalisa",
+      "why": "The daily chalisa"
+     },
+     {
+      "id": "jai-ambe-gauri",
+      "why": "The evening aarti"
+     },
+     {
+      "id": "karpur-gauram",
+      "why": "To close the aarti"
+     }
+    ]
+   }
+  ],
+  "after": {
+   "occ": "dussehra",
+   "t": "Vijayadashami: the Goddess’s victory over Mahishasur and Ram’s over Ravan. The kalash is moved, the sprouted barley is shared as a blessing, and in Bengal the images are taken for visarjan."
+  }
+ }
 }

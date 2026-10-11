@@ -1,0 +1,56 @@
+id: durge-durghat-bhari
+kind: aarti
+deity: durga
+lang: mr
+language: Marathi
+region: Maharashtra
+title: दुर्गे दुर्घट भारी | Durge Durghat Bhari | Marathi aarti of Maa Durga
+author: Usually credited to Samarth Ramdas, 17th century, though the last verse names “नरहरि” | attributed
+occasions: navratri, dussehra, daily
+when: The Durga aarti of Maharashtrian homes, sung every evening of Navratri and at the ghat (kalash) worship, usually after Sukhkarta Dukhharta.
+notes: The refrain follows each verse. Its second line is printed both as “सुरवर ईश्वर वरदे” and “सुरवर ईश्वरवरदे”. Which poet wrote it is debated: many aarti books credit Samarth Ramdas, others read “नरहरि” in the last line as the poet’s own name.
+refrain-first: no
+
+--- refrain
+जय देवी जय देवी महिषासुरमथनी।
+सुरवर ईश्वर वरदे तारक संजीवनी॥
+~ Jai Devi jai Devi Mahishasuramathani,
+~ Survar Ishwar varade tarak sanjivani.
+= Glory, Goddess, glory to you who crushed Mahishasur! You grant boons to the great gods and to Shiv; you carry us across and give us new life.
++ हे देवी, आपकी जय हो, महिषासुर का मर्दन करने वाली देवी, आपकी जय हो! आप श्रेष्ठ देवताओं और शिव को भी वर देती हैं, संसार से तारने वाली और जीवन देने वाली हैं।
+
+---
+दुर्गे दुर्घट भारी तुजविण संसारी।
+अनाथनाथे अंबे करुणा विस्तारी।
+वारी वारी जन्ममरणांते वारी।
+हारी पडलो आता संकट निवारी॥
+~ Durge durghat bhari tujvin sansari,
+~ Anathnathe Ambe karuna vistari.
+~ Vari vari janmamarananté vari,
+~ Hari padlo aata sankat nivari.
+= Durga, without you this worldly life is too hard to bear. Mother Ambe, protector of the helpless, spread your compassion over me. Turn away, turn away the round of birth and death. I am beaten now: take this trouble from me.
++ हे दुर्गा, आपके बिना यह संसार बहुत कठिन है। हे अनाथों की नाथ अम्बे, अपनी करुणा फैलाइए। मेरे जन्म-मरण के चक्र को दूर कीजिए, दूर कीजिए। मैं अब हार गया हूँ, मेरा संकट दूर कीजिए।
+
+---
+त्रिभुवनभुवनी पाहता तुजऐसी नाही।
+चारी श्रमले परंतु न बोलवे काही।
+साही विवाद करिता पडिले प्रवाही।
+ते तू भक्तालागी पावसी लवलाही॥
+~ Tribhuvanbhuvani pahata tujaisi nahi,
+~ Chari shramale parantu na bolave kahi.
+~ Sahi vivad karita padile pravahi,
+~ Te tu bhaktalagi pavasi lavlahi.
+= Search all three worlds and there is none like you. The four Vedas tired themselves out and still could not describe you; the six schools of philosophy argued and were swept away. Yet you, Mother, come at once to your devotees.
++ तीनों लोकों में देखने पर भी आप जैसी कोई नहीं है। चारों वेद थक गए पर आपका वर्णन नहीं कर सके; छहों दर्शन विवाद करते-करते बह गए। फिर भी आप भक्तों के लिए तुरन्त प्रकट हो जाती हैं।
+
+---
+प्रसन्नवदने प्रसन्न होसी निजदासा।
+क्लेशापासुनि सोडवी तोडी भवपाशा।
+अंबे तुजवाचून कोण पुरविल आशा।
+नरहरि तल्लिन झाला पदपंकजलेशा॥
+~ Prasannavadane prasanna hosi nijadasa,
+~ Kleshapasuni sodavi todi bhavapasha.
+~ Ambe tujvachun kon puravil aasha,
+~ Narhari tallin jhala padpankajlesha.
+= Goddess of the smiling face, you are pleased with your own servant: free him from suffering and cut the noose of worldly life. Mother Ambe, who but you will fulfil my hopes? Narahari is lost in devotion to the dust of your lotus feet.
++ हे प्रसन्न मुख वाली देवी, आप अपने दास पर प्रसन्न होती हैं; उसे कष्टों से छुड़ाइए और संसार के बन्धन तोड़ दीजिए। हे अम्बे, आपके बिना मेरी आशा कौन पूरी करेगा? नरहरि आपके चरण-कमलों की धूल में लीन हो गया है।

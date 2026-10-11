@@ -18,6 +18,7 @@ refrain-first: yes
 ~ Aarti keejai Hanuman Lala ki,
 ~ Dusht dalan Raghunath kala ki.
 = Offer the aarti to beloved Hanuman, crusher of the wicked, a living ray of Raghunath’s power.
++ प्यारे हनुमान की आरती कीजिए, जो दुष्टों का दलन करते हैं और श्री रघुनाथ की शक्ति के अंश हैं।
 
 ---
 जाके बल से गिरिवर काँपे।
@@ -25,6 +26,7 @@ refrain-first: yes
 ~ Jake bal se girivar kaanpe,
 ~ Rog dosh jake nikat na jhaanke.
 = At his strength even great mountains tremble; disease and misfortune dare not come near him.
++ जिनके बल से बड़े-बड़े पर्वत काँप उठते हैं; रोग और दोष उनके पास भी नहीं फटकते।
 
 ---
 अंजनि पुत्र महा बलदायी।
@@ -32,6 +34,7 @@ refrain-first: yes
 ~ Anjani putra maha baldayi,
 ~ Santan ke prabhu sada sahai.
 = Son of Anjani, giver of great strength, the lord who always helps the good.
++ अंजनी के पुत्र, महान बल देने वाले, संतों के स्वामी और सदा सहायता करने वाले।
 
 ---
 दे बीरा रघुनाथ पठाए।
@@ -39,6 +42,7 @@ refrain-first: yes
 ~ De beera Raghunath pathaye,
 ~ Lanka jaari Siya sudhi laye.
 = Raghunath handed him the betel-leaf token and sent him forth; he burned Lanka and brought back news of Sita.
++ श्री रघुनाथ ने उन्हें बीड़ा देकर भेजा; उन्होंने लंका जलाकर सीताजी का समाचार लाया।
 
 ---
 लंका सो कोट समुद्र सी खाई।
@@ -46,6 +50,7 @@ refrain-first: yes
 ~ Lanka so kot samudra si khai,
 ~ Jaat Pavansut baar na lai.
 = Lanka was a fortress with the ocean for a moat, yet the son of the Wind crossed it without a moment’s delay.
++ लंका जैसा किला और समुद्र जैसी खाई थी, फिर भी पवनपुत्र को उसे पार करने में देर नहीं लगी।
 
 ---
 लंका जारि असुर संहारे।
@@ -53,6 +58,7 @@ refrain-first: yes
 ~ Lanka jaari asur sanhaare,
 ~ Siyaramji ke kaaj sanvaare.
 = He set Lanka ablaze, destroyed the demons and accomplished the work of Sita and Ram.
++ उन्होंने लंका जलाकर असुरों का संहार किया और सीता-राम जी के काम सँवारे।
 
 ---
 लक्ष्मण मूर्छित पड़े सकारे।
@@ -60,6 +66,7 @@ refrain-first: yes
 ~ Lakshman moorchhit pade sakare,
 ~ Aani sanjivan praan ubaare.
 = When Lakshman lay unconscious, he brought the life-giving herb by dawn and saved his life.
++ जब लक्ष्मण मूर्छित पड़े थे, तब वे सवेरा होने से पहले संजीवनी लाए और उनके प्राण बचाए।
 
 ---
 पैठि पाताल तोरि जम कारे।
@@ -67,6 +74,7 @@ refrain-first: yes
 ~ Paithi patal tori jam kaare,
 ~ Ahiravan ki bhuja ukhaare.
 = He entered the netherworld, broke through its deadly defences and tore off Ahiravan’s arms.
++ उन्होंने पाताल में घुसकर यमराज जैसे पहरेदारों को तोड़ा और अहिरावण की भुजाएँ उखाड़ दीं।
 
 ---
 बाएँ भुजा असुर दल मारे।
@@ -74,6 +82,7 @@ refrain-first: yes
 ~ Baayen bhuja asur dal maare,
 ~ Dahine bhuja santjan taare.
 = With his left arm he struck down the demon armies; with his right he rescued the good.
++ बाईं भुजा से उन्होंने असुरों के दल मारे और दाईं भुजा से संतजनों को तारा।
 
 ---
 सुर नर मुनि आरती उतारें।
@@ -81,6 +90,7 @@ refrain-first: yes
 ~ Sur nar muni aarti utaaren,
 ~ Jai jai jai Hanuman uchaaren.
 = Gods, humans and sages wave the aarti to him, calling out “Victory, victory, victory to Hanuman!”
++ देवता, मनुष्य और मुनि उनकी आरती उतारते हैं और “जय जय जय हनुमान” बोलते हैं।
 
 ---
 कंचन थार कपूर लौ छाई।
@@ -88,6 +98,7 @@ refrain-first: yes
 ~ Kanchan thaar kapoor lau chhai,
 ~ Aarti karat Anjana maai.
 = With the camphor flame glowing on a golden plate, Mother Anjana herself performs his aarti.
++ सोने की थाली में कपूर की लौ जल रही है और माता अंजना स्वयं उनकी आरती कर रही हैं।
 
 ---
 जो हनुमानजी की आरती गावे।
@@ -95,3 +106,4 @@ refrain-first: yes
 ~ Jo Hanumanji ki aarti gaave,
 ~ Basi Baikunth parampad paave.
 = Whoever sings Hanuman’s aarti dwells in Vaikunth and attains the highest state.
++ जो हनुमानजी की आरती गाता है, वह बैकुण्ठ में निवास करके परमपद पाता है।

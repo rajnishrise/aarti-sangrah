@@ -8,6 +8,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Urdhvamoolamadhahshakhamashvattham prahuravyayam,
 ~ Chhandamsi yasya parnani yastam veda sa vedavit.
 = They speak of an eternal ashvattha tree with its roots above and its branches below, whose leaves are the Vedic hymns. Whoever knows this tree knows the Vedas.
++ ज्ञानी लोग एक अविनाशी अश्वत्थ (पीपल) वृक्ष की बात करते हैं, जिसकी जड़ें ऊपर और शाखाएँ नीचे हैं, और वेद के छन्द जिसके पत्ते हैं। जो इस वृक्ष को जानता है, वही वेदों को जानने वाला है।
 
 ---
 अधश्चोर्ध्वं प्रसृतास्तस्य शाखा गुणप्रवृद्धा विषयप्रवालाः।
@@ -15,6 +16,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Adhashchordhvam prasritastasya shakha gunapravriddha vishayapravalah,
 ~ Adhashcha moolanyanusantatani karmanubandhini manushyaloke.
 = Its branches spread below and above, fed by the gunas, with the objects of the senses as their buds. Below, in the human world, its roots spread out, binding beings to action.
++ इसकी शाखाएँ नीचे और ऊपर फैली हैं, जो गुणों से बढ़ी हैं और विषय जिनकी कोंपलें हैं। नीचे मनुष्यलोक में इसकी जड़ें फैली हुई हैं, जो कर्मों से बाँधती हैं।
 
 ---
 न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा।
@@ -22,6 +24,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Na roopamasyeha tathopalabhyate nanto na chadirna cha sampratishtha,
 ~ Ashvatthamenam suviroodhamoolamasangashastrena dridhena chhittva.
 = Its real form cannot be seen here, nor its end, nor its beginning, nor what it stands on. Cutting down this deep-rooted tree with the strong axe of detachment,
++ इस संसार में इसका वास्तविक रूप दिखाई नहीं देता, न इसका अन्त, न आदि, न आधार। इस गहरी जड़ों वाले अश्वत्थ वृक्ष को वैराग्य रूपी दृढ़ शस्त्र से काटकर,
 
 ---
 ततः पदं तत्परिमार्गितव्यं यस्मिन्गता न निवर्तन्ति भूयः।
@@ -29,6 +32,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Tatah padam tatparimargitavyam yasmingata na nivartanti bhuyah,
 ~ Tameva chadyam purusham prapadye yatah pravrittih prasrita purani.
 = one should seek that state from which there is no return, saying: “I take refuge in that first Person from whom this ancient stream of creation flows.”
++ उस परम पद को खोजना चाहिए जहाँ पहुँचकर फिर कोई लौटता नहीं, और यह भाव रखना चाहिए: “मैं उस आदि पुरुष की शरण लेता हूँ, जिससे यह पुरातन सृष्टि का प्रवाह फैला है।”
 
 ---
 निर्मानमोहा जितसङ्गदोषा अध्यात्मनित्या विनिवृत्तकामाः।
@@ -36,6 +40,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Nirmanamoha jitasangadosha adhyatmanitya vinivrittakamah,
 ~ Dvandvairvimuktah sukhaduhkhasanjnairgachchhantyamoodhah padamavyayam tat.
 = Free from pride and delusion, having conquered attachment, always dwelling on the Self, with desires stilled and released from the opposites called pleasure and pain, the wise reach that eternal state.
++ जो मान और मोह से रहित हैं, जिन्होंने आसक्ति के दोष को जीत लिया है, जो सदा अध्यात्म में लगे रहते हैं, जिनकी कामनाएँ शान्त हो गई हैं और जो सुख-दुःख नामक द्वन्द्वों से मुक्त हैं, वे ज्ञानी उस अविनाशी पद को प्राप्त होते हैं।
 
 ---
 न तद्भासयते सूर्यो न शशाङ्को न पावकः।
@@ -43,6 +48,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Na tadbhasayate suryo na shashanko na pavakah,
 ~ Yadgatva na nivartante taddhama paramam mama.
 = No sun, moon or fire lights that place. Those who reach it never return: that is my supreme home.
++ उस स्थान को न सूर्य प्रकाशित करता है, न चन्द्रमा, न अग्नि। जहाँ पहुँचकर कोई लौटता नहीं, वही मेरा परम धाम है।
 
 ---
 ममैवांशो जीवलोके जीवभूतः सनातनः।
@@ -50,6 +56,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Mamaivamsho jivaloke jivabhootah sanatanah,
 ~ Manahshashthanindriyani prakritisthani karshati.
 = An eternal part of me becomes the living soul in the world of beings, and draws to itself the five senses and the mind, which belong to nature.
++ इस जीवलोक में जीवात्मा मेरा ही सनातन अंश है, और वह प्रकृति में स्थित पाँच इन्द्रियों और छठे मन को अपनी ओर खींचता है।
 
 ---
 शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः।
@@ -57,6 +64,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Shariram yadavapnoti yachchapyutkramatishvarah,
 ~ Grihitvaitani samyati vayurgandhanivashayat.
 = When the soul, the master of the body, takes up a body or leaves it, it carries these along, as the wind carries scents from flowers.
++ जब शरीर का स्वामी जीवात्मा कोई शरीर पाता है या उसे छोड़ता है, तब वह इन्हें साथ लेकर वैसे ही चला जाता है जैसे वायु फूलों से गन्ध ले जाती है।
 
 ---
 श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च।
@@ -64,6 +72,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Shrotram chakshuh sparshanam cha rasanam ghranameva cha,
 ~ Adhishthaya manashchayam vishayanupasevate.
 = Presiding over hearing, sight, touch, taste and smell, and over the mind, it experiences the objects of the senses.
++ कान, आँख, त्वचा, जीभ और नाक, तथा मन का आश्रय लेकर यह जीवात्मा विषयों का अनुभव करता है।
 
 ---
 उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम्।
@@ -71,6 +80,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Utkramantam sthitam vapi bhunjanam va gunanvitam,
 ~ Vimoodha nanupashyanti pashyanti jnanachakshushah.
 = The deluded do not see it leaving the body, staying in it, or enjoying the world through the gunas. Those with the eye of wisdom see it.
++ शरीर छोड़ते हुए, शरीर में रहते हुए या गुणों के साथ विषयों को भोगते हुए भी मूढ़ लोग इसे नहीं देखते; ज्ञान की आँखों वाले इसे देखते हैं।
 
 ---
 यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम्।
@@ -78,6 +88,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Yatanto yoginashchainam pashyantyatmanyavasthitam,
 ~ Yatanto’pyakritatmano nainam pashyantyachetasah.
 = Yogis who strive see it dwelling within themselves; but the unprepared and unaware do not see it, even when they try.
++ प्रयत्न करने वाले योगी इसे अपने भीतर स्थित देखते हैं; पर जिनका अन्तःकरण शुद्ध नहीं है, वे अज्ञानी प्रयत्न करके भी इसे नहीं देखते।
 
 ---
 यदादित्यगतं तेजो जगद्भासयतेऽखिलम्।
@@ -85,6 +96,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Yadadityagatam tejo jagadbhasayate’khilam,
 ~ Yachchandramasi yachchagnau tattejo viddhi mamakam.
 = The light of the sun that brightens the whole world, and the light in the moon and in fire: know that light to be mine.
++ सूर्य में स्थित जो तेज सारे जगत को प्रकाशित करता है, और जो तेज चन्द्रमा और अग्नि में है, उस तेज को तुम मेरा ही जानो।
 
 ---
 गामाविश्य च भूतानि धारयाम्यहमोजसा।
@@ -92,6 +104,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Gamavishya cha bhootani dharayamyahamojasa,
 ~ Pushnami chaushadhih sarvah somo bhootva rasatmakah.
 = Entering the earth, I hold up all beings with my strength; becoming the moon, full of sap, I nourish every plant.
++ मैं पृथ्वी में प्रवेश करके अपनी शक्ति से सब प्राणियों को धारण करता हूँ, और रस से भरा चन्द्रमा बनकर सब वनस्पतियों का पोषण करता हूँ।
 
 ---
 अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः।
@@ -99,6 +112,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Aham vaishvanaro bhootva praninam dehamashritah,
 ~ Pranapanasamayuktah pachamyannam chaturvidham.
 = Becoming the digestive fire in the bodies of living beings, joined with the in-breath and out-breath, I digest the four kinds of food.
++ मैं प्राणियों के शरीर में वैश्वानर अग्नि बनकर, प्राण और अपान से मिलकर, चार प्रकार के अन्न को पचाता हूँ।
 
 ---
 सर्वस्य चाहं हृदि सन्निविष्टो मत्तः स्मृतिर्ज्ञानमपोहनं च।
@@ -106,6 +120,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Sarvasya chaham hridi sannivishto mattah smritirjnanamapohanam cha,
 ~ Vedaishcha sarvairahameva vedyo vedantakridvedavideva chaham.
 = I am seated in the hearts of all; from me come memory, knowledge and their loss. I alone am what all the Vedas seek to know; I am the author of the Vedanta and the knower of the Vedas.
++ मैं सबके हृदय में स्थित हूँ; मुझसे ही स्मृति, ज्ञान और उनका लोप होता है। सब वेदों द्वारा जानने योग्य मैं ही हूँ; वेदान्त का रचयिता और वेदों को जानने वाला भी मैं ही हूँ।
 
 ---
 द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च।
@@ -113,6 +128,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Dvavimau purushau loke ksharashchakshara eva cha,
 ~ Ksharah sarvani bhootani kootastho’kshara uchyate.
 = There are two persons in this world, the perishable and the imperishable. All beings are perishable; the unchanging one is called imperishable.
++ इस संसार में दो पुरुष हैं, क्षर (नाशवान) और अक्षर (अविनाशी)। सब प्राणी क्षर हैं और जो कूटस्थ (अपरिवर्तनशील) है, वह अक्षर कहलाता है।
 
 ---
 उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः।
@@ -120,6 +136,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Uttamah purushastvanyah paramatmetyudahritah,
 ~ Yo lokatrayamavishya bibhartyavyaya ishvarah.
 = But there is another, the highest Person, called the Supreme Self: the eternal Lord who enters the three worlds and sustains them.
++ परन्तु उत्तम पुरुष इनसे अलग है, जिसे परमात्मा कहा जाता है; वही अविनाशी ईश्वर तीनों लोकों में प्रवेश करके उनका पालन करता है।
 
 ---
 यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः।
@@ -127,6 +144,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Yasmatksharamatito’hamaksharadapi chottamah,
 ~ Ato’smi loke vede cha prathitah purushottamah.
 = Because I am beyond the perishable and higher even than the imperishable, I am known in the world and in the Veda as Purushottam, the Supreme Person.
++ क्योंकि मैं क्षर से परे हूँ और अक्षर से भी उत्तम हूँ, इसलिए संसार में और वेद में मैं पुरुषोत्तम नाम से प्रसिद्ध हूँ।
 
 ---
 यो मामेवमसम्मूढो जानाति पुरुषोत्तमम्।
@@ -134,6 +152,7 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Yo mamevamasammoodho janati purushottamam,
 ~ Sa sarvavidbhajati mam sarvabhavena Bharata.
 = Whoever, free from delusion, knows me as the Supreme Person knows everything, and worships me with their whole being, Bharata.
++ हे भारत, जो मोहरहित होकर मुझे इस प्रकार पुरुषोत्तम जानता है, वह सब कुछ जानने वाला है और सम्पूर्ण भाव से मुझे भजता है।
 
 ---
 इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ।
@@ -141,8 +160,10 @@ intro: Krishna describes the world as an upside-down tree to be cut down with de
 ~ Iti guhyatamam shastramidamuktam mayanagha,
 ~ Etadbuddhva buddhimansyatkritakrityashcha Bharata.
 = So I have given you this most secret teaching, sinless one. Whoever understands it becomes truly wise and has done all there is to do, Bharata.
++ हे निष्पाप अर्जुन, इस प्रकार मैंने यह अत्यन्त गुप्त शास्त्र तुमसे कहा। हे भारत, इसे जानकर मनुष्य बुद्धिमान और कृतार्थ हो जाता है।
 
 --- इति
 ॐ तत्सदिति श्रीमद्भगवद्गीतासूपनिषत्सु ब्रह्मविद्यायां योगशास्त्रे श्रीकृष्णार्जुनसंवादे पुरुषोत्तमयोगो नाम पञ्चदशोऽध्यायः॥
 ~ Om tat sat. Iti Shrimad Bhagavad Gitasu Upanishatsu Brahmavidyayam Yogashastre Shri Krishnarjuna samvade Purushottamayogo nama panchadasho’dhyayah.
 = Om, that is the truth. So ends the fifteenth chapter, the Yoga of the Supreme Person, in the dialogue between Shri Krishna and Arjun, the Upanishad of the Gita, the knowledge of Brahman and the scripture of yoga.
++ ॐ तत् सत्। इस प्रकार श्रीमद्भगवद्गीता रूपी उपनिषद्, ब्रह्मविद्या और योगशास्त्र में, श्रीकृष्ण और अर्जुन के संवाद में पुरुषोत्तमयोग नामक पन्द्रहवाँ अध्याय समाप्त होता है।

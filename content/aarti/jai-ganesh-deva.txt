@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Jai Ganesh jai Ganesh, jai Ganesh Deva,
 ~ Mata jaki Parvati, pita Mahadeva.
 = Glory to Lord Ganesh, whose mother is Parvati and whose father is Mahadev.
++ भगवान गणेश की जय हो, जिनकी माता पार्वती और पिता महादेव हैं।
 
 ---
 एक दन्त दयावन्त, चार भुजा धारी।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Ek dant dayavant, chaar bhuja dhari,
 ~ Mathe sindoor sohe, moose ki savari.
 = The one-tusked, compassionate lord with four arms. Vermilion graces his forehead and he rides a mouse.
++ एक दाँत वाले, दयालु, चार भुजाओं वाले प्रभु; उनके मस्तक पर सिन्दूर शोभा देता है और वे चूहे की सवारी करते हैं।
 
 ---
 पान चढ़े फूल चढ़े, और चढ़े मेवा।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Paan chadhe phool chadhe, aur chadhe meva,
 ~ Ladduan ka bhog lage, sant karen seva.
 = Betel leaves, flowers and dry fruits are offered to him; laddus are his bhog, and the saintly serve him.
++ उन्हें पान, फूल और मेवा चढ़ाए जाते हैं; लड्डुओं का भोग लगता है और संत उनकी सेवा करते हैं।
 
 ---
 अंधन को आँख देत, कोढ़िन को काया।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Andhan ko aankh det, kodhin ko kaya,
 ~ Baanjhan ko putra det, nirdhan ko maya.
 = He gives sight to the blind, a healthy body to the afflicted, children to the childless and wealth to the poor.
++ वे अंधों को आँखें, रोगियों को स्वस्थ काया, निःसंतानों को संतान और निर्धनों को धन देते हैं।
 
 ---
 ‘सूर’ श्याम शरण आए, सफल कीजे सेवा।
@@ -45,3 +49,4 @@ refrain-first: yes
 ~ Soor Shyam sharan aaye, saphal keeje seva,
 ~ Mata jaki Parvati, pita Mahadeva.
 = Soor, devotee of Shyam, has come to your refuge: make this worship fruitful, son of Parvati and Mahadev.
++ श्याम के भक्त सूरदास आपकी शरण में आए हैं; हे पार्वती और महादेव के पुत्र, उनकी सेवा सफल कीजिए।

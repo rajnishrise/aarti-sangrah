@@ -1,8 +1,8 @@
 # आरती संग्रह · Aarti Sangrah
 
-A library of Hindu devotional texts: aartis, chalisas, stotras, mantras, bhajans and the Bhagavad Gita. Every text has the Devanagari, a singable Roman version and an English meaning for each verse, along with its deity, the occasions it is sung on, its author and known variants.
+A library of Hindu devotional texts: aartis, chalisas, stotras, mantras, bhajans, the Bhagavad Gita and the Durga Saptashati. Every text has the Devanagari, a singable Roman version and an English and a Hindi meaning for each verse, along with its deity, the occasions it is sung on, its author and known variants.
 
-> **Status:** 30 texts. They have not yet been proofread against printed editions; please [report mistakes](https://github.com/rajnishrise/aarti-sangrah/issues).
+> **Status:** 38 texts. They have not yet been proofread against printed editions, and the Hindi meanings are new and need a native reader’s review; please [report mistakes](https://github.com/rajnishrise/aarti-sangrah/issues).
 
 ## What it does
 
@@ -10,10 +10,12 @@ A library of Hindu devotional texts: aartis, chalisas, stotras, mantras, bhajans
 - **Deity pages:** a painting of each deity in a temple arch, with all of their texts
 - **The library:** aarti, chalisa, stotra, mantra, bhajan and granth, browsable by deity, occasion, weekday and language
 - **Search** that tolerates loose spellings (*jagdish*, *jagadeesh*), other names (*Bajrangbali*, *Bholenath*) and half-remembered lines, opening the text at that verse
-- **Reader:** Devanagari, Roman or both; meanings on or off; adjustable text size; light and dark; print layout
+- **Navratri:** a page for the festival and one for each of the nine nights, with that night’s goddess, her meditation verse and what to read, plus a home-page banner through the season
+- **Reader:** Devanagari, Roman or both; English or Hindi meanings, both, or none; adjustable text size; light and dark; print layout
 - **Puja mode:** large text, one verse lit at a time, screen kept awake, and an “Offer flowers” shower of petals at the end
 - **My puja:** a saved running order of texts, with presets such as Diwali Lakshmi Puja and Morning prayers
-- **Bhagavad Gita:** read chapter by chapter, with the speaker of each verse
+- **Granths:** the Bhagavad Gita and the Durga Saptashati, read chapter by chapter, with the speaker of each verse and a summary of every chapter
+- **Home and back buttons** on every inner page, a reading-progress line and a back-to-top button
 
 ## How it is organised
 
@@ -43,6 +45,6 @@ Open `index.html` in a browser; no server is needed. The site is published with 
 
 ## Credits
 
-The paintings are public-domain works, most by Raja Ravi Varma (1848–1906) and the Ravi Varma Press, loaded from Wikimedia Commons; the site’s Image credits page links to each one. The marigolds, lotuses and arches are original artwork. The texts are traditional and in the public domain; the Roman versions and English meanings were written for this project.
+The paintings are public-domain works, most by Raja Ravi Varma (1848–1906) and the Ravi Varma Press, loaded from Wikimedia Commons; the site’s Image credits page links to each one. The marigolds, lotuses and arches are original artwork. The texts are traditional and in the public domain; the Roman versions and the English and Hindi meanings were written for this project.
 
 See [ROADMAP.md](ROADMAP.md) for what comes next.

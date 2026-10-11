@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Om jai Shiv Omkara, Swami jai Shiv Omkara,
 ~ Brahma Vishnu Sadashiv, ardhangi dhara.
 = Om, glory to Shiv, embodiment of Om! You are Brahma, Vishnu and Sadashiv, and you hold your consort as half of your own body.
++ ओंकार स्वरूप शिव, आपकी जय हो! आप ही ब्रह्मा, विष्णु और सदाशिव हैं, और आपने पार्वती को अपने आधे अंग में धारण किया है।
 
 ---
 एकानन चतुरानन पंचानन राजे।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Ekanan chaturanan panchanan raje,
 ~ Hansasan Garudasan vrishvahan saje.
 = With one face, four faces and five faces you shine, seated on the swan, on Garuda, and riding the bull.
++ आप एक मुख, चार मुख और पाँच मुख वाले रूपों में शोभा पाते हैं; हंस, गरुड़ और बैल पर सवार होकर सुशोभित होते हैं।
 
 ---
 दो भुज चार चतुर्भुज दसभुज अति सोहे।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Do bhuj chaar chaturbhuj dasbhuj ati sohe,
 ~ Trigun roop nirakhte tribhuvan jan mohe.
 = With two, four and ten arms you are magnificent; seeing your form of the three gunas, all three worlds are enchanted.
++ दो भुजाओं, चार भुजाओं और दस भुजाओं वाले आपके रूप अत्यन्त सुन्दर हैं; आपके त्रिगुण रूप को देखकर तीनों लोकों के लोग मोहित हो जाते हैं।
 
 ---
 अक्षमाला वनमाला मुण्डमाला धारी।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Akshmala vanmala mundmala dhari,
 ~ Chandan mrigmad sohai bhale shashidhari.
 = You wear rudraksha beads, a garland of forest flowers and a garland of skulls; sandalwood and musk adorn you, and the moon rests on your brow.
++ आप रुद्राक्ष की माला, वनमाला और मुण्डमाला धारण करते हैं; चन्दन और कस्तूरी आपको शोभा देते हैं और आपके मस्तक पर चन्द्रमा है।
 
 ---
 श्वेताम्बर पीताम्बर बाघम्बर अंगे।
@@ -45,6 +49,7 @@ refrain-first: yes
 ~ Shvetambar pitambar baghambar ange,
 ~ Sanakadik Garudadik bhootadik sange.
 = Dressed in white, in yellow silk and in tiger skin, accompanied by sages like Sanaka, by Garuda and by hosts of spirits.
++ आप श्वेत वस्त्र, पीताम्बर और बाघम्बर धारण करते हैं; सनक आदि मुनि, गरुड़ आदि और भूतगण आपके साथ रहते हैं।
 
 ---
 कर के मध्य कमण्डलु चक्र त्रिशूलधर्ता।
@@ -52,6 +57,7 @@ refrain-first: yes
 ~ Kar ke madhya kamandalu chakra trishooldharta,
 ~ Jagkarta jagbharta jagsanharkarta.
 = Holding the water-pot, the discus and the trident: creator, sustainer and destroyer of the world.
++ आपके हाथों में कमण्डलु, चक्र और त्रिशूल हैं; आप ही जगत के रचयिता, पालनकर्ता और संहारकर्ता हैं।
 
 ---
 ब्रह्मा विष्णु सदाशिव जानत अविवेका।
@@ -59,6 +65,7 @@ refrain-first: yes
 ~ Brahma Vishnu Sadashiv janat aviveka,
 ~ Pranavakshar ke madhye ye teenon eka.
 = Only the unwise think Brahma, Vishnu and Sadashiv are separate; within the sacred syllable Om, the three are one.
++ अज्ञानी लोग ही ब्रह्मा, विष्णु और सदाशिव को अलग-अलग मानते हैं; ॐ अक्षर के भीतर ये तीनों एक ही हैं।
 
 ---
 त्रिगुणस्वामी जी की आरती जो कोई नर गावे।
@@ -66,3 +73,4 @@ refrain-first: yes
 ~ Trigunswami ji ki aarti jo koi nar gave,
 ~ Kahat Shivanand Swami manvanchhit phal pave.
 = Whoever sings this aarti of the lord of the three gunas, says Swami Shivanand, gains the fruit of their heart’s desire.
++ स्वामी शिवानन्द कहते हैं, जो कोई त्रिगुण स्वामी की यह आरती गाता है, वह मनचाहा फल पाता है।

@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Om jai Lakshmi Mata, Maiya jai Lakshmi Mata,
 ~ Tumko nishdin sevat, Har Vishnu Vidhata.
 = Om, glory to Mother Lakshmi! Shiv, Vishnu and Brahma worship you day and night.
++ हे लक्ष्मी माता, आपकी जय हो! शिव, विष्णु और ब्रह्मा दिन-रात आपकी सेवा करते हैं।
 
 ---
 उमा रमा ब्रह्माणी, तुम ही जग माता।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Uma Rama Brahmani, tum hi jag mata,
 ~ Surya Chandrama dhyavat, Narad rishi gata.
 = You are Uma, Rama and Brahmani, mother of the world. The sun and moon meditate on you and the sage Narad sings your glory.
++ आप ही उमा, रमा और ब्रह्माणी हैं, आप ही जगत की माता हैं। सूर्य और चन्द्रमा आपका ध्यान करते हैं और नारद मुनि आपका गुणगान करते हैं।
 
 ---
 दुर्गा रूप निरंजनि, सुख सम्पत्ति दाता।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Durga roop niranjani, sukh sampatti data,
 ~ Jo koi tumko dhyavat, riddhi siddhi dhan pata.
 = Pure one in the form of Durga, giver of happiness and plenty: whoever meditates on you gains abundance, success and wealth.
++ आप दुर्गा रूप में निर्मल हैं और सुख-सम्पत्ति देने वाली हैं; जो कोई आपका ध्यान करता है, वह ऋद्धि, सिद्धि और धन पाता है।
 
 ---
 तुम पाताल निवासिनि, तुम ही शुभदाता।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Tum Patal nivasini, tum hi shubhdata,
 ~ Karm prabhav prakashini, bhavnidhi ki trata.
 = You dwell even in the netherworld, and you alone bestow good fortune. You bring the fruits of our deeds to light and carry us across the ocean of worldly life.
++ आप पाताल में भी निवास करती हैं और आप ही शुभ फल देने वाली हैं। आप कर्मों के फल को प्रकट करती हैं और संसार-सागर से पार उतारती हैं।
 
 ---
 जिस घर में तुम रहतीं, सब सद्गुण आता।
@@ -45,6 +49,7 @@ refrain-first: yes
 ~ Jis ghar mein tum rahtin, sab sadgun aata,
 ~ Sab sambhav ho jata, man nahin ghabrata.
 = Every virtue comes to the home where you live; everything becomes possible and the mind is free of fear.
++ जिस घर में आप रहती हैं, वहाँ सब सद्गुण आ जाते हैं; सब कुछ सम्भव हो जाता है और मन नहीं घबराता।
 
 ---
 तुम बिन यज्ञ न होते, वस्त्र न कोई पाता।
@@ -52,6 +57,7 @@ refrain-first: yes
 ~ Tum bin yagya na hote, vastra na koi pata,
 ~ Khaan paan ka vaibhav, sab tumse aata.
 = Without you no sacrifice could be performed and no one would have clothing; all the richness of food and drink comes from you.
++ आपके बिना न यज्ञ हो सकते हैं, न किसी को वस्त्र मिलते हैं; खान-पान का सारा वैभव आपसे ही आता है।
 
 ---
 शुभ गुण मन्दिर सुन्दर, क्षीरोदधि जाता।
@@ -59,6 +65,7 @@ refrain-first: yes
 ~ Shubh gun mandir sundar, Kshirodadhi jata,
 ~ Ratna chaturdash tum bin, koi nahin pata.
 = Beautiful temple of auspicious qualities, born of the ocean of milk: without you no one obtains the fourteen treasures.
++ आप शुभ गुणों का सुन्दर मन्दिर हैं और क्षीरसागर से उत्पन्न हुई हैं; आपके बिना कोई भी चौदह रत्न नहीं पा सकता।
 
 ---
 महालक्ष्मी जी की आरती, जो कोई जन गाता।
@@ -66,3 +73,4 @@ refrain-first: yes
 ~ Mahalakshmi ji ki aarti, jo koi jan gata,
 ~ Ur anand samata, paap utar jata.
 = Whoever sings this aarti of Mahalakshmi is filled with joy, and their sins fall away.
++ जो कोई महालक्ष्मी जी की यह आरती गाता है, उसके हृदय में आनन्द भर जाता है और उसके पाप उतर जाते हैं।

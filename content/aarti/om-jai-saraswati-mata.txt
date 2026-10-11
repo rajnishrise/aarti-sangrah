@@ -17,6 +17,7 @@ refrain-first: yes
 ~ Om jai Saraswati Mata, Maiya jai Saraswati Mata,
 ~ Sadgun vaibhav shalini, tribhuvan vikhyata.
 = Om, glory to Mother Saraswati! Rich in every virtue and splendour, famed in all three worlds.
++ हे सरस्वती माता, आपकी जय हो! आप सद्गुणों और वैभव से सम्पन्न हैं और तीनों लोकों में प्रसिद्ध हैं।
 
 ---
 चन्द्रवदनि पद्मासिनि, द्युति मंगलकारी।
@@ -24,6 +25,7 @@ refrain-first: yes
 ~ Chandravadani padmasini, dyuti mangalkari,
 ~ Sohe shubh hans savari, atul tejdhari.
 = Moon-faced goddess seated on a lotus, your radiance brings blessings. You ride the auspicious swan and shine with matchless light.
++ हे चन्द्रमुखी, कमल पर विराजने वाली देवी, आपकी कान्ति मंगल करने वाली है। आप शुभ हंस की सवारी पर शोभा पाती हैं और अतुलनीय तेज धारण करती हैं।
 
 ---
 बाएँ कर में वीणा, दाएँ कर माला।
@@ -31,6 +33,7 @@ refrain-first: yes
 ~ Baayen kar mein veena, daayen kar mala,
 ~ Sheesh mukut mani sohe, gal motiyan mala.
 = The veena is in your left hand and a rosary in your right. A jewelled crown graces your head and a string of pearls your neck.
++ आपके बाएँ हाथ में वीणा और दाएँ हाथ में माला है। सिर पर मणियों का मुकुट और गले में मोतियों की माला शोभा देती है।
 
 ---
 देवी शरण जो आए, उनका उद्धार किया।
@@ -38,6 +41,7 @@ refrain-first: yes
 ~ Devi sharan jo aaye, unka uddhar kiya,
 ~ Paithi Manthara dasi, Ravan sanhar kiya.
 = Goddess, you raised up all who came to your refuge. You entered the mind of the maid Manthara and so brought about Ravan’s end.
++ हे देवी, जो आपकी शरण में आया, आपने उसका उद्धार किया। आपने मंथरा दासी की बुद्धि में प्रवेश करके रावण के संहार का मार्ग बनाया।
 
 ---
 विद्या ज्ञान प्रदायिनि, ज्ञान प्रकाश भरो।
@@ -45,6 +49,7 @@ refrain-first: yes
 ~ Vidya gyan pradayini, gyan prakash bharo,
 ~ Moh agyan aur timir ka, jag se naash karo.
 = Giver of learning and wisdom, fill us with the light of knowledge, and drive delusion, ignorance and darkness from the world.
++ हे विद्या और ज्ञान देने वाली, हमें ज्ञान के प्रकाश से भर दीजिए और संसार से मोह, अज्ञान और अन्धकार का नाश कीजिए।
 
 ---
 धूप दीप फल मेवा, माँ स्वीकार करो।
@@ -52,6 +57,7 @@ refrain-first: yes
 ~ Dhoop deep phal meva, Maa sweekar karo,
 ~ Gyanchakshu de Mata, jag nistar karo.
 = Mother, accept our incense, lamp, fruit and dry fruits. Give us the eye of wisdom and carry the world across.
++ हे माँ, धूप, दीप, फल और मेवा स्वीकार कीजिए। हे माता, ज्ञान की आँखें देकर जगत का उद्धार कीजिए।
 
 ---
 माँ सरस्वती की आरती, जो कोई जन गावे।
@@ -59,3 +65,4 @@ refrain-first: yes
 ~ Maa Saraswati ki aarti, jo koi jan gaave,
 ~ Hitkari sukhkari, gyan bhakti paave.
 = Whoever sings this aarti of Mother Saraswati gains wisdom and devotion, which bring wellbeing and happiness.
++ जो कोई माँ सरस्वती की यह आरती गाता है, वह हितकारी और सुखकारी ज्ञान और भक्ति पाता है।
