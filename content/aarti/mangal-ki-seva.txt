@@ -1,0 +1,98 @@
+id: mangal-ki-seva
+kind: aarti
+deity: durga
+lang: hi
+language: Hindi
+region: North India
+title: मंगल की सेवा सुन मेरी देवा | Mangal Ki Seva Sun Meri Deva | Aarti of Maa Kali
+author: Traditional, poet unknown | traditional
+occasions: navratri, daily
+when: The aarti of Maa Kali, sung at Kali temples, at mata ki chowki and jagrans, and through Navratri, especially on Ashtami night. Its verses walk through the days of the week.
+notes: A folk aarti with many versions: temples and aarti books differ in several lines and in the order of the weekday verses. This text was typed from memory and has not been checked against a printed source; it is known to differ in places from at least one online edition. If your family sings it differently, please use the correction link.
+refrain-first: no
+
+--- refrain
+सुन जगदम्बा न कर विलम्बा, संतन के भंडार भरे।
+संतन प्रतिपाली सदा खुशहाली, जय काली कल्याण करे॥
+~ Sun Jagdamba na kar vilamba, santan ke bhandar bhare,
+~ Santan pratipali sada khushhali, jai Kali kalyan kare.
+= Hear me, Mother of the world, do not delay; you fill the storehouses of the saints. Protector of the saints, giver of lasting joy, glory to Kali, who brings all good.
++ हे जगदम्बा, सुनो, देर मत करो; तुम संतों के भंडार भरती हो। संतों की रक्षा करने वाली, सदा सुख देने वाली, कल्याण करने वाली काली माँ की जय।
+
+---
+मंगल की सेवा सुन मेरी देवा, हाथ जोड़ तेरे द्वार खड़े।
+पान सुपारी ध्वजा नारियल, ले ज्वाला तेरी भेंट धरे॥
+~ Mangal ki seva sun meri deva, haath jod tere dvaar khade,
+~ Paan supari dhvaja nariyal, le jvala teri bhent dhare.
+= Hear this auspicious worship, my Goddess: we stand at your door with folded hands, and bring you betel leaf, areca nut, a banner and a coconut as our offering, Jvala.
++ हे मेरी देवी, इस मंगल सेवा को सुनो; हम हाथ जोड़कर तुम्हारे द्वार पर खड़े हैं, और हे ज्वाला माँ, पान, सुपारी, ध्वजा और नारियल तुम्हारी भेंट में चढ़ाते हैं।
+
+---
+बुद्धि विधाता तू जग माता, मेरा कारज सिद्ध करे।
+चरण कमल का लिया आसरा, शरण तुम्हारी आन परे॥
+जब जब भीर पड़ी भक्तन पर, तब तब आय सहाय करे॥
+~ Buddhi vidhata tu jag mata, mera karaj siddh kare,
+~ Charan kamal ka liya aasra, sharan tumhari aan pare.
+~ Jab jab bheer padi bhaktan par, tab tab aay sahay kare.
+= Giver of wisdom, mother of the world, you bring my work to fulfilment. I have taken shelter at your lotus feet and come to your refuge. Whenever trouble falls on your devotees, you come to their help.
++ हे बुद्धि देने वाली जगत माता, तुम मेरा काम सिद्ध करती हो। मैंने तुम्हारे चरणकमलों का आसरा लिया है और तुम्हारी शरण में आ पड़ा हूँ। जब-जब भक्तों पर संकट पड़ा, तब-तब तुमने आकर उनकी सहायता की।
+
+---
+गुरु के वार सकल जग मोह्यो, तरुणी रूप अनूप धरे।
+माता होकर पुत्र खिलावे, कहीं भार्या भोग करे॥
+शुक्र सुखदाई सदा सहाई, संत खड़े जयकार करे॥
+~ Guru ke vaar sakal jag mohyo, taruni roop anoop dhare,
+~ Mata hokar putra khilave, kahin bharya bhog kare.
+~ Shukra sukhdai sada sahai, sant khade jaikar kare.
+= On Thursday you charm the whole world, taking a matchless youthful form; as a mother you play with your child, and elsewhere you are a wife. On Friday you give joy and are always our help, and the saints stand singing your victory.
++ गुरुवार को तुम युवती का अनुपम रूप धरकर सारे जगत को मोह लेती हो; कहीं माता बनकर पुत्र को खिलाती हो, कहीं पत्नी बनती हो। शुक्रवार को तुम सुख देने वाली और सदा सहायक हो, और संत खड़े होकर तुम्हारी जय-जयकार करते हैं।
+
+---
+ब्रह्मा विष्णु महेश फल लिये, भेंट तेरे द्वार खड़े।
+अटल सिंहासन बैठी माता, सिर सोने का छत्र फिरे॥
+वार शनिश्चर कुमकुम बरणो, जब लुंकड़ पर हुक्म करे॥
+~ Brahma Vishnu Mahesh phal liye, bhent tere dvaar khade,
+~ Atal sinhasan baithi mata, sir sone ka chhatra phire.
+~ Vaar Shanishchar kumkum barno, jab lunkad par hukm kare.
+= Brahma, Vishnu and Shiv stand at your door with fruit as offerings. The Mother sits on her unshakable throne, a golden canopy turning over her head. On Saturday she is the colour of kumkum, as she gives her commands.
++ ब्रह्मा, विष्णु और महेश फल की भेंट लेकर तुम्हारे द्वार पर खड़े हैं। माता अटल सिंहासन पर बैठी हैं और उनके सिर पर सोने का छत्र फिर रहा है। शनिवार को माता कुमकुम के रंग की हैं, जब वे अपनी आज्ञा चलाती हैं।
+
+---
+खड्ग खप्पर त्रिशूल हाथ लिये, रक्तबीज को भस्म करे।
+शुम्भ निशुम्भ को क्षण में मारे, महिषासुर को पकड़ दले॥
+आदितवारी आदि भवानी, जन अपने को कष्ट हरे॥
+~ Khadag khappar trishul haath liye, Raktabeej ko bhasm kare,
+~ Shumbh Nishumbh ko kshan mein maare, Mahishasur ko pakad dale.
+~ Aaditvari aadi Bhavani, jan apne ko kasht hare.
+= Sword, skull-bowl and trident in hand, she burns Raktabeej to ash; she slays Shumbh and Nishumbh in a moment and seizes and crushes Mahishasur. On Sunday, Bhavani, the first of all, takes away the pain of her people.
++ हाथ में खड्ग, खप्पर और त्रिशूल लेकर वे रक्तबीज को भस्म करती हैं; शुम्भ-निशुम्भ को क्षण भर में मारती हैं और महिषासुर को पकड़कर कुचल देती हैं। रविवार को आदि भवानी अपने भक्तों का कष्ट हरती हैं।
+
+---
+कुपित होय कर दानव मारे, चण्ड मुण्ड सब चूर करे।
+जब तुम देखी दया रूप हो, पल में संकट दूर करे॥
+सौम्य स्वभाव धरयो मेरी माता, जन की अर्ज कबूल करे॥
+~ Kupit hoy kar daanav maare, Chand Mund sab choor kare,
+~ Jab tum dekhi daya roop ho, pal mein sankat door kare.
+~ Saumya svabhav dharyo meri mata, jan ki arj kabool kare.
+= In anger she kills the demons and grinds Chand and Mund to dust; yet when you look with compassion, you remove trouble in a moment. My Mother takes on a gentle nature and grants her people’s prayers.
++ क्रोधित होकर वे दानवों को मारती हैं और चण्ड-मुण्ड को चूर-चूर कर देती हैं; पर जब तुम दया की दृष्टि से देखती हो, तो पल भर में संकट दूर कर देती हो। मेरी माता सौम्य स्वभाव धारण करके भक्तों की प्रार्थना स्वीकार करती हैं।
+
+---
+सात बार की महिमा बरनी, सब गुण कौन बखान करे।
+सिंह पीठ पर चढ़ी भवानी, अटल भवन में राज करे॥
+दर्शन पावें मंगल गावें, सिद्ध साधक तेरी भेंट धरे॥
+~ Saat baar ki mahima barni, sab gun kaun bakhan kare,
+~ Sinh peeth par chadhi Bhavani, atal bhavan mein raaj kare.
+~ Darshan paavein mangal gaavein, siddh sadhak teri bhent dhare.
+= I have told your glory through the seven days, but who can describe all your virtues? Bhavani rides on the lion’s back and reigns in her unshakable home. Those who see her sing her praises, and adepts and seekers bring you offerings.
++ सातों वारों की महिमा का वर्णन किया, पर तुम्हारे सब गुणों का बखान कौन कर सकता है? भवानी सिंह की पीठ पर सवार होकर अटल भवन में राज करती हैं। दर्शन पाने वाले मंगल गाते हैं, और सिद्ध और साधक तुम्हें भेंट चढ़ाते हैं।
+
+---
+ब्रह्मा वेद पढ़ें तेरे द्वारे, शिव शंकर हरि ध्यान धरे।
+इन्द्र कृष्ण तेरी करे आरती, चँवर कुबेर डुलाय रहे॥
+जय जननी जय मातु भवानी, अटल भवन में राज करे॥
+~ Brahma Ved padhein tere dvaare, Shiv Shankar Hari dhyan dhare,
+~ Indra Krishna teri kare aarti, chanvar Kuber dulay rahe.
+~ Jai janani jai matu Bhavani, atal bhavan mein raaj kare.
+= Brahma recites the Vedas at your door, and Shiv and Vishnu meditate on you; Indra and Krishna perform your aarti while Kuber waves the whisk. Glory to the Mother, glory to Mother Bhavani, who reigns in her unshakable home.
++ ब्रह्मा तुम्हारे द्वार पर वेद पढ़ते हैं, शिव-शंकर और विष्णु तुम्हारा ध्यान करते हैं; इन्द्र और कृष्ण तुम्हारी आरती करते हैं और कुबेर चँवर डुला रहे हैं। जननी की जय, माता भवानी की जय, जो अटल भवन में राज करती हैं।

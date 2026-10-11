@@ -1,0 +1,136 @@
+id: keelak-stotram
+kind: stotra
+form: Stotram
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: कीलकम् | Keelak Stotram | The hymn of the peg
+author: Recited as the third limb before the Durga Saptashati; its seer is named as Shiv | traditional
+occasions: navratri, daily
+when: Recited after the Devi Kavach and the Argala, just before the first chapter of the Durga Saptashati.
+notes: A keelak is a peg or pin. The hymn tells how Shiv “pinned” the Saptashati so that its power opens only to those who recite it with devotion and surrender, and this hymn is said to release that pin. The verses are terse and are read in different ways by different commentators; the meanings here follow the common reading. Verse numbers follow the Gita Press edition. Checked verse by verse against one online edition, not yet proofread against a printed copy.
+keywords: keelak, kilak, kilakam, keelakam, keelaka stotram, kilaka stotra
+
+--- विनियोग
+ॐ अस्य श्रीकीलकमन्त्रस्य शिव ऋषिः, अनुष्टुप् छन्दः,
+श्रीमहासरस्वती देवता, श्रीजगदम्बाप्रीत्यर्थं सप्तशतीपाठाङ्गत्वेन जपे विनियोगः।
+ॐ नमश्चण्डिकायै॥
+~ Om asya shrikilakamantrasya shiva rishih, anushtup chhandah,
+~ Shrimahasarasvati devata, shrijagadambaprityartham saptashatipathangatvena jape viniyogah,
+~ Om namashchandikayai.
+= Dedication: Of this Keelak the seer is Shiv, the metre anushtup, the deity Shri Mahasarasvati. It is recited as part of the Saptashati path, to please the Mother of the world. Salutation to Chandika.
++ विनियोग: इस कीलक मन्त्र के ऋषि शिव, छन्द अनुष्टुप् और देवता श्रीमहासरस्वती हैं। श्रीजगदम्बा की प्रसन्नता के लिए सप्तशती पाठ के अंग के रूप में इसके जप का विनियोग किया जाता है। चण्डिका को नमस्कार।
+
+---
+> मार्कण्डेय उवाच | Markandeya said
+ॐ विशुद्धज्ञानदेहाय त्रिवेदीदिव्यचक्षुषे।
+श्रेयःप्राप्तिनिमित्ताय नमः सोमार्धधारिणे॥
+~ Om vishuddhajnanadehaya trivedidivyachakshushe,
+~ Shreyahpraptinimittaya namah somardhadharine.
+= Salutation to Shiv, who wears the half moon, whose body is pure knowledge, whose divine eyes are the three Vedas, and who is the means of reaching the highest good.
++ जिनका शरीर विशुद्ध ज्ञानमय है, तीनों वेद जिनके दिव्य नेत्र हैं, जो कल्याण की प्राप्ति के कारण हैं और जो मस्तक पर अर्धचन्द्र धारण करते हैं, उन भगवान शिव को नमस्कार है।
+
+---
+सर्वमेतद्विजानीयान्मन्त्राणामभिकीलकम्।
+सोऽपि क्षेममवाप्नोति सततं जाप्यतत्परः॥
+~ Sarvametadvijaniyanmantranamabhikilakam,
+~ So’pi kshemamavapnoti satatam japyatatparah.
+= One should know all of this, the pinning of the mantras. Even one who is devoted to constant recitation of other mantras attains well-being.
++ मन्त्रों के अभिकीलन, अर्थात् उन्हें कीलित करने और खोलने के इस सारे रहस्य को जानना चाहिए। जो दूसरे मन्त्रों के जप में भी निरन्तर लगा रहता है, वह भी कल्याण पाता है।
+
+---
+सिद्ध्यन्त्युच्चाटनादीनि वस्तूनि सकलान्यपि।
+एतेन स्तुवतां देवी स्तोत्रमात्रेण सिद्ध्यति॥
+~ Siddhyantyuchchatanadini vastuni sakalanyapi,
+~ Etena stuvatam devi stotramatrena siddhyati.
+= All the rites of driving away and the rest succeed for him as well; but for those who praise the Goddess with this, she is won by the hymn alone.
++ उसके भी उच्चाटन आदि सब कार्य सिद्ध होते हैं; परन्तु जो इस सप्तशती से देवी की स्तुति करते हैं, उन्हें केवल स्तोत्र से ही देवी सिद्ध हो जाती हैं।
+
+---
+न मन्त्रो नौषधं तत्र न किञ्चिदपि विद्यते।
+विना जाप्येन सिद्ध्येत सर्वमुच्चाटनादिकम्॥
+~ Na mantro naushadham tatra na kinchidapi vidyate,
+~ Vina japyena siddhyeta sarvamuchchatanadikam.
+= For them no other mantra or herb, nothing at all, is needed; without any other recitation, every rite of driving away and the rest succeeds.
++ उनके लिए न किसी मन्त्र की, न औषधि की, न किसी और साधन की आवश्यकता रहती है। बिना दूसरे जप के ही उनके उच्चाटन आदि सब कार्य सिद्ध हो जाते हैं।
+
+---
+समग्राण्यपि सिद्ध्यन्ति लोकशङ्कामिमां हरः।
+कृत्वा निमन्त्रयामास सर्वमेवमिदं शुभम्॥
+~ Samagranyapi siddhyanti lokashankamimam harah,
+~ Kritva nimantrayamasa sarvamevamidam shubham.
+= Since everything would succeed by it, Shiv, seeing the doubt this would raise among people, bound this whole auspicious text in this way.
++ इससे सब कार्य पूरे हो जाते हैं, संसार की इस शंका को देखकर भगवान शिव ने इस सारे कल्याणकारी स्तोत्र को इस प्रकार नियन्त्रित कर दिया।
+
+---
+स्तोत्रं वै चण्डिकायास्तु तच्च गुप्तं चकार सः।
+समाप्तिर्न च पुण्यस्य तां यथावन्नियन्त्रणाम्॥
+~ Stotram vai chandikayastu tachcha guptam chakara sah,
+~ Samaptirna cha punyasya tam yathavanniyantranam.
+= He made this hymn of Chandika secret, and made its merit endless; that is how it was restrained.
++ उन्होंने चण्डिका के इस स्तोत्र को गुप्त कर दिया और इसके पुण्य को अनन्त बना दिया; इसी प्रकार उसका नियन्त्रण किया।
+
+---
+सोऽपि क्षेममवाप्नोति सर्वमेवं न संशयः।
+कृष्णायां वा चतुर्दश्यामष्टम्यां वा समाहितः॥
+~ So’pi kshemamavapnoti sarvamevam na samshayah,
+~ Krishnayam va chaturdashyamashtamyam va samahitah.
+= Such a one attains well-being in everything, there is no doubt. On the fourteenth or the eighth day of the dark fortnight, with a collected mind,
++ वह सब प्रकार से कल्याण पाता है, इसमें सन्देह नहीं। जो कृष्ण पक्ष की चतुर्दशी या अष्टमी को एकाग्रचित्त होकर
+
+---
+ददाति प्रतिगृह्णाति नान्यथैषा प्रसीदति।
+इत्थंरूपेण कीलेन महादेवेन कीलितम्॥
+~ Dadati pratigrihnati nanyathaisha prasidati,
+~ Itthamrupena kilena mahadevena kilitam.
+= one offers all one has to the Goddess and receives it back as her gift; in no other way is she pleased. By a peg of this kind Mahadev pinned the text.
++ अपना सब कुछ देवी को अर्पण करता है और फिर उसे प्रसाद रूप में ग्रहण करता है, उसी पर देवी प्रसन्न होती हैं, अन्यथा नहीं। इसी प्रकार की कील से महादेव ने इसे कीलित किया है।
+
+---
+यो निष्कीलां विधायैनां नित्यं जपति संस्फुटम्।
+स सिद्धः स गणः सोऽपि गन्धर्वो जायते नरः॥
+~ Yo nishkilam vidhayainam nityam japati samsphutam,
+~ Sa siddhah sa ganah so’pi gandharvo jayate narah.
+= One who unpins it in this way and recites it every day, clearly, becomes perfected; he becomes an attendant of the Goddess, and a gandharva too.
++ जो इसे निष्कीलित करके प्रतिदिन स्पष्ट उच्चारण के साथ इसका पाठ करता है, वह सिद्ध हो जाता है, देवी का पार्षद बनता है और गन्धर्व भी होता है।
+
+---
+न चैवाप्यटतस्तस्य भयं क्वापीह जायते।
+नापमृत्युवशं याति मृतो मोक्षमवाप्नुयात्॥
+~ Na chaivapyatatastasya bhayam kvapiha jayate,
+~ Napamrityuvasham yati mrito mokshamavapnuyat.
+= Wherever he wanders here, no fear comes to him anywhere. He does not fall to untimely death, and when he dies he attains liberation.
++ वह कहीं भी विचरे, उसे इस संसार में कहीं भय नहीं होता। वह अकाल मृत्यु के वश में नहीं होता और मरने पर मोक्ष पाता है।
+
+---
+ज्ञात्वा प्रारभ्य कुर्वीत न कुर्वाणो विनश्यति।
+ततो ज्ञात्वैव सम्पन्नमिदं प्रारभ्यते बुधैः॥
+~ Jnatva prarabhya kurvita na kurvano vinashyati,
+~ Tato jnatvaiva sampannamidam prarabhyate budhaih.
+= One should know this before beginning the recitation; one who recites without knowing it comes to ruin. So the wise begin it only after knowing it fully.
++ इसे जानकर ही पाठ आरम्भ करना चाहिए; बिना जाने पाठ करने वाला नष्ट हो जाता है। इसलिए बुद्धिमान लोग इसे पूरी तरह जानकर ही इसका पाठ आरम्भ करते हैं।
+
+---
+सौभाग्यादि च यत्किञ्चिद् दृश्यते ललनाजने।
+तत्सर्वं तत्प्रसादेन तेन जाप्यमिदं शुभम्॥
+~ Saubhagyadi cha yatkinchid drishyate lalanajane,
+~ Tatsarvam tatprasadena tena japyamidam shubham.
+= Whatever good fortune and the like is seen among women, all of it is by her grace; so this auspicious hymn should be recited.
++ स्त्रियों में जो कुछ भी सौभाग्य आदि दिखाई देता है, वह सब देवी की कृपा से ही है; इसलिए इस कल्याणकारी स्तोत्र का पाठ करना चाहिए।
+
+---
+शनैस्तु जप्यमानेऽस्मिन् स्तोत्रे सम्पत्तिरुच्चकैः।
+भवत्येव समग्रापि ततः प्रारभ्यमेव तत्॥
+~ Shanaistu japyamane’smin stotre sampattiruchchakaih,
+~ Bhavatyeva samagrapi tatah prarabhyameva tat.
+= When this hymn is recited slowly, great and complete prosperity surely comes; therefore it should certainly be undertaken.
++ इस स्तोत्र का धीरे-धीरे पाठ करने से भी बड़ी और पूर्ण सम्पत्ति प्राप्त होती ही है; इसलिए इसका पाठ अवश्य आरम्भ करना चाहिए।
+
+---
+ऐश्वर्यं यत्प्रसादेन सौभाग्यारोग्यसम्पदः।
+शत्रुहानिः परो मोक्षः स्तूयते सा न किं जनैः॥
+~ Aishvaryam yatprasadena saubhagyarogyasampadah,
+~ Shatruhanih paro mokshah stuyate sa na kim janaih.
+= She by whose grace come power, good fortune, health and wealth, the defeat of enemies and the highest liberation: why would people not praise her?
++ जिनकी कृपा से ऐश्वर्य, सौभाग्य, आरोग्य, सम्पत्ति, शत्रुओं का नाश और परम मोक्ष प्राप्त होता है, उन देवी की स्तुति लोग क्यों न करें?

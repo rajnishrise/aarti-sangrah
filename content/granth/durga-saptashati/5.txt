@@ -1,8 +1,73 @@
 chapter: 5
-from: 8
-to: 82
-excerpt: Verses 8 to 82, the gods’ hymn to the Goddess who dwells in every being (Aparajita Stuti). The rest of the chapter is still to be entered; its story is in the summary on the chapter list.
-intro: Shumbh and Nishumbh have taken the three worlds. Remembering the Goddess’s promise, the gods go to the Himalaya and praise her as Vishnumaya. Each “या देवी” verse is said with “नमस्तस्यै” three times, so the Gita Press edition gives it three numbers.
+intro: The last episode (uttara charitra), whose goddess is Mahasaraswati, begins here and runs to chapter 13. Shumbh and Nishumbh have taken the three worlds. Remembering the Goddess’s promise, the gods go to the Himalaya and praise her as Vishnumaya. Each “या देवी” verse is said with “नमस्तस्यै” three times, so the Gita Press edition gives it three numbers. Then Ambika comes forth from Parvati, and Shumbh sends a messenger to ask for her hand. In the Gita Press edition verse 1 carries the seed syllables ॐ क्लीं; they are left out here.
+
+
+--- विनियोग
+ॐ अस्य श्रीउत्तरचरित्रस्य रुद्र ऋषिः, महासरस्वती देवता, अनुष्टुप् छन्दः, भीमा शक्तिः, भ्रामरी बीजम्, सूर्यतत्त्वम्, सामवेदः स्वरूपम्, महासरस्वतीप्रीत्यर्थे उत्तरचरित्रपाठे विनियोगः।
+~ Om asya shriuttaracharitrasya rudra rishih, mahasarasvati devata, anushtup chhandah, bhima shaktih, bhramari bijam, suryatattvam, samavedah svarupam, mahasarasvatiprityarthe uttaracharitrapathe viniyogah.
+= Dedication (viniyoga), said before the last episode: its seer is Rudra, its goddess Mahasaraswati, its metre Anushtup, its power Bhima, its seed Bhramari, its element the sun, its form the Samaveda. It is recited to please Mahasaraswati.
++ विनियोग: इस उत्तर चरित्र के ऋषि रुद्र, देवता महासरस्वती, छन्द अनुष्टुप्, शक्ति भीमा, बीज भ्रामरी, तत्त्व सूर्य और स्वरूप सामवेद है। महासरस्वती की प्रसन्नता के लिए उत्तर चरित्र के पाठ में इसका विनियोग किया जाता है।
+
+--- ध्यान
+ॐ घण्टाशूलहलानि शङ्खमुसले चक्रं धनुः सायकं
+हस्ताब्जैर्दधतीं घनान्तविलसच्छीतांशुतुल्यप्रभाम्।
+गौरीदेहसमुद्भवां त्रिजगतामाधारभूतां महा-
+पूर्वामत्र सरस्वतीमनुभजे शुम्भादिदैत्यार्दिनीम्॥
+~ Om ghantashulahalani shankhamusale chakram dhanuh sayakam,
+~ Hastabjairdadhatim ghanantavilasachchhitamshutulyaprabham,
+~ Gauridehasamudbhavam trijagatamadharabhutam maha-,
+~ Purvamatra sarasvatimanubhaje shumbhadidaityardinim.
+= Meditation: I worship Mahasaraswati, who holds in her lotus hands a bell, a trident, a plough, a conch, a pestle, a discus, a bow and an arrow; whose radiance is like the moon shining in an autumn sky after the clouds have gone; who came forth from the body of Gauri; who is the support of the three worlds, and who destroyed Shumbh and the other demons.
++ ध्यान: जो अपने कर-कमलों में घण्टा, शूल, हल, शंख, मूसल, चक्र, धनुष और बाण धारण करती हैं, शरद ऋतु के शोभासम्पन्न चन्द्रमा के समान जिनकी मनोहर कान्ति है, जो तीनों लोकों की आधारभूता और शुम्भ आदि दैत्यों का नाश करने वाली हैं तथा गौरी के शरीर से जिनका प्राकट्य हुआ है, उन महासरस्वती देवी का मैं निरन्तर भजन करता हूँ।
+
+---
+> ऋषिरुवाच | The sage said
+पुरा शुम्भनिशुम्भाभ्यामसुराभ्यां शचीपतेः।
+त्रैलोक्यं यज्ञभागाश्च हृता मदबलाश्रयात्॥
+~ Pura shumbhanishumbhabhyamasurabhyam shachipateh,
+~ Trailokyam yajnabhagashcha hrita madabalashrayat.
+= Long ago the demons Shumbh and Nishumbh, relying on their pride and strength, took from Indra, husband of Shachi, the three worlds and the gods’ shares of the sacrifice.
++ पूर्वकाल में शुम्भ और निशुम्भ नामक असुरों ने अपने बल के घमंड में आकर शचीपति इन्द्र के हाथ से तीनों लोकों का राज्य और यज्ञभाग छीन लिए।
+
+---
+तावेव सूर्यतां तद्वदधिकारं तथैन्दवम्।
+कौबेरमथ याम्यं च चक्राते वरुणस्य च॥
+~ Taveva suryatam tadvadadhikaram tathaindavam,
+~ Kauberamatha yamyam cha chakrate varunasya cha.
+= The two of them took over the office of the Sun, and likewise the Moon’s, Kubera’s, Yama’s and Varuna’s.
++ वे ही दोनों सूर्य, चन्द्रमा, कुबेर, यम और वरुण के अधिकार का भी उपयोग करने लगे।
+
+---
+तावेव पवनर्द्धिं च चक्रतुर्वह्निकर्म च।
+ततो देवा विनिर्धूता भ्रष्टराज्याः पराजिताः॥
+~ Taveva pavanarddhim cha chakraturvahnikarma cha,
+~ Tato deva vinirdhuta bhrashtarajyah parajitah.
+= They took over the Wind’s power and the work of Fire. Then the gods, cast out, defeated and robbed of their realms,
++ वायु और अग्नि का कार्य भी वे ही करने लगे। उन दोनों ने सब देवताओं को अपमानित, राज्यभ्रष्ट और पराजित करके
+
+---
+हृताधिकारास्त्रिदशास्ताभ्यां सर्वे निराकृताः।
+महासुराभ्यां तां देवीं संस्मरन्त्यपराजिताम्॥
+~ Hritadhikarastridashastabhyam sarve nirakritah,
+~ Mahasurabhyam tam devim samsmarantyaparajitam.
+= stripped of their offices and driven out by those two great demons, remembered the Goddess, the unconquered one.
++ अधिकारहीन करके स्वर्ग से निकाल दिया। उन दोनों महान असुरों से तिरस्कृत देवताओं ने अपराजिता देवी का स्मरण किया
+
+---
+तयास्माकं वरो दत्तो यथाऽऽपत्सु स्मृताखिलाः।
+भवतां नाशयिष्यामि तत्क्षणात्परमापदः॥
+~ Tayasmakam varo datto yatha’’patsu smritakhilah,
+~ Bhavatam nashayishyami tatkshanatparamapadah.
+= “She gave us a boon: ‘Whenever you remember me in danger, at that very moment I will destroy all your worst troubles.’”
++ और सोचा, “जगदम्बा ने हमें वर दिया था कि आपत्ति काल में स्मरण करने पर मैं तत्काल तुम्हारी सब बड़ी-बड़ी आपत्तियों का नाश कर दूँगी।”
+
+---
+इति कृत्वा मतिं देवा हिमवन्तं नगेश्वरम्।
+जग्मुस्तत्र ततो देवीं विष्णुमायां प्रतुष्टुवुः॥
+~ Iti kritva matim deva himavantam nageshvaram,
+~ Jagmustatra tato devim vishnumayam pratushtuvuh.
+= With this in mind the gods went to the Himalaya, king of mountains, and there they praised the Goddess, Vishnumaya.
++ यह सोचकर देवता गिरिराज हिमालय पर गए और वहाँ भगवती विष्णुमाया की स्तुति करने लगे।
 
 ---
 > देवा ऊचुः | The gods said
@@ -244,3 +309,330 @@ intro: Shumbh and Nishumbh have taken the three worlds. Remembering the Goddess�
 ~ Ya cha smrita tatkshanameva hanti nah sarvapado bhaktivinamramurtibhih.
 = She whom we gods, tormented now by arrogant demons, bow to as our ruler; she who, when we remember her with bodies bowed in devotion, at that very moment destroys all our troubles.
 + उद्दण्ड दैत्यों से सताए हुए हम देवता इस समय जिन ईश्वरी को नमस्कार करते हैं, और भक्ति से झुककर स्मरण करने पर जो उसी क्षण हमारी सब विपत्तियों का नाश कर देती हैं (वे हमारा कल्याण करें)।
+
+---
+> ऋषिरुवाच | The sage said
+एवं स्तवादियुक्तानां देवानां तत्र पार्वती।
+स्नातुमभ्याययौ तोये जाह्नव्या नृपनन्दन॥
+~ Evam stavadiyuktanam devanam tatra parvati,
+~ Snatumabhyayayau toye jahnavya nripanandana.
+= O prince, while the gods were busy with these hymns and other worship, Parvati came there to bathe in the waters of the Ganga.
++ राजन्, जब देवता इस प्रकार स्तुति आदि कर रहे थे, उस समय पार्वती देवी गंगा जी के जल में स्नान करने के लिए वहाँ आईं।
+
+---
+साब्रवीत्तान् सुरान् सुभ्रूर्भवद्भिः स्तूयतेऽत्र का।
+शरीरकोशतश्चास्याः समुद्भूताब्रवीच्छिवा॥
+~ Sabravittan suran subhrurbhavadbhih stuyate’tra ka,
+~ Sharirakoshatashchasyah samudbhutabravichchhiva.
+= The fair-browed one asked the gods, “Whom are you praising here?” Then from the sheath of her body an auspicious Goddess came forth and answered:
++ उन सुन्दर भौंहों वाली भगवती ने देवताओं से पूछा, “आप लोग यहाँ किसकी स्तुति करते हैं?” तब उन्हीं के शरीरकोश से प्रकट हुई शिवा देवी बोलीं,
+
+---
+स्तोत्रं ममैतत् क्रियते शुम्भदैत्यनिराकृतैः।
+देवैः समेतैः समरे निशुम्भेन पराजितैः॥
+~ Stotram mamaitat kriyate shumbhadaityanirakritaih,
+~ Devaih sametaih samare nishumbhena parajitaih.
+= “This hymn is to me, sung by the gods gathered here, driven out by the demon Shumbh and beaten in battle by Nishumbh.”
++ “शुम्भ दैत्य से तिरस्कृत और युद्ध में निशुम्भ से पराजित हो यहाँ एकत्र हुए ये समस्त देवता यह मेरी ही स्तुति कर रहे हैं।”
+
+---
+शरीरकोशाद्यत्तस्याः पार्वत्या निःसृताम्बिका।
+कौशिकीति समस्तेषु ततो लोकेषु गीयते॥
+~ Sharirakoshadyattasyah parvatya nihsritambika,
+~ Kaushikiti samasteshu tato lokeshu giyate.
+= Because Ambika came out of the sheath (kosha) of Parvati’s body, she is sung of in all the worlds as Kaushiki.
++ पार्वती जी के शरीरकोश से अम्बिका का प्रादुर्भाव हुआ था, इसलिए वे समस्त लोकों में कौशिकी कहलाती हैं।
+
+---
+तस्यां विनिर्गतायां तु कृष्णाभूत्सापि पार्वती।
+कालिकेति समाख्याता हिमाचलकृताश्रया॥
+~ Tasyam vinirgatayam tu krishnabhutsapi parvati,
+~ Kaliketi samakhyata himachalakritashraya.
+= When she had come out, Parvati herself became dark, and she is called Kalika, who dwells in the Himalaya.
++ कौशिकी के प्रकट होने के बाद पार्वती देवी का शरीर काले रंग का हो गया, अतः वे हिमालय पर रहने वाली कालिका देवी के नाम से विख्यात हुईं।
+
+---
+ततोऽम्बिकां परं रूपं बिभ्राणां सुमनोहरम्।
+ददर्श चण्डो मुण्डश्च भृत्यौ शुम्भनिशुम्भयोः॥
+~ Tato’mbikam param rupam bibhranam sumanoharam,
+~ Dadarsha chando mundashcha bhrityau shumbhanishumbhayoh.
+= Then Chand and Mund, servants of Shumbh and Nishumbh, saw Ambika in her supremely beautiful form.
++ तदनन्तर शुम्भ-निशुम्भ के भृत्य चण्ड-मुण्ड वहाँ आए और उन्होंने परम मनोहर रूप धारण करने वाली अम्बिका देवी को देखा।
+
+---
+ताभ्यां शुम्भाय चाख्याता अतीव सुमनोहरा।
+काप्यास्ते स्त्री महाराज भासयन्ती हिमाचलम्॥
+~ Tabhyam shumbhaya chakhyata ativa sumanohara,
+~ Kapyaste stri maharaja bhasayanti himachalam.
+= They told Shumbh of her, most lovely: “Great king, there is a woman lighting up the Himalaya.
++ फिर वे शुम्भ के पास जाकर बोले, “महाराज, एक अत्यन्त मनोहर स्त्री है, जो अपनी दिव्य कान्ति से हिमालय को प्रकाशित कर रही है।
+
+---
+नैव तादृक् क्वचिद्रूपं दृष्टं केनचिदुत्तमम्।
+ज्ञायतां काप्यसौ देवी गृह्यतां चासुरेश्वर॥
+~ Naiva tadrik kvachidrupam drishtam kenachiduttamam,
+~ Jnayatam kapyasau devi grihyatam chasureshvara.
+= No one has ever seen such surpassing beauty anywhere. Lord of demons, find out who this goddess is, and take her.
++ वैसा उत्तम रूप कहीं किसी ने भी नहीं देखा होगा। असुरेश्वर, पता लगाइए, वह देवी कौन है और उसे ले लीजिए।
+
+---
+स्त्रीरत्नमतिचार्वङ्गी द्योतयन्ती दिशस्त्विषा।
+सा तु तिष्ठति दैत्येन्द्र तां भवान् द्रष्टुमर्हति॥
+~ Striratnamaticharvangi dyotayanti dishastvisha,
+~ Sa tu tishthati daityendra tam bhavan drashtumarhati.
+= Jewel among women, lovely in every limb, lighting the quarters with her radiance, there she stands, king of demons. You should see her.
++ स्त्रियों में तो वह रत्न है, उसका प्रत्येक अंग बहुत ही सुन्दर है तथा वह अपने श्रीअंगों की प्रभा से सम्पूर्ण दिशाओं में प्रकाश फैला रही है। दैत्यराज, अभी वह हिमालय पर ही मौजूद है, आपको उसे देखना चाहिए।
+
+---
+यानि रत्नानि मणयो गजाश्वादीनि वै प्रभो।
+त्रैलोक्ये तु समस्तानि साम्प्रतं भान्ति ते गृहे॥
+~ Yani ratnani manayo gajashvadini vai prabho,
+~ Trailokye tu samastani sampratam bhanti te grihe.
+= Lord, all the treasures of the three worlds, the gems, the elephants, the horses and the rest, now shine in your house.
++ प्रभो, तीनों लोकों में मणि, हाथी और घोड़े आदि जितने भी रत्न हैं, वे सब इस समय आपके घर में शोभा पाते हैं।
+
+---
+ऐरावतः समानीतो गजरत्नं पुरन्दरात्।
+पारिजाततरुश्चायं तथैवोच्चैःश्रवा हयः॥
+~ Airavatah samanito gajaratnam purandarat,
+~ Parijatatarushchayam tathaivochchaihshrava hayah.
+= Airavat, the jewel among elephants, has been brought from Indra, and so have this Parijata tree and the horse Ucchaihshravas.
++ हाथियों में रत्नभूत ऐरावत, यह पारिजात का वृक्ष और यह उच्चैःश्रवा घोड़ा, यह सब आपने इन्द्र से ले लिया है।
+
+---
+विमानं हंससंयुक्तमेतत्तिष्ठति तेऽङ्गणे।
+रत्नभूतमिहानीतं यदासीद्वेधसोऽद्भुतम्॥
+~ Vimanam hamsasamyuktametattishthati te’ngane,
+~ Ratnabhutamihanitam yadasidvedhaso’dbhutam.
+= This chariot drawn by swans stands in your courtyard; that wondrous treasure once belonged to Brahma and has been brought here.
++ हंसों से जुता हुआ यह विमान भी आपके आँगन में शोभा पाता है। यह रत्नभूत अद्भुत विमान, जो पहले ब्रह्मा जी के पास था, अब आपके यहाँ लाया गया है।
+
+---
+निधिरेष महापद्मः समानीतो धनेश्वरात्।
+किञ्जल्किनीं ददौ चाब्धिर्मालामम्लानपङ्कजाम्॥
+~ Nidhiresha mahapadmah samanito dhaneshvarat,
+~ Kinjalkinim dadau chabdhirmalamamlanapankajam.
+= This treasure, Mahapadma, has been brought from Kubera, lord of wealth, and the ocean gave you a garland of unfading lotuses, full of pollen.
++ यह महापद्म नामक निधि आप कुबेर से छीन लाए हैं। समुद्र ने भी आपको किंजल्किनी नाम की माला भेंट की है, जो केसरों से सुशोभित है और जिसके कमल कभी कुम्हलाते नहीं।
+
+---
+छत्रं ते वारुणं गेहे काञ्चनस्रावि तिष्ठति।
+तथायं स्यन्दनवरो यः पुराऽऽसीत्प्रजापतेः॥
+~ Chhatram te varunam gehe kanchanasravi tishthati,
+~ Tathayam syandanavaro yah pura’’sitprajapateh.
+= Varuna’s umbrella, which showers gold, stands in your house, and so does this finest of chariots, which once belonged to Prajapati.
++ सुवर्ण की वर्षा करने वाला वरुण का छत्र भी आपके घर में शोभा पाता है, तथा यह श्रेष्ठ रथ, जो पहले प्रजापति का था, अब आपके ही अधिकार में है।
+
+---
+मृत्योरुत्क्रान्तिदा नाम शक्तिरीश त्वया हृता।
+पाशः सलिलराजस्य भ्रातुस्तव परिग्रहे॥
+~ Mrityorutkrantida nama shaktirisha tvaya hrita,
+~ Pashah salilarajasya bhratustava parigrahe.
+= Lord, you have taken from Death his spear called Utkrantida, and the noose of the king of the waters is held by your brother.
++ देव, मृत्यु की उत्क्रान्तिदा नामक शक्ति भी आपने छीन ली है तथा जल के राजा वरुण का पाश आपके भाई के अधिकार में है।
+
+---
+निशुम्भस्याब्धिजाताश्च समस्ता रत्नजातयः।
+वह्निरपि ददौ तुभ्यमग्निशौचे च वाससी॥
+~ Nishumbhasyabdhijatashcha samasta ratnajatayah,
+~ Vahnirapi dadau tubhyamagnishauche cha vasasi.
+= Every kind of treasure born of the ocean belongs to Nishumbh, and Fire himself gave you two garments made pure by fire.
++ समुद्र में उत्पन्न होने वाले सब प्रकार के रत्न निशुम्भ के पास हैं। अग्नि ने भी स्वतः शुद्ध किए हुए दो वस्त्र आपकी सेवा में अर्पित किए हैं।
+
+---
+एवं दैत्येन्द्र रत्नानि समस्तान्याहृतानि ते।
+स्त्रीरत्नमेषा कल्याणी त्वया कस्मान्न गृह्यते॥
+~ Evam daityendra ratnani samastanyahritani te,
+~ Striratnamesha kalyani tvaya kasmanna grihyate.
+= So, king of demons, every treasure has been brought to you. Why do you not take this lovely woman, the jewel among women?”
++ दैत्यराज, इस प्रकार सभी रत्न आपने एकत्र कर लिए हैं। फिर जो यह स्त्रियों में रत्नरूप कल्याणमयी देवी है, इसे आप क्यों नहीं अपने अधिकार में कर लेते?”
+
+---
+> ऋषिरुवाच | The sage said
+निशम्येति वचः शुम्भः स तदा चण्डमुण्डयोः।
+प्रेषयामास सुग्रीवं दूतं देव्या महासुरम्॥
+~ Nishamyeti vachah shumbhah sa tada chandamundayoh,
+~ Preshayamasa sugrivam dutam devya mahasuram.
+= Hearing these words of Chand and Mund, Shumbh sent the great demon Sugriva as his messenger to the Goddess,
++ चण्ड-मुण्ड का यह वचन सुनकर शुम्भ ने महादैत्य सुग्रीव को दूत बनाकर देवी के पास भेजा
+
+---
+इति चेति च वक्तव्या सा गत्वा वचनान्मम।
+यथा चाभ्येति सम्प्रीत्या तथा कार्यं त्वया लघु॥
+~ Iti cheti cha vaktavya sa gatva vachananmama,
+~ Yatha chabhyeti sampritya tatha karyam tvaya laghu.
+= saying: “Go and tell her this and this from me, and quickly do whatever will make her come gladly.”
++ और कहा, “तुम मेरी आज्ञा से उसके सामने ये-ये बातें कहना और ऐसा उपाय करना, जिससे प्रसन्न होकर वह शीघ्र ही यहाँ आ जाए।”
+
+---
+स तत्र गत्वा यत्रास्ते शैलोद्देशेऽतिशोभने।
+सा देवी तां ततः प्राह श्लक्ष्णं मधुरया गिरा॥
+~ Sa tatra gatva yatraste shailoddeshe’tishobhane,
+~ Sa devi tam tatah praha shlakshnam madhuraya gira.
+= He went to that most beautiful spot on the mountain where the Goddess was, and spoke to her in smooth, sweet words.
++ वह दूत पर्वत के अत्यन्त रमणीय प्रदेश में, जहाँ देवी मौजूद थीं, गया और मधुर वाणी में कोमल वचन बोला।
+
+---
+> दूत उवाच | The messenger said
+देवि दैत्येश्वरः शुम्भस्त्रैलोक्ये परमेश्वरः।
+दूतोऽहं प्रेषितस्तेन त्वत्सकाशमिहागतः॥
+~ Devi daityeshvarah shumbhastrailokye parameshvarah,
+~ Duto’ham preshitastena tvatsakashamihagatah.
+= Goddess, Shumbh, lord of the demons, is supreme ruler of the three worlds. I am his messenger, sent by him, and have come here to you.
++ देवी, दैत्यराज शुम्भ इस समय तीनों लोकों के परमेश्वर हैं। मैं उनका दूत हूँ और यहाँ तुम्हारे पास उन्हीं का भेजा हुआ आया हूँ।
+
+---
+अव्याहताज्ञः सर्वासु यः सदा देवयोनिषु।
+निर्जिताखिलदैत्यारिः स यदाह शृणुष्व तत्॥
+~ Avyahatajnah sarvasu yah sada devayonishu,
+~ Nirjitakhiladaityarih sa yadaha shrinushva tat.
+= His command is never disobeyed among any of the divine races, and he has conquered all the enemies of the demons. Hear what he says:
++ उनकी आज्ञा सदा सब देवता एक स्वर से मानते हैं। कोई उसका उल्लंघन नहीं कर सकता। वे सम्पूर्ण देवताओं को परास्त कर चुके हैं। उन्होंने तुम्हारे लिए जो सन्देश दिया है, उसे सुनो।
+
+---
+मम त्रैलोक्यमखिलं मम देवा वशानुगाः।
+यज्ञभागानहं सर्वानुपाश्नामि पृथक् पृथक्॥
+~ Mama trailokyamakhilam mama deva vashanugah,
+~ Yajnabhaganaham sarvanupashnami prithak prithak.
+= “The whole of the three worlds is mine, and the gods obey my will. I enjoy every share of the sacrifice, each one apart.
++ “सम्पूर्ण त्रिलोकी मेरे अधिकार में है। देवता भी मेरी आज्ञा के अधीन चलते हैं। सम्पूर्ण यज्ञों के भागों को मैं ही पृथक्-पृथक् भोगता हूँ।
+
+---
+त्रैलोक्ये वररत्नानि मम वश्यान्यशेषतः।
+तथैव गजरत्नं च हृत्वा देवेन्द्रवाहनम्॥
+~ Trailokye vararatnani mama vashyanyasheshatah,
+~ Tathaiva gajaratnam cha hritva devendravahanam.
+= All the finest treasures of the three worlds are wholly in my power, and so is the jewel among elephants, the mount of Indra, which I took.
++ तीनों लोकों में जितने श्रेष्ठ रत्न हैं, वे सब मेरे अधिकार में हैं। देवराज इन्द्र का वाहन ऐरावत, जो हाथियों में रत्न के समान है, मैंने छीन लिया है।
+
+---
+क्षीरोदमथनोद्भूतमश्वरत्नं ममामरैः।
+उच्चैःश्रवससंज्ञं तत्प्रणिपत्य समर्पितम्॥
+~ Kshirodamathanodbhutamashvaratnam mamamaraih,
+~ Uchchaihshravasasamjnam tatpranipatya samarpitam.
+= The jewel among horses, called Ucchaihshravas, born of the churning of the ocean of milk, the gods bowed down and gave to me.
++ क्षीरसागर का मन्थन करने से जो अश्वरत्न उच्चैःश्रवा प्रकट हुआ था, उसे देवताओं ने मेरे पैरों पर पड़कर समर्पित किया है।
+
+---
+यानि चान्यानि देवेषु गन्धर्वेषूरगेषु च।
+रत्नभूतानि भूतानि तानि मय्येव शोभने॥
+~ Yani chanyani deveshu gandharveshurageshu cha,
+~ Ratnabhutani bhutani tani mayyeva shobhane.
+= Fair one, whatever other beings were treasures among the gods, the Gandharvas and the serpents are now with me.
++ सुन्दरी, देवताओं, गन्धर्वों और नागों के पास जो-जो रत्नभूत पदार्थ थे, वे सब मेरे ही पास आ गए हैं।
+
+---
+स्त्रीरत्नभूतां त्वां देवि लोके मन्यामहे वयम्।
+सा त्वमस्मानुपागच्छ यतो रत्नभुजो वयम्॥
+~ Striratnabhutam tvam devi loke manyamahe vayam,
+~ Sa tvamasmanupagachchha yato ratnabhujo vayam.
+= Goddess, we think of you as the jewel among women in the world. So come to us, for we are the ones who enjoy all jewels.
++ देवी, हम लोग तुम्हें संसार की स्त्रियों में रत्न मानते हैं, अतः तुम हमारे पास आ जाओ, क्योंकि रत्नों का उपभोग करने वाले हम ही हैं।
+
+---
+मां वा ममानुजं वापि निशुम्भमुरुविक्रमम्।
+भज त्वं चञ्चलापाङ्गि रत्नभूतासि वै यतः॥
+~ Mam va mamanujam vapi nishumbhamuruvikramam,
+~ Bhaja tvam chanchalapangi ratnabhutasi vai yatah.
+= You of the darting glance, take either me or my younger brother Nishumbh of great valour, since you are indeed a jewel.
++ चंचल कटाक्षों वाली सुन्दरी, तुम मेरी या मेरे छोटे भाई महापराक्रमी निशुम्भ की सेवा में आ जाओ, क्योंकि तुम रत्नस्वरूपा हो।
+
+---
+परमैश्वर्यमतुलं प्राप्स्यसे मत्परिग्रहात्।
+एतद् बुद्ध्या समालोच्य मत्परिग्रहतां व्रज॥
+~ Paramaishvaryamatulam prapsyase matparigrahat,
+~ Etad buddhya samalochya matparigrahatam vraja.
+= By becoming mine you will gain matchless supreme power. Think this over with your understanding, and become my wife.”
++ मेरा वरण करने से तुम्हें तुलनारहित महान ऐश्वर्य की प्राप्ति होगी। अपनी बुद्धि से यह विचारकर तुम मेरी पत्नी बन जाओ।”
+
+---
+> ऋषिरुवाच | The sage said
+इत्युक्ता सा तदा देवी गम्भीरान्तःस्मिता जगौ।
+दुर्गा भगवती भद्रा ययेदं धार्यते जगत्॥
+~ Ityukta sa tada devi gambhirantahsmita jagau,
+~ Durga bhagavati bhadra yayedam dharyate jagat.
+= Spoken to in this way, the Goddess smiled inwardly, deeply, and answered: Durga, the blessed, the auspicious one, by whom this world is upheld.
++ दूत के यों कहने पर कल्याणमयी भगवती दुर्गा देवी, जो इस जगत को धारण करती हैं, मन-ही-मन गम्भीर भाव से मुस्कुराईं और इस प्रकार बोलीं।
+
+---
+> देव्युवाच | The Goddess said
+सत्यमुक्तं त्वया नात्र मिथ्या किञ्चित्त्वयोदितम्।
+त्रैलोक्याधिपतिः शुम्भो निशुम्भश्चापि तादृशः॥
+~ Satyamuktam tvaya natra mithya kinchittvayoditam,
+~ Trailokyadhipatih shumbho nishumbhashchapi tadrishah.
+= You have spoken the truth; nothing you have said is false. Shumbh is the lord of the three worlds, and Nishumbh is just as mighty.
++ दूत, तुमने सत्य कहा है, इसमें तनिक भी मिथ्या नहीं है। शुम्भ तीनों लोकों का स्वामी है और निशुम्भ भी उसी के समान पराक्रमी है।
+
+---
+किं त्वत्र यत्प्रतिज्ञातं मिथ्या तत्क्रियते कथम्।
+श्रूयतामल्पबुद्धित्वात्प्रतिज्ञा या कृता पुरा॥
+~ Kim tvatra yatpratijnatam mithya tatkriyate katham,
+~ Shruyatamalpabuddhitvatpratijna ya krita pura.
+= But how can I make false the vow I have taken in this matter? Hear the vow I once made, out of my little understanding:
++ किन्तु इस विषय में मैंने जो प्रतिज्ञा कर ली है, उसे मिथ्या कैसे करूँ? मैंने अपनी अल्पबुद्धि के कारण पहले से जो प्रतिज्ञा कर रखी है, उसे सुनो।
+
+---
+यो मां जयति सङ्ग्रामे यो मे दर्पं व्यपोहति।
+यो मे प्रतिबलो लोके स मे भर्ता भविष्यति॥
+~ Yo mam jayati sangrame yo me darpam vyapohati,
+~ Yo me pratibalo loke sa me bharta bhavishyati.
+= He who conquers me in battle, who takes away my pride, who is my equal in strength in the world, he will be my husband.
++ जो मुझे संग्राम में जीत लेगा, जो मेरे अभिमान को चूर्ण कर देगा तथा संसार में जो मेरे समान बलवान होगा, वही मेरा स्वामी होगा।
+
+---
+तदागच्छतु शुम्भोऽत्र निशुम्भो वा महासुरः।
+मां जित्वा किं चिरेणात्र पाणिं गृह्णातु मे लघु॥
+~ Tadagachchhatu shumbho’tra nishumbho va mahasurah,
+~ Mam jitva kim chirenatra panim grihnatu me laghu.
+= So let Shumbh come here, or the great demon Nishumbh. Let him conquer me and quickly take my hand. Why delay?
++ इसलिए शुम्भ अथवा महादैत्य निशुम्भ स्वयं ही यहाँ पधारें और मुझे जीतकर शीघ्र ही मेरा पाणिग्रहण कर लें, इसमें विलम्ब की क्या आवश्यकता है?
+
+---
+> दूत उवाच | The messenger said
+अवलिप्तासि मैवं त्वं देवि ब्रूहि ममाग्रतः।
+त्रैलोक्ये कः पुमांस्तिष्ठेदग्रे शुम्भनिशुम्भयोः॥
+~ Avaliptasi maivam tvam devi bruhi mamagratah,
+~ Trailokye kah pumamstishthedagre shumbhanishumbhayoh.
+= Goddess, you are proud. Do not speak like this before me. What man in the three worlds could stand before Shumbh and Nishumbh?
++ देवी, तुम घमंड में भरी हो, मेरे सामने ऐसी बातें न करो। तीनों लोकों में कौन ऐसा पुरुष है, जो शुम्भ-निशुम्भ के सामने खड़ा हो सके?
+
+---
+अन्येषामपि दैत्यानां सर्वे देवा न वै युधि।
+तिष्ठन्ति सम्मुखे देवि किं पुनः स्त्री त्वमेकिका॥
+~ Anyeshamapi daityanam sarve deva na vai yudhi,
+~ Tishthanti sammukhe devi kim punah stri tvamekika.
+= Goddess, not even all the gods together can stand before the other demons in battle. How then can you, a woman alone?
++ देवी, अन्य दैत्यों के सामने भी सारे देवता युद्ध में नहीं ठहर सकते, फिर तुम अकेली स्त्री होकर कैसे ठहर सकती हो?
+
+---
+इन्द्राद्याः सकला देवास्तस्थुर्येषां न संयुगे।
+शुम्भादीनां कथं तेषां स्त्री प्रयास्यसि सम्मुखम्॥
+~ Indradyah sakala devastasthuryesham na samyuge,
+~ Shumbhadinam katham tesham stri prayasyasi sammukham.
+= Indra and all the gods could not stand against Shumbh and the others in battle; how will you, a woman, face them?
++ जिन शुम्भ आदि दैत्यों के सामने इन्द्र आदि सब देवता भी युद्ध में खड़े नहीं हुए, उनके सामने तुम स्त्री होकर कैसे जाओगी?
+
+---
+सा त्वं गच्छ मयैवोक्ता पार्श्वं शुम्भनिशुम्भयोः।
+केशाकर्षणनिर्धूतगौरवा मा गमिष्यसि॥
+~ Sa tvam gachchha mayaivokta parshvam shumbhanishumbhayoh,
+~ Keshakarshananirdhutagaurava ma gamishyasi.
+= So go to Shumbh and Nishumbh at my word, and do not go with your dignity lost, dragged there by your hair.
++ इसलिए तुम मेरे ही कहने से शुम्भ-निशुम्भ के पास चली चलो। ऐसा करने से तुम्हारे गौरव की रक्षा होगी, अन्यथा जब वे केश पकड़कर घसीटेंगे, तब तुम्हें अपनी प्रतिष्ठा खोकर जाना पड़ेगा।
+
+---
+> देव्युवाच | The Goddess said
+एवमेतद् बली शुम्भो निशुम्भश्चातिवीर्यवान्।
+किं करोमि प्रतिज्ञा मे यदनालोचिता पुरा॥
+~ Evametad bali shumbho nishumbhashchativiryavan,
+~ Kim karomi pratijna me yadanalochita pura.
+= It is so: Shumbh is strong and Nishumbh is very valiant. But what can I do? I made my vow long ago without thinking.
++ तुम्हारा कहना ठीक है, शुम्भ बलवान हैं और निशुम्भ भी बड़े पराक्रमी हैं, किन्तु क्या करूँ? मैंने पहले बिना सोचे-समझे प्रतिज्ञा कर ली थी।
+
+---
+स त्वं गच्छ मयोक्तं ते यदेतत्सर्वमादृतः।
+तदाचक्ष्वासुरेन्द्राय स च युक्तं करोतु तत्॥
+~ Sa tvam gachchha mayoktam te yadetatsarvamadritah,
+~ Tadachakshvasurendraya sa cha yuktam karotu tat.
+= So go, and tell the lord of demons, carefully, all that I have said to you; then let him do whatever is fitting.
++ अतः अब तुम जाओ, मैंने तुमसे जो कुछ कहा है, वह सब दैत्यराज से आदरपूर्वक कहना। फिर वे जो उचित जान पड़े, करें।

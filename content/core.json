@@ -813,6 +813,10 @@
       "why": "Her meditation verse"
      },
      {
+      "id": "devi-kavach",
+      "why": "Names the nine Durgas; read before the Saptashati"
+     },
+     {
       "id": "durga-chalisa",
       "why": "Recited every day of Navratri"
      },
@@ -841,6 +845,10 @@
       "id": "navdurga-dhyan",
       "v": 2,
       "why": "Her meditation verse"
+     },
+     {
+      "id": "argala-stotram",
+      "why": "Rupam dehi, jayam dehi"
      },
      {
       "id": "bhavani-ashtakam",
@@ -999,6 +1007,10 @@
      {
       "id": "durga-chalisa",
       "why": "The chalisa, which sings of her terrible Kalika form"
+     },
+     {
+      "id": "mangal-ki-seva",
+      "why": "The aarti of Maa Kali"
      },
      {
       "id": "durge-durghat-bhari",

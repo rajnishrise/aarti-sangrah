@@ -1,0 +1,475 @@
+id: devi-kavach
+kind: stotra
+form: Kavach
+deity: durga
+lang: sa
+language: Sanskrit
+region: All of India
+title: देव्याः कवचम् | Devi Kavach | The Goddess’s armour of protection
+author: From the Varaha Purana, as printed before the Durga Saptashati | traditional
+occasions: navratri, daily
+when: Recited before the Durga Saptashati, together with the Argala and the Keelak, and on its own each day of Navratri for protection. The Goddess is asked to guard each direction and each part of the body in turn.
+notes: Brahma tells the sage Markandeya the names of the nine Durgas and of the Mothers, and how each one guards the body. Verse numbers follow the Gita Press edition. Checked verse by verse against one online edition, not yet proofread against a printed copy. Some editions read शाङ्करी or शांकरी in verse 23 and रथमारूढा with a short or long u in verse 13.
+keywords: durga kavach, devi kavacham, chandi kavach, kavacham, durga kavacham, saptashati kavach
+
+--- विनियोग
+ॐ अस्य श्रीचण्डीकवचस्य ब्रह्मा ऋषिः, अनुष्टुप् छन्दः,
+चामुण्डा देवता, अङ्गन्यासोक्तमातरो बीजम्, दिग्बन्धदेवतास्तत्त्वम्,
+श्रीजगदम्बाप्रीत्यर्थे सप्तशतीपाठाङ्गत्वेन जपे विनियोगः।
+ॐ नमश्चण्डिकायै॥
+~ Om asya shrichandikavachasya brahma rishih, anushtup chhandah,
+~ Chamunda devata, anganyasoktamataro bijam, digbandhadevatastattvam,
+~ Shrijagadambaprityarthe saptashatipathangatvena jape viniyogah,
+~ Om namashchandikayai.
+= Dedication: Of this Chandi Kavach the seer is Brahma, the metre anushtup, the deity Chamunda; the Mothers named in the limb-placing are its seed and the guardian deities of the directions its essence. It is recited as part of the Saptashati path, to please the Mother of the world. Salutation to Chandika.
++ विनियोग: इस चण्डीकवच के ऋषि ब्रह्मा, छन्द अनुष्टुप् और देवता चामुण्डा हैं; अंगन्यास में कही गई माताएँ इसका बीज और दिशाओं की रक्षक देवियाँ इसका तत्त्व हैं। श्रीजगदम्बा की प्रसन्नता के लिए सप्तशती पाठ के अंग के रूप में इसके जप का विनियोग किया जाता है। चण्डिका को नमस्कार।
+
+---
+> मार्कण्डेय उवाच | Markandeya said
+ॐ यद्गुह्यं परमं लोके सर्वरक्षाकरं नृणाम्।
+यन्न कस्यचिदाख्यातं तन्मे ब्रूहि पितामह॥
+~ Om yadguhyam paramam loke sarvarakshakaram nrinam,
+~ Yanna kasyachidakhyatam tanme bruhi pitamaha.
+= Grandsire, tell me that supreme secret in the world which gives people every protection, and which you have told to no one.
++ हे पितामह, संसार में जो परम गोपनीय है, मनुष्यों की सब प्रकार से रक्षा करने वाला है और जिसे आपने अब तक किसी को नहीं बताया, वह मुझे बताइए।
+
+---
+> ब्रह्मोवाच | Brahma said
+अस्ति गुह्यतमं विप्र सर्वभूतोपकारकम्।
+देव्यास्तु कवचं पुण्यं तच्छृणुष्व महामुने॥
+~ Asti guhyatamam vipra sarvabhutopakarakam,
+~ Devyastu kavacham punyam tachchhrinushva mahamune.
+= There is, O learned one, a most secret thing that helps all beings: the holy armour of the Goddess. Hear it, great sage.
++ हे विप्र, ऐसा परम गोपनीय और सब प्राणियों का उपकार करने वाला साधन है देवी का पवित्र कवच। हे महामुने, उसे सुनो।
+
+---
+प्रथमं शैलपुत्री च द्वितीयं ब्रह्मचारिणी।
+तृतीयं चन्द्रघण्टेति कूष्माण्डेति चतुर्थकम्॥
+~ Prathamam shailaputri cha dvitiyam brahmacharini,
+~ Tritiyam chandraghanteti kushmandeti chaturthakam.
+= The first is Shailputri, the second Brahmacharini, the third Chandraghanta, the fourth Kushmanda;
++ पहली शैलपुत्री, दूसरी ब्रह्मचारिणी, तीसरी चन्द्रघण्टा और चौथी कूष्माण्डा हैं;
+
+---
+पञ्चमं स्कन्दमातेति षष्ठं कात्यायनीति च।
+सप्तमं कालरात्रीति महागौरीति चाष्टमम्॥
+~ Panchamam skandamateti shashtham katyayaniti cha,
+~ Saptamam kalaratriti mahagauriti chashtamam.
+= the fifth Skandamata, the sixth Katyayani, the seventh Kalaratri and the eighth Mahagauri;
++ पाँचवीं स्कन्दमाता, छठी कात्यायनी, सातवीं कालरात्रि और आठवीं महागौरी हैं;
+
+---
+नवमं सिद्धिदात्री च नवदुर्गाः प्रकीर्तिताः।
+उक्तान्येतानि नामानि ब्रह्मणैव महात्मना॥
+~ Navamam siddhidatri cha navadurgah prakirtitah,
+~ Uktanyetani namani brahmanaiva mahatmana.
+= and the ninth Siddhidatri. These are proclaimed the nine Durgas, and these names were spoken by the great-souled Brahma himself.
++ और नौवीं सिद्धिदात्री हैं। ये नवदुर्गा कही गई हैं, और ये नाम स्वयं महात्मा ब्रह्मा ने बताए हैं।
+
+---
+अग्निना दह्यमानस्तु शत्रुमध्ये गतो रणे।
+विषमे दुर्गमे चैव भयार्ताः शरणं गताः॥
+~ Agnina dahyamanastu shatrumadhye gato rane,
+~ Vishame durgame chaiva bhayartah sharanam gatah.
+= One burning in fire, one surrounded by enemies in battle, those in fear in hard and impassable places, who take refuge in the Goddess:
++ जो आग में जल रहा हो, युद्ध में शत्रुओं से घिर गया हो, या कठिन और दुर्गम स्थान में भय से पीड़ित हो, ऐसे जो लोग देवी की शरण में जाते हैं,
+
+---
+न तेषां जायते किञ्चिदशुभं रणसंकटे।
+नापदं तस्य पश्यामि शोकदुःखभयं न हि॥
+~ Na tesham jayate kinchidashubham ranasamkate,
+~ Napadam tasya pashyami shokaduhkhabhayam na hi.
+= no harm comes to them in the dangers of battle. I see no calamity for such a one, no grief, sorrow or fear.
++ उनका युद्ध के संकट में भी कोई अमंगल नहीं होता। मैं उन पर कोई विपत्ति नहीं देखता; उन्हें शोक, दुःख और भय नहीं होता।
+
+---
+यैस्तु भक्त्या स्मृता नूनं तेषां वृद्धिः प्रजायते।
+ये त्वां स्मरन्ति देवेशि रक्षसे तान्न संशयः॥
+~ Yaistu bhaktya smrita nunam tesham vriddhih prajayate,
+~ Ye tvam smaranti deveshi rakshase tanna samshayah.
+= Those who remember her with devotion surely prosper. Queen of the gods, those who remember you, you protect; of this there is no doubt.
++ जो भक्तिपूर्वक उनका स्मरण करते हैं, उनकी निश्चय ही उन्नति होती है। हे देवेश्वरी, जो आपका स्मरण करते हैं, आप निःसन्देह उनकी रक्षा करती हैं।
+
+---
+प्रेतसंस्था तु चामुण्डा वाराही महिषासना।
+ऐन्द्री गजसमारूढा वैष्णवी गरुडासना॥
+~ Pretasamstha tu chamunda varahi mahishasana,
+~ Aindri gajasamarudha vaishnavi garudasana.
+= Chamunda rides upon a corpse, Varahi sits on a buffalo, Aindri is mounted on an elephant, and Vaishnavi rides Garuda.
++ चामुण्डा प्रेत पर आरूढ़ हैं, वाराही भैंसे पर, ऐन्द्री हाथी पर और वैष्णवी गरुड़ पर विराजमान हैं।
+
+---
+माहेश्वरी वृषारूढा कौमारी शिखिवाहना।
+लक्ष्मीः पद्मासना देवी पद्महस्ता हरिप्रिया॥
+~ Maheshvari vrisharudha kaumari shikhivahana,
+~ Lakshmih padmasana devi padmahasta haripriya.
+= Maheshvari rides a bull, Kaumari a peacock; the goddess Lakshmi, beloved of Hari, sits on a lotus with a lotus in her hand.
++ माहेश्वरी बैल पर और कौमारी मोर पर सवार हैं; भगवान विष्णु की प्रिया लक्ष्मी देवी कमल पर बैठी हैं और हाथ में कमल लिए हैं।
+
+---
+श्वेतरूपधरा देवी ईश्वरी वृषवाहना।
+ब्राह्मी हंससमारूढा सर्वाभरणभूषिता॥
+~ Shvetarupadhara devi ishvari vrishavahana,
+~ Brahmi hamsasamarudha sarvabharanabhushita.
+= The goddess Ishvari, white in form, rides a bull; Brahmi, adorned with every ornament, is mounted on a swan.
++ श्वेत रूप वाली ईश्वरी देवी बैल पर सवार हैं, और सब आभूषणों से सजी ब्राह्मी हंस पर आरूढ़ हैं।
+
+---
+इत्येता मातरः सर्वाः सर्वयोगसमन्विताः।
+नानाभरणशोभाढ्या नानारत्नोपशोभिताः॥
+~ Ityeta matarah sarvah sarvayogasamanvitah,
+~ Nanabharanashobhadhya nanaratnopashobhitah.
+= All these Mothers are endowed with every yogic power, splendid with many ornaments and shining with many jewels.
++ ये सभी माताएँ सब प्रकार की योगशक्तियों से सम्पन्न हैं, अनेक आभूषणों से शोभित और अनेक रत्नों से सुशोभित हैं।
+
+---
+दृश्यन्ते रथमारूढा देव्यः क्रोधसमाकुलाः।
+शङ्खं चक्रं गदां शक्तिं हलं च मुसलायुधम्॥
+~ Drishyante rathamarudha devyah krodhasamakulah,
+~ Shankham chakram gadam shaktim halam cha musalayudham.
+= The goddesses are seen mounted on chariots, filled with wrath, bearing conch, discus, mace, spear, plough and pestle,
++ ये देवियाँ क्रोध से भरी हुई रथों पर बैठी दिखाई देती हैं। वे शंख, चक्र, गदा, शक्ति, हल और मूसल,
+
+---
+खेटकं तोमरं चैव परशुं पाशमेव च।
+कुन्तायुधं त्रिशूलं च शार्ङ्गमायुधमुत्तमम्॥
+~ Khetakam tomaram chaiva parashum pashameva cha,
+~ Kuntayudham trishulam cha sharngamayudhamuttamam.
+= shield and javelin, axe and noose, lance and trident, and the excellent bow Sharnga.
++ ढाल, तोमर, फरसा, पाश, भाला, त्रिशूल और उत्तम शार्ङ्ग धनुष धारण करती हैं।
+
+---
+दैत्यानां देहनाशाय भक्तानामभयाय च।
+धारयन्त्यायुधानीत्थं देवानां च हिताय वै॥
+~ Daityanam dehanashaya bhaktanamabhayaya cha,
+~ Dharayantyayudhanittham devanam cha hitaya vai.
+= They bear these weapons to destroy the bodies of demons, to free devotees from fear, and for the good of the gods.
++ वे दैत्यों के शरीर का नाश करने, भक्तों को अभय देने और देवताओं के हित के लिए इस प्रकार अस्त्र धारण करती हैं।
+
+---
+नमस्तेऽस्तु महारौद्रे महाघोरपराक्रमे।
+महाबले महोत्साहे महाभयविनाशिनि॥
+~ Namaste’stu maharaudre mahaghoraparakrame,
+~ Mahabale mahotsahe mahabhayavinashini.
+= Salutation to you, most fierce one, of terrible valour, of great strength and great energy, destroyer of great fear.
++ हे महारौद्ररूपिणी, अत्यन्त घोर पराक्रम वाली, महान बल और महान उत्साह वाली, बड़े से बड़े भय का नाश करने वाली, आपको नमस्कार है।
+
+---
+त्राहि मां देवि दुष्प्रेक्ष्ये शत्रूणां भयवर्धिनि।
+प्राच्यां रक्षतु मामैन्द्री आग्नेय्यामग्निदेवता॥
+~ Trahi mam devi dushprekshye shatrunam bhayavardhini,
+~ Prachyam rakshatu mamaindri agneyyamagnidevata.
+= Save me, Goddess, too dazzling to look upon, who increase the fear of enemies. In the east may Aindri protect me, in the south-east Agni’s goddess.
++ हे देवी, जिनकी ओर देखना भी कठिन है और जो शत्रुओं का भय बढ़ाती हैं, मेरी रक्षा करो। पूर्व दिशा में ऐन्द्री और आग्नेय कोण में अग्निदेवता मेरी रक्षा करें।
+
+---
+दक्षिणेऽवतु वाराही नैर्ऋत्यां खड्गधारिणी।
+प्रतीच्यां वारुणी रक्षेद् वायव्यां मृगवाहिनी॥
+~ Dakshine’vatu varahi nairrityam khadgadharini,
+~ Pratichyam varuni rakshed vayavyam mrigavahini.
+= In the south may Varahi guard me, in the south-west the sword-bearer; in the west Varuni, and in the north-west she who rides the deer.
++ दक्षिण में वाराही, नैऋत्य कोण में खड्गधारिणी, पश्चिम में वारुणी और वायव्य कोण में मृग पर सवार देवी मेरी रक्षा करें।
+
+---
+उदीच्यां पातु कौमारी ऐशान्यां शूलधारिणी।
+ऊर्ध्वं ब्रह्माणि मे रक्षेदधस्ताद् वैष्णवी तथा॥
+~ Udichyam patu kaumari aishanyam shuladharini,
+~ Urdhvam brahmani me rakshedadhastad vaishnavi tatha.
+= In the north may Kaumari protect me, in the north-east the trident-bearer; above me Brahmani, and below Vaishnavi.
++ उत्तर में कौमारी, ईशान कोण में शूलधारिणी, ऊपर ब्रह्माणी और नीचे वैष्णवी मेरी रक्षा करें।
+
+---
+एवं दश दिशो रक्षेच्चामुण्डा शववाहना।
+जया मे चाग्रतः पातु विजया पातु पृष्ठतः॥
+~ Evam dasha disho rakshechchamunda shavavahana,
+~ Jaya me chagratah patu vijaya patu prishthatah.
+= So may Chamunda, who rides a corpse, guard the ten directions. May Jaya protect me in front and Vijaya behind.
++ इस प्रकार शव पर सवार चामुण्डा दसों दिशाओं में मेरी रक्षा करें। जया आगे से और विजया पीछे से मेरी रक्षा करें।
+
+---
+अजिता वामपार्श्वे तु दक्षिणे चापराजिता।
+शिखामुद्योतिनि रक्षेदुमा मूर्ध्नि व्यवस्थिता॥
+~ Ajita vamaparshve tu dakshine chaparajita,
+~ Shikhamudyotini raksheduma murdhni vyavasthita.
+= Ajita on my left side and Aparajita on my right. May Udyotini guard my topknot, and Uma, seated on my head, guard my head.
++ बाईं ओर अजिता और दाईं ओर अपराजिता रक्षा करें। उद्योतिनी मेरी शिखा की रक्षा करें और उमा मेरे मस्तक पर स्थित होकर रक्षा करें।
+
+---
+मालाधरी ललाटे च भ्रुवौ रक्षेद् यशस्विनी।
+त्रिनेत्रा च भ्रुवोर्मध्ये यमघण्टा च नासिके॥
+~ Maladhari lalate cha bhruvau rakshed yashasvini,
+~ Trinetra cha bhruvormadhye yamaghanta cha nasike.
+= Maladhari my forehead, Yashasvini my brows; Trinetra the space between the brows, and Yamaghanta my nose.
++ ललाट में मालाधरी, भौंहों की यशस्विनी, भौंहों के बीच में त्रिनेत्रा और नासिका की यमघण्टा रक्षा करें।
+
+---
+शङ्खिनी चक्षुषोर्मध्ये श्रोत्रयोर्द्वारवासिनी।
+कपोलौ कालिका रक्षेत्कर्णमूले तु शाङ्करी॥
+~ Shankhini chakshushormadhye shrotrayordvaravasini,
+~ Kapolau kalika rakshetkarnamule tu shankari.
+= Shankhini the space between my eyes, Dvaravasini my ears; may Kalika guard my cheeks, and Shankari the roots of my ears.
++ दोनों नेत्रों के बीच में शंखिनी, कानों में द्वारवासिनी, कपोलों की कालिका और कानों के मूल भाग की शांकरी रक्षा करें।
+
+---
+नासिकायां सुगन्धा च उत्तरोष्ठे च चर्चिका।
+अधरे चामृतकला जिह्वायां च सरस्वती॥
+~ Nasikayam sugandha cha uttaroshthe cha charchika,
+~ Adhare chamritakala jihvayam cha sarasvati.
+= Sugandha my nostrils, Charchika my upper lip, Amritakala my lower lip and Sarasvati my tongue.
++ नासिका में सुगन्धा, ऊपर के होंठ में चर्चिका, नीचे के होंठ में अमृतकला और जिह्वा में सरस्वती रक्षा करें।
+
+---
+दन्तान् रक्षतु कौमारी कण्ठदेशे तु चण्डिका।
+घण्टिकां चित्रघण्टा च महामाया च तालुके॥
+~ Dantan rakshatu kaumari kanthadeshe tu chandika,
+~ Ghantikam chitraghanta cha mahamaya cha taluke.
+= May Kaumari guard my teeth and Chandika my throat; Chitraghanta the uvula, and Mahamaya the palate.
++ कौमारी दाँतों की और चण्डिका कण्ठ की रक्षा करें। चित्रघण्टा गले की घाँटी की और महामाया तालु की रक्षा करें।
+
+---
+कामाक्षी चिबुकं रक्षेद् वाचं मे सर्वमङ्गला।
+ग्रीवायां भद्रकाली च पृष्ठवंशे धनुर्धरी॥
+~ Kamakshi chibukam rakshed vacham me sarvamangala,
+~ Grivayam bhadrakali cha prishthavamshe dhanurdhari.
+= May Kamakshi guard my chin and Sarvamangala my speech; Bhadrakali my neck and Dhanurdhari my spine.
++ कामाक्षी ठोड़ी की और सर्वमंगला मेरी वाणी की रक्षा करें। गर्दन में भद्रकाली और पीठ की रीढ़ में धनुर्धरी रक्षा करें।
+
+---
+नीलग्रीवा बहिःकण्ठे नलिकां नलकूबरी।
+स्कन्धयोः खड्गिनी रक्षेद् बाहू मे वज्रधारिणी॥
+~ Nilagriva bahihkanthe nalikam nalakubari,
+~ Skandhayoh khadgini rakshed bahu me vajradharini.
+= Nilagriva the outside of my throat, Nalakubari my windpipe; may Khadgini guard my shoulders and Vajradharini my arms.
++ कण्ठ के बाहरी भाग में नीलग्रीवा, कण्ठ की नली में नलकूबरी, दोनों कन्धों में खड्गिनी और मेरी भुजाओं की वज्रधारिणी रक्षा करें।
+
+---
+हस्तयोर्दण्डिनी रक्षेदम्बिका चाङ्गुलीषु च।
+नखाञ्छूलेश्वरी रक्षेत्कुक्षौ रक्षेत्कुलेश्वरी॥
+~ Hastayordandini rakshedambika changulishu cha,
+~ Nakhanchhuleshvari rakshetkukshau rakshetkuleshvari.
+= May Dandini guard my hands and Ambika my fingers; Shuleshvari my nails, and Kuleshvari my belly.
++ दोनों हाथों में दण्डिनी और उँगलियों में अम्बिका रक्षा करें। शूलेश्वरी नखों की और कुलेश्वरी पेट की रक्षा करें।
+
+---
+स्तनौ रक्षेन्महादेवी मनःशोकविनाशिनी।
+हृदये ललिता देवी उदरे शूलधारिणी॥
+~ Stanau rakshenmahadevi manahshokavinashini,
+~ Hridaye lalita devi udare shuladharini.
+= May Mahadevi guard the breast and Manahshokavinashini the mind; the goddess Lalita my heart, and Shuladharini my abdomen.
++ महादेवी स्तनों की और मन के शोक का नाश करने वाली देवी मन की रक्षा करें। हृदय में ललिता देवी और उदर में शूलधारिणी रक्षा करें।
+
+---
+नाभौ च कामिनी रक्षेद् गुह्यं गुह्येश्वरी तथा।
+पूतना कामिका मेढ्रं गुदे महिषवाहिनी॥
+~ Nabhau cha kamini rakshed guhyam guhyeshvari tatha,
+~ Putana kamika medhram gude mahishavahini.
+= May Kamini guard my navel and Guhyeshvari my private parts; Putana and Kamika the organ of generation, and Mahishavahini the anus.
++ नाभि में कामिनी और गुह्य भाग की गुह्येश्वरी रक्षा करें। पूतना और कामिका लिंग की तथा महिषवाहिनी गुदा की रक्षा करें।
+
+---
+कट्यां भगवती रक्षेज्जानुनी विन्ध्यवासिनी।
+जङ्घे महाबला रक्षेत्सर्वकामप्रदायिनी॥
+~ Katyam bhagavati rakshejjanuni vindhyavasini,
+~ Janghe mahabala rakshetsarvakamapradayini.
+= May Bhagavati guard my waist and Vindhyavasini my knees; may Mahabala, who grants every wish, guard my shins.
++ कमर में भगवती और घुटनों में विन्ध्यवासिनी रक्षा करें। सब कामनाएँ पूरी करने वाली महाबला पिंडलियों की रक्षा करें।
+
+---
+गुल्फयोर्नारसिंही च पादपृष्ठे तु तैजसी।
+पादाङ्गुलीषु श्री रक्षेत्पादाधस्तलवासिनी॥
+~ Gulphayornarasimhi cha padaprishthe tu taijasi,
+~ Padangulishu shri rakshetpadadhastalavasini.
+= Narasimhi my ankles and Taijasi the tops of my feet; may Shri guard my toes, and Talavasini the soles of my feet.
++ टखनों में नारसिंही और पैरों के ऊपरी भाग में तैजसी रक्षा करें। पैरों की उँगलियों में श्री और तलवों में तलवासिनी रक्षा करें।
+
+---
+नखान् दंष्ट्राकराली च केशांश्चैवोर्ध्वकेशिनी।
+रोमकूपेषु कौबेरी त्वचं वागीश्वरी तथा॥
+~ Nakhan damshtrakarali cha keshamshchaivordhvakeshini,
+~ Romakupeshu kauberi tvacham vagishvari tatha.
+= Damshtrakarali my nails and Urdhvakeshini my hair; Kauberi the pores of my skin, and Vagishvari my skin.
++ नखों की दंष्ट्राकराली, केशों की ऊर्ध्वकेशिनी, रोमकूपों की कौबेरी और त्वचा की वागीश्वरी रक्षा करें।
+
+---
+रक्तमज्जावसामांसान्यस्थिमेदांसि पार्वती।
+अन्त्राणि कालरात्रिश्च पित्तं च मुकुटेश्वरी॥
+~ Raktamajjavasamamsanyasthimedamsi parvati,
+~ Antrani kalaratrishcha pittam cha mukuteshvari.
+= May Parvati guard my blood, marrow, fat, flesh, bones and fat tissue; Kalaratri my intestines, and Mukuteshvari my bile.
++ पार्वती रक्त, मज्जा, वसा, मांस, हड्डी और मेद की रक्षा करें। आँतों की कालरात्रि और पित्त की मुकुटेश्वरी रक्षा करें।
+
+---
+पद्मावती पद्मकोशे कफे चूडामणिस्तथा।
+ज्वालामुखी नखज्वालामभेद्या सर्वसन्धिषु॥
+~ Padmavati padmakoshe kaphe chudamanistatha,
+~ Jvalamukhi nakhajvalamabhedya sarvasandhishu.
+= Padmavati the lotus of the heart, Chudamani the phlegm; Jvalamukhi the glow of my nails, and Abhedya all my joints.
++ पद्मावती हृदयकमल की, चूड़ामणि कफ की, ज्वालामुखी नखों के तेज की और अभेद्या सभी जोड़ों की रक्षा करें।
+
+---
+शुक्रं ब्रह्माणि मे रक्षेच्छायां छत्रेश्वरी तथा।
+अहंकारं मनो बुद्धिं रक्षेन्मे धर्मधारिणी॥
+~ Shukram brahmani me rakshechchhayam chhatreshvari tatha,
+~ Ahamkaram mano buddhim rakshenme dharmadharini.
+= May Brahmani guard my seed and Chhatreshvari my shadow; may Dharmadharini guard my sense of self, my mind and my understanding.
++ ब्रह्माणी मेरे वीर्य की और छत्रेश्वरी मेरी छाया की रक्षा करें। धर्मधारिणी मेरे अहंकार, मन और बुद्धि की रक्षा करें।
+
+---
+प्राणापानौ तथा व्यानमुदानं च समानकम्।
+वज्रहस्ता च मे रक्षेत्प्राणं कल्याणशोभना॥
+~ Pranapanau tatha vyanamudanam cha samanakam,
+~ Vajrahasta cha me rakshetpranam kalyanashobhana.
+= May Vajrahasta guard my breaths, prana, apana, vyana, udana and samana, and Kalyanashobhana my life itself.
++ वज्रहस्ता मेरे प्राण, अपान, व्यान, उदान और समान वायु की रक्षा करें, और कल्याणशोभना मेरे प्राण की रक्षा करें।
+
+---
+रसे रूपे च गन्धे च शब्दे स्पर्शे च योगिनी।
+सत्त्वं रजस्तमश्चैव रक्षेन्नारायणी सदा॥
+~ Rase rupe cha gandhe cha shabde sparshe cha yogini,
+~ Sattvam rajastamashchaiva rakshennarayani sada.
+= May Yogini guard me in taste, form, smell, sound and touch, and may Narayani always guard the qualities of sattva, rajas and tamas.
++ रस, रूप, गन्ध, शब्द और स्पर्श के अनुभव में योगिनी रक्षा करें, और सत्त्व, रज और तम गुणों की नारायणी सदा रक्षा करें।
+
+---
+आयू रक्षतु वाराही धर्मं रक्षतु वैष्णवी।
+यशः कीर्तिं च लक्ष्मीं च धनं विद्यां च चक्रिणी॥
+~ Ayu rakshatu varahi dharmam rakshatu vaishnavi,
+~ Yashah kirtim cha lakshmim cha dhanam vidyam cha chakrini.
+= May Varahi guard my lifespan and Vaishnavi my dharma; may Chakrini guard my good name, fame, fortune, wealth and learning.
++ वाराही आयु की और वैष्णवी धर्म की रक्षा करें। चक्रिणी यश, कीर्ति, लक्ष्मी, धन और विद्या की रक्षा करें।
+
+---
+गोत्रमिन्द्राणि मे रक्षेत्पशून्मे रक्ष चण्डिके।
+पुत्रान् रक्षेन्महालक्ष्मीर्भार्यां रक्षतु भैरवी॥
+~ Gotramindrani me rakshetpashunme raksha chandike,
+~ Putran rakshenmahalakshmirbharyam rakshatu bhairavi.
+= May Indrani guard my lineage; Chandika, guard my cattle. May Mahalakshmi guard my children and Bhairavi my wife.
++ इन्द्राणी मेरे गोत्र की रक्षा करें; हे चण्डिके, मेरे पशुओं की रक्षा करो। महालक्ष्मी पुत्रों की और भैरवी पत्नी की रक्षा करें।
+
+---
+पन्थानं सुपथा रक्षेन्मार्गं क्षेमकरी तथा।
+राजद्वारे महालक्ष्मीर्विजया सर्वतः स्थिता॥
+~ Panthanam supatha rakshenmargam kshemakari tatha,
+~ Rajadvare mahalakshmirvijaya sarvatah sthita.
+= May Supatha guard my path and Kshemakari my way; Mahalakshmi at the king’s court, and Vijaya, present everywhere, on every side.
++ सुपथा मेरे पथ की और क्षेमकरी मार्ग की रक्षा करें। राजदरबार में महालक्ष्मी और सब ओर स्थित विजया सब भयों से रक्षा करें।
+
+---
+रक्षाहीनं तु यत्स्थानं वर्जितं कवचेन तु।
+तत्सर्वं रक्ष मे देवि जयन्ती पापनाशिनी॥
+~ Rakshahinam tu yatsthanam varjitam kavachena tu,
+~ Tatsarvam raksha me devi jayanti papanashini.
+= Whatever place is left unguarded, not covered by this armour, protect all of it for me, Goddess Jayanti, destroyer of sin.
++ जो स्थान रक्षा से रहित है और इस कवच में नहीं आया, हे पापों का नाश करने वाली जयन्ती देवी, उस सबकी मेरे लिए रक्षा करो।
+
+---
+पदमेकं न गच्छेत्तु यदीच्छेच्छुभमात्मनः।
+कवचेनावृतो नित्यं यत्र यत्रैव गच्छति॥
+~ Padamekam na gachchhettu yadichchhechchhubhamatmanah,
+~ Kavachenavrito nityam yatra yatraiva gachchhati.
+= One who wishes himself well should not take a single step without this armour. Covered always by it, wherever he goes,
++ जो अपना कल्याण चाहे, वह इस कवच के बिना एक पग भी न चले। कवच से सदा ढका हुआ मनुष्य जहाँ-जहाँ जाता है,
+
+---
+तत्र तत्रार्थलाभश्च विजयः सार्वकामिकः।
+यं यं चिन्तयते कामं तं तं प्राप्नोति निश्चितम्।
+परमैश्वर्यमतुलं प्राप्स्यते भूतले पुमान्॥
+~ Tatra tatrarthalabhashcha vijayah sarvakamikah,
+~ Yam yam chintayate kamam tam tam prapnoti nishchitam,
+~ Paramaishvaryamatulam prapsyate bhutale puman.
+= there he gains wealth and a victory that fulfils every wish. Whatever desire he thinks of, he surely attains, and on this earth he will win supreme and matchless prosperity.
++ वहाँ-वहाँ उसे धन का लाभ और सब कामनाओं को पूरा करने वाली विजय मिलती है। वह जिस-जिस कामना का चिन्तन करता है, उसे निश्चय ही पाता है, और पृथ्वी पर अतुलनीय परम ऐश्वर्य प्राप्त करता है।
+
+---
+निर्भयो जायते मर्त्यः संग्रामेष्वपराजितः।
+त्रैलोक्ये तु भवेत्पूज्यः कवचेनावृतः पुमान्॥
+~ Nirbhayo jayate martyah samgrameshvaparajitah,
+~ Trailokye tu bhavetpujyah kavachenavritah puman.
+= A mortal covered by this armour becomes fearless, unconquered in battle, and honoured in the three worlds.
++ इस कवच से ढका मनुष्य निर्भय हो जाता है, युद्धों में अपराजित रहता है और तीनों लोकों में पूजनीय होता है।
+
+---
+इदं तु देव्याः कवचं देवानामपि दुर्लभम्।
+यः पठेत्प्रयतो नित्यं त्रिसन्ध्यं श्रद्धयान्वितः॥
+~ Idam tu devyah kavacham devanamapi durlabham,
+~ Yah pathetprayato nityam trisandhyam shraddhayanvitah.
+= This armour of the Goddess is rare even for the gods. Whoever, self-controlled and full of faith, reads it daily at the three junctions of the day,
++ देवी का यह कवच देवताओं के लिए भी दुर्लभ है। जो संयमी होकर श्रद्धा के साथ इसका प्रतिदिन तीनों सन्ध्याओं में पाठ करता है,
+
+---
+दैवी कला भवेत्तस्य त्रैलोक्येष्वपराजितः।
+जीवेद् वर्षशतं साग्रमपमृत्युविवर्जितः॥
+~ Daivi kala bhavettasya trailokyeshvaparajitah,
+~ Jived varshashatam sagramapamrityuvivarjitah.
+= gains a share of divine power, is unconquered in the three worlds, and lives a full hundred years and more, free of untimely death.
++ उसे दैवी शक्ति प्राप्त होती है, वह तीनों लोकों में अपराजित रहता है और अकाल मृत्यु से रहित होकर सौ वर्ष से भी अधिक जीवित रहता है।
+
+---
+नश्यन्ति व्याधयः सर्वे लूताविस्फोटकादयः।
+स्थावरं जङ्गमं चैव कृत्रिमं चापि यद्विषम्॥
+~ Nashyanti vyadhayah sarve lutavisphotakadayah,
+~ Sthavaram jangamam chaiva kritrimam chapi yadvisham.
+= All his diseases perish, skin eruptions, boils and the like; and every poison, from plants, from creatures, or made by man;
++ उसके मकड़ी के विष, फोड़े-फुंसी आदि सभी रोग नष्ट हो जाते हैं। वनस्पतियों का, जीवों का और बनाया हुआ जो भी विष है,
+
+---
+अभिचाराणि सर्वाणि मन्त्रयन्त्राणि भूतले।
+भूचराः खेचराश्चैव जलजाश्चोपदेशिकाः॥
+~ Abhicharani sarvani mantrayantrani bhutale,
+~ Bhucharah khecharashchaiva jalajashchopadeshikah.
+= all sorcery, spells and charms on earth; spirits of the land, of the air and of the water, and those raised by instruction;
++ पृथ्वी पर जितने भी मारण आदि प्रयोग और मन्त्र-यन्त्र हैं, भूमि पर, आकाश में और जल में विचरने वाले तथा उपदेश से सिद्ध किए गए क्षुद्र देवता,
+
+---
+सहजा कुलजा माला डाकिनी शाकिनी तथा।
+अन्तरिक्षचरा घोरा डाकिन्यश्च महाबलाः॥
+~ Sahaja kulaja mala dakini shakini tatha,
+~ Antarikshachara ghora dakinyashcha mahabalah.
+= those born with a person, those of the family, the garland-diseases, the dakinis and shakinis, and the fearsome, mighty dakinis who roam the sky;
++ जन्म के साथ लगे, कुल से आए, माला रोग, डाकिनी और शाकिनी, तथा आकाश में विचरने वाली भयंकर और बलवान डाकिनियाँ,
+
+---
+ग्रहभूतपिशाचाश्च यक्षगन्धर्वराक्षसाः।
+ब्रह्मराक्षसवेतालाः कूष्माण्डा भैरवादयः॥
+~ Grahabhutapishachashcha yakshagandharvarakshasah,
+~ Brahmarakshasavetalah kushmanda bhairavadayah.
+= the seizing spirits, ghosts and pishachas, yakshas, gandharvas and rakshasas, brahmarakshasas, vetalas, kushmandas, bhairavas and the rest:
++ ग्रह, भूत, पिशाच, यक्ष, गन्धर्व, राक्षस, ब्रह्मराक्षस, वेताल, कूष्माण्ड और भैरव आदि,
+
+---
+नश्यन्ति दर्शनात्तस्य कवचे हृदि संस्थिते।
+मानोन्नतिर्भवेद् राज्ञस्तेजोवृद्धिकरं परम्॥
+~ Nashyanti darshanattasya kavache hridi samsthite,
+~ Manonnatirbhaved rajnastejovriddhikaram param.
+= they all perish at the very sight of one who holds this armour in his heart. He rises in honour with the king, and it greatly increases his radiance.
++ ये सब उस मनुष्य को देखते ही नष्ट हो जाते हैं जिसके हृदय में यह कवच स्थित है। राजा से उसका सम्मान बढ़ता है, और यह कवच उसके तेज को बहुत बढ़ाने वाला है।
+
+---
+यशसा वर्धते सोऽपि कीर्तिमण्डितभूतले।
+जपेत्सप्तशतीं चण्डीं कृत्वा तु कवचं पुरा॥
+~ Yashasa vardhate so’pi kirtimanditabhutale,
+~ Japetsaptashatim chandim kritva tu kavacham pura.
+= He grows in renown on an earth adorned with his fame. One should first recite this armour and then recite the Chandi of seven hundred verses.
++ वह पृथ्वी पर कीर्ति से सुशोभित होकर यश में बढ़ता है। पहले कवच का पाठ करके फिर सप्तशती चण्डी का जप करना चाहिए।
+
+---
+यावद्भूमण्डलं धत्ते सशैलवनकाननम्।
+तावत्तिष्ठति मेदिन्यां संततिः पुत्रपौत्रिकी॥
+~ Yavadbhumandalam dhatte sashailavanakananam,
+~ Tavattishthati medinyam samtatih putrapautriki.
+= As long as the earth bears its mountains, woods and forests, so long his line of sons and grandsons endures on the earth.
++ जब तक पृथ्वी पर्वत, वन और जंगलों को धारण करती है, तब तक उसकी पुत्र-पौत्रों वाली सन्तान-परम्परा पृथ्वी पर बनी रहती है।
+
+---
+देहान्ते परमं स्थानं यत्सुरैरपि दुर्लभम्।
+प्राप्नोति पुरुषो नित्यं महामायाप्रसादतः॥
+~ Dehante paramam sthanam yatsurairapi durlabham,
+~ Prapnoti purusho nityam mahamayaprasadatah.
+= At the end of the body, by the grace of Mahamaya, he reaches the supreme and eternal abode, hard even for the gods to win.
++ शरीर के अन्त में वह महामाया की कृपा से उस नित्य परम धाम को पाता है जो देवताओं के लिए भी दुर्लभ है।
+
+---
+लभते परमं रूपं शिवेन सह मोदते॥ ॐ॥
+~ Labhate paramam rupam shivena saha modate. Om.
+= He gains the supreme form and rejoices with Shiv.
++ वह परम रूप को पाता है और भगवान शिव के साथ आनन्द करता है।
